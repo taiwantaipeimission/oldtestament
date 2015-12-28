@@ -1,4 +1,4 @@
-==Genesis
+Genesis
 
 1:1 In the beginning God created the heaven and the earth.
 1:2 And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
@@ -1534,7 +1534,7 @@
 50:25 And Joseph took an oath of the children of Israel, saying, God will surely visit you, and ye shall carry up my bones from hence.
 50:26 So Joseph died, being an hundred and ten years old: and they embalmed him, and he was put in a coffin in Egypt.
 
-==Exodus
+Exodus
 
 1:1 Now these are the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.
 1:2 Reuben, Simeon, Levi, and Judah,
@@ -2749,7 +2749,7 @@
 40:37 But if the cloud were not taken up, then they journeyed not till the day that it was taken up.
 40:38 For the cloud of the LORD was upon the tabernacle by day, and fire was on it by night, in the sight of all the house of Israel, throughout all their journeys.
 
-==Leviticus
+Leviticus
 
 1:1 And the LORD called unto Moses, and spake unto him out of the tabernacle of the congregation, saying,
 1:2 Speak unto the children of Israel, and say unto them, If any man of you bring an offering unto the LORD, ye shall bring your offering of the cattle, even of the herd, and of the flock.
@@ -3611,7 +3611,7 @@
 27:33 He shall not search whether it be good or bad, neither shall he change it: and if he change it at all, then both it and the change thereof shall be holy; it shall not be redeemed.
 27:34 These are the commandments, which the LORD commanded Moses for the children of Israel in mount Sinai.
 
-==Numbers
+Numbers
 
 1:1 And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying,
 1:2 Take ye the sum of all the congregation of the children of Israel, after their families, by the house of their fathers, with the number of their names, every male by their polls;
@@ -4902,7 +4902,7 @@
 36:12 And they were married into the families of the sons of Manasseh the son of Joseph, and their inheritance remained in the tribe of the family of their father.
 36:13 These are the commandments and the judgments, which the LORD commanded by the hand of Moses unto the children of Israel in the plains of Moab by Jordan near Jericho.
 
-==Deuteronomy
+Deuteronomy
 
 1:1 These be the words which Moses spake unto all Israel on this side Jordan in the wilderness, in the plain over against the Red sea, between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab.
 1:2 (There are eleven days' journey from Horeb by the way of mount Seir unto Kadeshbarnea.) 
@@ -5864,7 +5864,7 @@
 34:11 In all the signs and the wonders, which the LORD sent him to do in the land of Egypt to Pharaoh, and to all his servants, and to all his land,
 34:12 And in all that mighty hand, and in all the great terror which Moses shewed in the sight of all Israel.
 
-==Joshua
+Joshua
 
 1:1 Now after the death of Moses the servant of the LORD it came to pass, that the LORD spake unto Joshua the son of Nun, Moses' minister, saying,
 1:2 Moses my servant is dead; now therefore arise, go over this Jordan, thou, and all this people, unto the land which I do give to them, even to the children of Israel.
@@ -6525,7 +6525,7 @@
 24:32 And the bones of Joseph, which the children of Israel brought up out of Egypt, buried they in Shechem, in a parcel of ground which Jacob bought of the sons of Hamor the father of Shechem for an hundred pieces of silver: and it became the inheritance of the children of Joseph.
 24:33 And Eleazar the son of Aaron died; and they buried him in a hill that pertained to Phinehas his son, which was given him in mount Ephraim.
 
-==Judges
+Judges
 
 1:1 Now after the death of Joshua it came to pass, that the children of Israel asked the LORD, saying, Who shall go up for us against the Canaanites first, to fight against them? 
 1:2 And the LORD said, Judah shall go up: behold, I have delivered the land into his hand.
@@ -7146,7 +7146,7 @@
 21:24 And the children of Israel departed thence at that time, every man to his tribe and to his family, and they went out from thence every man to his inheritance.
 21:25 In those days there was no king in Israel: every man did that which was right in his own eyes.
 
-==Ruth
+Ruth
 
 1:1 Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Bethlehemjudah went to sojourn in the country of Moab, he, and his wife, and his two sons.
 1:2 And the name of the man was Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Bethlehemjudah. And they came into the country of Moab, and continued there.
@@ -7234,7 +7234,7 @@
 4:21 And Salmon begat Boaz, and Boaz begat Obed,
 4:22 And Obed begat Jesse, and Jesse begat David.
 
-==1 Samuel
+1 Samuel
 
 1:1 Now there was a certain man of Ramathaimzophim, of mount Ephraim, and his name was Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephrathite:
 1:2 And he had two wives; the name of the one was Hannah, and the name of the other Peninnah: and Peninnah had children, but Hannah had no children.
@@ -8047,7 +8047,7 @@
 31:12 All the valiant men arose, and went all night, and took the body of Saul and the bodies of his sons from the wall of Bethshan, and came to Jabesh, and burnt them there.
 31:13 And they took their bones, and buried them under a tree at Jabesh, and fasted seven days.
 
-==2 Samuel
+2 Samuel
 
 1:1 Now it came to pass after the death of Saul, when David was returned from the slaughter of the Amalekites, and David had abode two days in Ziklag;
 1:2 It came even to pass on the third day, that, behold, a man came out of the camp from Saul with his clothes rent, and earth upon his head: and so it was, when he came to David, that he fell to the earth, and did obeisance.
@@ -8745,7 +8745,7 @@
 24:24 And the king said unto Araunah, Nay; but I will surely buy it of thee at a price: neither will I offer burnt offerings unto the LORD my God of that which doth cost me nothing. So David bought the threshingfloor and the oxen for fifty shekels of silver.
 24:25 And David built there an altar unto the LORD, and offered burnt offerings and peace offerings. So the LORD was intreated for the land, and the plague was stayed from Israel.
 
-==1 Kings
+1 Kings
 
 1:1 Now king David was old and stricken in years; and they covered him with clothes, but he gat no heat.
 1:2 Wherefore his servants said unto him, Let there be sought for my lord the king a young virgin: and let her stand before the king, and let her cherish him, and let her lie in thy bosom, that my lord the king may get heat.
@@ -9564,7 +9564,7 @@
 22:52 And he did evil in the sight of the LORD, and walked in the way of his father, and in the way of his mother, and in the way of Jeroboam the son of Nebat, who made Israel to sin:
 22:53 For he served Baal, and worshipped him, and provoked to anger the LORD God of Israel, according to all that his father had done.
 
-==2 Kings
+2 Kings
 
 1:1 Then Moab rebelled against Israel after the death of Ahab.
 1:2 And Ahaziah fell down through a lattice in his upper chamber that was in Samaria, and was sick: and he sent messengers, and said unto them, Go, enquire of Baalzebub the god of Ekron whether I shall recover of this disease.
@@ -10286,7 +10286,7 @@
 25:29 And changed his prison garments: and he did eat bread continually before him all the days of his life.
 25:30 And his allowance was a continual allowance given him of the king, a daily rate for every day, all the days of his life.
 
-==1 Chronicles
+1 Chronicles
 
 1:1 Adam, Sheth, Enosh,
 1:2 Kenan, Mahalaleel, Jered,
@@ -11231,7 +11231,7 @@
 29:29 Now the acts of David the king, first and last, behold, they are written in the book of Samuel the seer, and in the book of Nathan the prophet, and in the book of Gad the seer,
 29:30 With all his reign and his might, and the times that went over him, and over Israel, and over all the kingdoms of the countries.
 
-==2 Chronicles
+2 Chronicles
 
 1:1 And Solomon the son of David was strengthened in his kingdom, and the LORD his God was with him, and magnified him exceedingly.
 1:2 Then Solomon spake unto all Israel, to the captains of thousands and of hundreds, and to the judges, and to every governor in all Israel, the chief of the fathers.
@@ -12056,7 +12056,7 @@
 36:22 Now in the first year of Cyrus king of Persia, that the word of the LORD spoken by the mouth of Jeremiah might be accomplished, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,
 36:23 Thus saith Cyrus king of Persia, All the kingdoms of the earth hath the LORD God of heaven given me; and he hath charged me to build him an house in Jerusalem, which is in Judah. Who is there among you of all his people?  The LORD his God be with him, and let him go up.
 
-==Ezra
+Ezra
 
 1:1 Now in the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be fulfilled, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,
 1:2 Thus saith Cyrus king of Persia, The LORD God of heaven hath given me all the kingdoms of the earth; and he hath charged me to build him an house at Jerusalem, which is in Judah.
@@ -12339,7 +12339,7 @@
 10:43 Of the sons of Nebo; Jeiel, Mattithiah, Zabad, Zebina, Jadau, and Joel, Benaiah.
 10:44 All these had taken strange wives: and some of them had wives by whom they had children.
 
-==Nehemiah
+Nehemiah
 
 1:1 The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,
 1:2 That Hanani, one of my brethren, came, he and certain men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem.
@@ -12748,7 +12748,7 @@
 13:30 Thus cleansed I them from all strangers, and appointed the wards of the priests and the Levites, every one in his business;
 13:31 And for the wood offering, at times appointed, and for the firstfruits. Remember me, O my God, for good.
 
-==Esther
+Esther
 
 1:1 Now it came to pass in the days of Ahasuerus, (this is Ahasuerus which reigned, from India even unto Ethiopia, over an hundred and seven and twenty provinces:)
 1:2 That in those days, when the king Ahasuerus sat on the throne of his kingdom, which was in Shushan the palace,
@@ -12918,7 +12918,7 @@
 10:2 And all the acts of his power and of his might, and the declaration of the greatness of Mordecai, whereunto the king advanced him, are they not written in the book of the chronicles of the kings of Media and Persia? 
 10:3 For Mordecai the Jew was next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the wealth of his people, and speaking peace to all his seed.
 
-==Job
+Job
 
 1:1 There was a man in the land of Uz, whose name was Job; and that man was perfect and upright, and one that feared God, and eschewed evil.
 1:2 And there were born unto him seven sons and three daughters.
@@ -13991,7 +13991,7 @@
 42:16 After this lived Job an hundred and forty years, and saw his sons, and his sons' sons, even four generations.
 42:17 So Job died, being old and full of days.
 
-==Psalms
+Psalms
 
 1:1 Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.
 1:2 But his delight is in the law of the LORD; and in his law doth he meditate day and night.
@@ -16455,7 +16455,7 @@
 150:5 Praise him upon the loud cymbals: praise him upon the high sounding cymbals.
 150:6 Let every thing that hath breath praise the LORD. Praise ye the LORD.
 
-==Proverbs
+Proverbs
 
 1:1 The proverbs of Solomon the son of David, king of Israel;
 1:2 To know wisdom and instruction; to perceive the words of understanding;
@@ -17373,7 +17373,7 @@
 31:30 Favour is deceitful, and beauty is vain: but a woman that feareth the LORD, she shall be praised.
 31:31 Give her of the fruit of her hands; and let her own works praise her in the gates.
 
-==Ecclesiastes
+Ecclesiastes
 
 1:1 The words of the Preacher, the son of David, king in Jerusalem.
 1:2 Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity.
@@ -17598,7 +17598,7 @@
 12:13 Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.
 12:14 For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.
 
-==The Song of Solomon
+The Song of Solomon
 
 1:1 The song of songs, which is Solomon's.
 1:2 Let him kiss me with the kisses of his mouth: for thy love is better than wine.
@@ -17718,7 +17718,7 @@
 8:13 Thou that dwellest in the gardens, the companions hearken to thy voice: cause me to hear it.
 8:14 Make haste, my beloved, and be thou like to a roe or to a young hart upon the mountains of spices.
 
-==Isaiah
+Isaiah
 
 1:1 The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.
 1:2 Hear, O heavens, and give ear, O earth: for the LORD hath spoken, I have nourished and brought up children, and they have rebelled against me.
@@ -19013,7 +19013,7 @@
 66:23 And it shall come to pass, that from one new moon to another, and from one sabbath to another, shall all flesh come to worship before me, saith the LORD.
 66:24 And they shall go forth, and look upon the carcases of the men that have transgressed against me: for their worm shall not die, neither shall their fire be quenched; and they shall be an abhorring unto all flesh.
 
-==Jeremiah
+Jeremiah
 
 1:1 The words of Jeremiah the son of Hilkiah, of the priests that were in Anathoth in the land of Benjamin:
 1:2 To whom the word of the LORD came in the days of Josiah the son of Amon king of Judah, in the thirteenth year of his reign.
@@ -20380,7 +20380,7 @@
 52:33 And changed his prison garments: and he did continually eat bread before him all the days of his life.
 52:34 And for his diet, there was a continual diet given him of the king of Babylon, every day a portion until the day of his death, all the days of his life.
 
-==Lamentations
+Lamentations
 
 1:1 How doth the city sit solitary, that was full of people! how is she become as a widow! she that was great among the nations, and princess among the provinces, how is she become tributary! 
 1:2 She weepeth sore in the night, and her tears are on her cheeks: among all her lovers she hath none to comfort her: all her friends have dealt treacherously with her, they are become her enemies.
@@ -20537,7 +20537,7 @@
 5:21 Turn thou us unto thee, O LORD, and we shall be turned; renew our days as of old.
 5:22 But thou hast utterly rejected us; thou art very wroth against us.
 
-==Ezekiel
+Ezekiel
 
 1:1 Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river of Chebar, that the heavens were opened, and I saw visions of God.
 1:2 In the fifth day of the month, which was the fifth year of king Jehoiachin's captivity,
@@ -21813,7 +21813,7 @@
 48:34 At the west side four thousand and five hundred, with their three gates; one gate of Gad, one gate of Asher, one gate of Naphtali.
 48:35 It was round about eighteen thousand measures: and the name of the city from that day shall be, The LORD is there.
 
-==Daniel
+Daniel
 
 1:1 In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon unto Jerusalem, and besieged it.
 1:2 And the Lord gave Jehoiakim king of Judah into his hand, with part of the vessels of the house of God: which he carried into the land of Shinar to the house of his god; and he brought the vessels into the treasure house of his god.
@@ -22173,7 +22173,7 @@
 12:12 Blessed is he that waiteth, and cometh to the thousand three hundred and five and thirty days.
 12:13 But go thou thy way till the end be: for thou shalt rest, and stand in thy lot at the end of the days.
 
-==Hosea
+Hosea
 
 1:1 The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.
 1:2 The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, departing from the LORD.
@@ -22373,7 +22373,7 @@
 14:8 Ephraim shall say, What have I to do any more with idols? I have heard him, and observed him: I am like a green fir tree. From me is thy fruit found.
 14:9 Who is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the LORD are right, and the just shall walk in them: but the transgressors shall fall therein.
 
-==Joel
+Joel
 
 1:1 The word of the LORD that came to Joel the son of Pethuel.
 1:2 Hear this, ye old men, and give ear, all ye inhabitants of the land. Hath this been in your days, or even in the days of your fathers? 
@@ -22449,7 +22449,7 @@
 3:20 But Judah shall dwell for ever, and Jerusalem from generation to generation.
 3:21 For I will cleanse their blood that I have not cleansed: for the LORD dwelleth in Zion.
 
-==Amos
+Amos
 
 1:1 The words of Amos, who was among the herdmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the son of Joash king of Israel, two years before the earthquake.
 1:2 And he said, The LORD will roar from Zion, and utter his voice from Jerusalem; and the habitations of the shepherds shall mourn, and the top of Carmel shall wither.
@@ -22598,7 +22598,7 @@
 9:14 And I will bring again the captivity of my people of Israel, and they shall build the waste cities, and inhabit them; and they shall plant vineyards, and drink the wine thereof; they shall also make gardens, and eat the fruit of them.
 9:15 And I will plant them upon their land, and they shall no more be pulled up out of their land which I have given them, saith the LORD thy God.
 
-==Obadiah
+Obadiah
 
 1:1 The vision of Obadiah. Thus saith the Lord GOD concerning Edom; We have heard a rumour from the LORD, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.
 1:2 Behold, I have made thee small among the heathen: thou art greatly despised.
@@ -22622,7 +22622,7 @@
 1:20 And the captivity of this host of the children of Israel shall possess that of the Canaanites, even unto Zarephath; and the captivity of Jerusalem, which is in Sepharad, shall possess the cities of the south.
 1:21 And saviours shall come up on mount Zion to judge the mount of Esau; and the kingdom shall be the LORD's.
 
-==Jonah
+Jonah
 
 1:1 Now the word of the LORD came unto Jonah the son of Amittai, saying,
 1:2 Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.
@@ -22673,7 +22673,7 @@
 4:10 Then said the LORD, Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night:
 4:11 And should not I spare Nineveh, that great city, wherein are more then sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?
 
-==Micah
+Micah
 
 1:1 The word of the LORD that came to Micah the Morasthite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.
 1:2 Hear, all ye people; hearken, O earth, and all that therein is: and let the Lord GOD be witness against you, the LORD from his holy temple.
@@ -22781,7 +22781,7 @@
 7:19 He will turn again, he will have compassion upon us; he will subdue our iniquities; and thou wilt cast all their sins into the depths of the sea.
 7:20 Thou wilt perform the truth to Jacob, and the mercy to Abraham, which thou hast sworn unto our fathers from the days of old.
 
-==Nahum
+Nahum
 
 1:1 The burden of Nineveh. The book of the vision of Nahum the Elkoshite.
 1:2 God is jealous, and the LORD revengeth; the LORD revengeth, and is furious; the LORD will take vengeance on his adversaries, and he reserveth wrath for his enemies.
@@ -22831,7 +22831,7 @@
 3:18 Thy shepherds slumber, O king of Assyria: thy nobles shall dwell in the dust: thy people is scattered upon the mountains, and no man gathereth them.
 3:19 There is no healing of thy bruise; thy wound is grievous: all that hear the bruit of thee shall clap the hands over thee: for upon whom hath not thy wickedness passed continually?
 
-==Habakkuk
+Habakkuk
 
 1:1 The burden which Habakkuk the prophet did see.
 1:2 O LORD, how long shall I cry, and thou wilt not hear! even cry out unto thee of violence, and thou wilt not save! 
@@ -22890,7 +22890,7 @@
 3:18 Yet I will rejoice in the LORD, I will joy in the God of my salvation.
 3:19 The LORD God is my strength, and he will make my feet like hinds' feet, and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.
 
-==Zephaniah
+Zephaniah
 
 1:1 The word of the LORD which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah.
 1:2 I will utterly consume all things from off the land, saith the LORD.
@@ -22946,7 +22946,7 @@
 3:19 Behold, at that time I will undo all that afflict thee: and I will save her that halteth, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame.
 3:20 At that time will I bring you again, even in the time that I gather you: for I will make you a name and a praise among all people of the earth, when I turn back your captivity before your eyes, saith the LORD.
 
-==Haggai
+Haggai
 
 1:1 In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the LORD by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying,
 1:2 Thus speaketh the LORD of hosts, saying, This people say, The time is not come, the time that the LORD's house should be built.
@@ -22987,7 +22987,7 @@
 2:22 And I will overthrow the throne of kingdoms, and I will destroy the strength of the kingdoms of the heathen; and I will overthrow the chariots, and those that ride in them; and the horses and their riders shall come down, every one by the sword of his brother.
 2:23 In that day, saith the LORD of hosts, will I take thee, O Zerubbabel, my servant, the son of Shealtiel, saith the LORD, and will make thee as a signet: for I have chosen thee, saith the LORD of hosts.
 
-==Zechariah
+Zechariah
 
 1:1 In the eighth month, in the second year of Darius, came the word of the LORD unto Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,
 1:2 The LORD hath been sore displeased with your fathers.
@@ -23201,7 +23201,7 @@
 14:20 In that day shall there be upon the bells of the horses, HOLINESS UNTO THE LORD; and the pots in the LORD's house shall be like the bowls before the altar.
 14:21 Yea, every pot in Jerusalem and in Judah shall be holiness unto the LORD of hosts: and all they that sacrifice shall come and take of them, and seethe therein: and in that day there shall be no more the Canaanite in the house of the LORD of hosts.
 
-==Malachi
+Malachi
 
 1:1 The burden of the word of the LORD to Israel by Malachi.
 1:2 I have loved you, saith the LORD. Yet ye say, Wherein hast thou loved us? Was not Esau Jacob's brother? saith the LORD: yet I loved Jacob,
