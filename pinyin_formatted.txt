@@ -1,9 +1,9 @@
-<Html>
-<head>
-<meta http-equiv=Content-Type content="text/html; charset=utf8">
-</head>
-<body lang=EN-US link="#0563C1" vlink="#954F72">
-<div class=WordSection1>
+
+
+
+
+
+
 
 chuàngshì jì
 
@@ -1995,6 +1995,7 @@ Dì shí zhāng
 27 Dàn yēhéhuá shǐ fǎ lǎo de xīn gāng yìng, bù kěn róng tāmen qù.
 28 Fǎ lǎo duì <u>móxī </u>shuō:`Nǐ líkāi wǒ qù ba! Nǐ yào xiǎoxīn, bùyào zàijiàn wǒ de miàn, yīnwèi nǐ jiàn wǒ miàn dì nà rì, nǐ jiù bìsǐ!'
 29 <U>móxī </u>shuō:`Nǐ shuō dé hǎo, wǒ bì bù zàijiàn nǐ de miànle.'
+
 Dì shíyī zhāng
 
 1 yēhéhuá duì <u>móxī </u>shuō:`Wǒ zài shǐ yīyàng de zāiyāng líndào fǎlǎo hé <u>āijí </u>, ránhòu tā bì róng nǐmen líkāi zhè de. Tā róng nǐmen qù de shíhòu, zǒng yào cuībī nǐmen dōu cóng zhè dì chūqù.
@@ -10003,7 +10004,10 @@ Dì jiǔ zhāng
 25 <U>suǒluómén </u>měinián sāncì zài tā wèi yēhéhuá suǒ zhú de tánshàng xiàn fánjì hé píng'ān jì, yòu zài yēhéhuá miànqián de tánshàng shāoxiāng. Zhèyàng, tā jiànzào diàn de gōngchéng wánbìle.
 26 <U>suǒluómén </u>wáng zài <u>yǐ dōng </u>de,<u>hóng </u>hǎibiān, kàojìn <u>yǐ lù </u>de <u>yǐ xún jiā bié </u>zhìzào chuánzhī.
 27 <U>xī lán </u>chāiqiǎn tā de pú rén, jiùshì shúxī fàn hǎi de chuánjiā, yǔ <u>suǒluómén </u>de pú rén yītóng zuò chuán hánghǎi.
-28 Tāmen dàole <u>é fěi </u>, cóng nàlǐ déliǎo sìbǎi èrshí tā lián dé jīnzi, yùn dào <u>suǒluómén </u>wáng nàlǐ. Dì shí zhāng
+28 Tāmen dàole <u>é fěi </u>, cóng nàlǐ déliǎo sìbǎi èrshí tā lián dé jīnzi, yùn dào <u>suǒluómén </u>wáng nàlǐ.
+
+Dì shí zhāng
+
 1 <u>shì bā </u>nǚwáng tīngjiàn <u>suǒluómén </u>yīn yēhéhuá zhī míng suǒdé de míngshēng, jiù lái yào yòng nánjiě dehuà shìwèn <u>suǒluómén </u>.
 2 Gēnsuí tā dào <u>yēlùsālěng </u>de rén shén duō, yòu yǒu luòtuó tuózhe xiāngliào, bǎoshí hé xǔduō jīnzi. Tā lái jiànle <u>suǒluómén </u>wáng, jiù bǎ xīnlǐ suǒyǒu de duì <u>suǒluómén </u>dōu shuō chūlái.
 3 <U>suǒluómén </u>wángjiāng tāsuǒ wèn de dōu dá shàngle, méiyǒuyījù bù míngbái bu néng dá de.
@@ -10032,7 +10036,10 @@ Dì jiǔ zhāng
 26 <U>suǒluómén </u>jùjí zhàn chē mǎ bīng, yǒu zhàn chē yīqiān sìbǎi liàng, mǎ bīng yī wàn èrqiān míng, ānzhì zài tún chē de chéng yì hé <u>yēlùsālěng </u>, jiùshì wáng nàlǐ.
 27 Wáng zài <u>yēlùsālěng </u>shǐ yínzi duō rú shítou, xiāng bǎimù duō rú gāoyuán de sāngshù.
 28 <U>suǒluómén </u>de mǎ shì cóng <u>āijí </u>dài lái de, shì wáng de shāngrén yīqún yīqún ànzhe dìngjià mǎi lái de.
-29 Cóng <u>āijí </u>mǎi lái de jū, měi liàng jià yín liùbǎi shě kè lēi, mǎ měi pǐ yībǎi wǔshí shě kè lēi.<U>hè </u>rén zhūwáng hé <u>yà lán </u>zhūwáng suǒ mǎi de jū mǎ, yěshì àn zhè jiàzhí jīng tāmen shǒu mǎi lái de. Dì shíyī zhāng
+29 Cóng <u>āijí </u>mǎi lái de jū, měi liàng jià yín liùbǎi shě kè lēi, mǎ měi pǐ yībǎi wǔshí shě kè lēi.<U>hè </u>rén zhūwáng hé <u>yà lán </u>zhūwáng suǒ mǎi de jū mǎ, yěshì àn zhè jiàzhí jīng tāmen shǒu mǎi lái de.
+
+Dì shíyī zhāng
+
 1 <u>suǒluómén </u>wáng zài fǎlǎo de nǚ'ér zhī wài, yòu chǒng'ài xǔduō wài bāng nǚzǐ, jiùshì <u>mó yā </u>nǚzǐ,<u>yà mén </u>nǚzǐ,<u>yǐ dōng </u>nǚzǐ,<u>xī dùn </u>nǚzǐ,<u>hè </u>rén nǚzǐ.
 2 Lùn dào zhèxiē guó de rén, yēhéhuá céng xiǎoyù <u>yǐsèliè </u>rén shuō:`Nǐmen bùkě yǔ tāmen wǎnglái xiāngtōng, yīnwèi tāmen bì yòuhuò nǐmen de xīn qù suícóng tāmen de shén.'<U>suǒluómén </u>què liàn'ài zhèxiē nǚzǐ.
 3 <U>suǒluómén </u>yǒu fēi qībǎi, dōu shì gōngzhǔ, hái yǒu pín sānbǎi, zhèxiē fēipín yòuhuò tā de xīn.
@@ -10075,7 +10082,10 @@ Dì jiǔ zhāng
 40 <U>suǒluómén </u>yīncǐ xiǎng yào shā <u>yé luóbō'ān </u>,<u>yé luóbō'ān </u>què qǐshēn táo wǎng <u>āijí </u>, dàole <u>āijí </u>wáng <u>shì sā </u>nàlǐ, jiù zhù zài <u>āijí </u>, zhídào <u>suǒluómén </u>sǐle.
 41 <U>suǒluómén </u>qíyú de shì, fán tāsuǒ xíng de hé tā de zhìhuì dōu xiě zài “<u>suǒluómén </u>jì” shàng.
 42 <U>suǒluómén </u>zài <u>yēlùsālěng </u>zuò <u>yǐsèliè </u>zhòngrén de wáng gòng sìshí nián.
-43 <U>suǒluómén </u>yǔ tā liè zǔ tóng shuì, zàng zài tā fùqīn <u>dà wèi </u>de chéng lǐ. Tā érzi <u>luóbō'ān </u>jiēxù tā zuò wáng. Dì shí'èr zhāng
+43 <U>suǒluómén </u>yǔ tā liè zǔ tóng shuì, zàng zài tā fùqīn <u>dà wèi </u>de chéng lǐ. Tā érzi <u>luóbō'ān </u>jiēxù tā zuò wáng.
+
+Dì shí'èr zhāng
+
 1 <u>luóbō'ān </u>wǎng <u>shì jiàn </u>qù, yīnwèi <u>yǐsèliè </u>rén dōu dàole <u>shì jiàn </u>, yào lì tā zuò wáng.
 2 <U>ní bā </u>de érzi <u>yé luóbō'ān </u>xiānqián duǒbì <u>suǒluómén </u>wáng, táo wǎng <u>āijí </u>, zhù zài nàlǐ, tā tīngjiàn zhè shì.
 3 <U>yǐsèliè </u>rén dǎfā rén qù qǐng tā lái, tā jiù hé <u>yǐsèliè </u>huìzhòng dōu lái jiàn <u>luóbō'ān </u>, duì tā shuō:
@@ -10108,7 +10118,10 @@ Dì jiǔ zhāng
 30 Zhè shì jiào bǎixìng xiànzài zuì lǐ, yīnwèi tāmen wǎng <u>dàn </u>qù bài nà niúdú.
 31 <U>yé luóbō'ān </u>zài qiū tán nàlǐ jiàn diàn, jiāng nà bù shǔ <u>lì wèi </u>rén de fán mín lì wèi jìsī.
 32 <U>yé luóbō'ān </u>dìng bā yuè shíwǔ rì wèi jié qí, xiàng zài <u>yóudà </u>de jié qí yīyàng, zìjǐ shàng tán xiàn jì. Tā zài <u>bó tè lì </u>yě zhèyàng xiàng tāsuǒ zhù de niúdú xiàn jì, yòu jiāng lì wèi qiū tán de jìsī ānzhì zài <u>bó tè lì </u>.
-33 Tā zài bā yuè shíwǔ rì, jiùshì tā sīzì suǒdìng de yuè rì, wèi <u>yǐsèliè </u>rén lì zuò jié qí de rìzi, zài <u>bó tè lì </u>shàng tán shāoxiāng. Dì shísān zhāng
+33 Tā zài bā yuè shíwǔ rì, jiùshì tā sīzì suǒdìng de yuè rì, wèi <u>yǐsèliè </u>rén lì zuò jié qí de rìzi, zài <u>bó tè lì </u>shàng tán shāoxiāng.
+
+Dì shísān zhāng
+
 1 nà shí, yǒuyīgè shén rén fèng yēhéhuá de mìng cóng <u>yóudà </u>lái dào <u>bó tè lì </u>,<u>yé luóbō'ān </u>zhèng zhàn zài tán páng yào shāoxiāng.
 2 Shén rén fèng yēhéhuá de mìng xiàng tán hūjiào, shuō:`Tán nǎ, tán nǎ! Yēhéhuá rúcǐ shuō:“<U>dà wèi </u>jiālǐ bì shēng yīgè er zi, míng jiào <u>yuē xī yǎ </u>, tā bì jiāng qiū tán de jìsī, jiùshì zài nǐ shàngmiàn shāoxiāng de, shā zài nǐ shàngmiàn, rén de gǔtou yě bìshāo zài nǐ shàngmiàn.”'
 3 Dāngrì, shén rén shè gè yùzhào, shuō:`Zhè tán bì pòliè, tánshàng de huī bì qīng sā, zhè shì yēhéhuá shuō de yùzhào.'
@@ -10142,7 +10155,10 @@ Dì jiǔ zhāng
 31 Ānzàng zhīhòu, lǎo xiānzhī duì tā érzimen shuō:`Wǒ sǐle, nǐmen yào zàng wǒ zài shén rén de fénmù lǐ, shǐ wǒ de shīgǔ kàojìn tā de shīgǔ,
 32 yīnwèi tā fèng yēhéhuá de mìng, zhǐzhe <u>bó tè lì </u>de tán hé <u>sā mǎlìyǎ </u>gè chéng yǒu qiū tán zhī diàn suǒ shuō dehuà bìdìng yìngyàn.'
 33 Zhè shì yǐhòu,<u>yé luóbō'ān </u>réng bù líkāi tā de è dào, jiāng fán mín lì wèi qiū tán de jìsī. Fán yuànyì de, tā dōu fēnbié wèi shèng, lì wèi qiū tán de jìsī.
-34 Zhè shì jiào <u>yé luóbō'ān </u>de jiā xiànzài zuì lǐ, shènzhì tā de jiā cóng dìshàng chú mièle. Dì shísì zhāng
+34 Zhè shì jiào <u>yé luóbō'ān </u>de jiā xiànzài zuì lǐ, shènzhì tā de jiā cóng dìshàng chú mièle.
+
+Dì shísì zhāng
+
 1 nà shí,<u>yé luóbō'ān </u>de érzi <u>yǎ bǐ yǎ </u>bìngle.
 2 <U>yé luóbō'ān </u>duì tā de qī shuō:`Nǐ kěyǐ qǐlái gǎizhuāng, shǐ rén bù zhīdào nǐ shì <u>yé luóbō'ān </u>de qī, wǎng <u>shì luó </u>qù, zài nàlǐ yǒu xiānzhī <u>yà xī yǎ </u>, tā céng gàosù wǒ shuō:“Nǐ bì zuò zhè mín de wáng.”
 3 Xiànzài nǐ yào dài shí gè bǐng, yǔ jǐ gè báobǐng, hé yī píng mì qù jiàn tā, tā bì gàosù nǐ érzi jiāngyào zěnyàng.'
@@ -10173,7 +10189,10 @@ Dì jiǔ zhāng
 28 Wáng měi féng jìn yēhéhuá de diàn, hùwèi bīng jiù ná zhè dùnpái, suíhòu réng jiāng dùnpái sòng huí, fàng zài hùwèi fáng.
 29 <U>luóbō'ān </u>qíyú de shì, fán tāsuǒ xíng de, dōu xiě zài “<u>yóudà </u>liè wáng jì” shàng.
 30 <U>luóbō'ān </u>yǔ <u>yé luóbō'ān </u>shícháng zhēngzhàn.
-31 <U>luóbō'ān </u>yǔ tā liè zǔ tóng shuì, zàng zài <u>dà wèi </u>chéng tā liè zǔ de féndì lǐ. Tā mǔqīn míng jiào <u>ná mǎ </u>, shì <u>yà mén </u>rén. Tā érzi <u>yǎ bǐ yāng </u>jiēxù tā zuò wáng. Dì shíwǔ zhāng
+31 <U>luóbō'ān </u>yǔ tā liè zǔ tóng shuì, zàng zài <u>dà wèi </u>chéng tā liè zǔ de féndì lǐ. Tā mǔqīn míng jiào <u>ná mǎ </u>, shì <u>yà mén </u>rén. Tā érzi <u>yǎ bǐ yāng </u>jiēxù tā zuò wáng.
+
+Dì shíwǔ zhāng
+
 1 <u>ní bā </u>de érzi <u>yé luóbō'ān </u>wáng shíbā nián,<u>yǎ bǐ yāng </u>dēngjī zuò <u>yóudà </u>wáng,
 2 zài <u>yēlùsālěng </u>zuò wáng sān nián. Tā mǔqīn míng jiào <u>mǎ jiā </u>, shì <u>yā shālóng </u>de nǚ'ér.
 3 <U>yǎ bǐ yāng </u>xíng tā fùqīn zài tā yǐqián suǒ xíng de yīqiè è, tā de xīn bùxiàng tā zǔ <u>dà wèi </u>de xīn, chéng chéngshí shídì shùnfú yēhéhuá tā de shén.
@@ -10207,7 +10226,10 @@ Dì jiǔ zhāng
 31 <U>ná dá </u>qíyú de shì, fán tāsuǒ xíng de, dōu xiě zài “<u>yǐsèliè </u>zhūwáng jì” shàng.
 32 <U>yà sā </u>hé <u>yǐsèliè </u>wáng <u>bā shā </u>zàishì de rìzi chángcháng zhēngzhàn.
 33 <U>yóudà </u>wáng <u>yà sā </u>dì sān nián,<u>yà xī yǎ </u>de érzi <u>bā shā </u>zài <u>dé sā </u>dēngjī zuò <u>yǐsèliè </u>zhòngrén de wáng, gòng èrshísì nián.
-34 Tā xíng yēhéhuá yǎn zhòng kàn wéi è de shì, xíng <u>yé luóbō'ān </u>suǒ xíng de dào, fàn tā shǐ <u>yǐsèliè </u>rén xiànzài zuì lǐ dì nà zuì. Dì shíliù zhāng
+34 Tā xíng yēhéhuá yǎn zhòng kàn wéi è de shì, xíng <u>yé luóbō'ān </u>suǒ xíng de dào, fàn tā shǐ <u>yǐsèliè </u>rén xiànzài zuì lǐ dì nà zuì.
+
+Dì shíliù zhāng
+
 1 yēhéhuá dehuà líndào <u>hā ná ní </u>de érzi <u>yé hù </u>, zébèi <u>bā shā </u>shuō:
 2 `Wǒ jì cóng chén'āi zhōng tíbá nǐ, lì nǐ zuò wǒ mín <u>yǐsèliè </u>de jūn, nǐ jìng xíng <u>yé luóbō'ān </u>suǒ xíng de dào, shǐ wǒ mín <u>yǐsèliè </u>xiànzài zuì lǐ, rě wǒ fānù.
 3 Wǒ bì chú jǐn nǐ hé nǐ de jiā, shǐ nǐ de jiā xiàng <u>ní bā </u>de érzi <u>yé luóbō'ān </u>de jiā yì yàng.
@@ -10241,7 +10263,10 @@ Dì jiǔ zhāng
 31 fànle <u>ní bā </u>de érzi <u>yé luóbō'ān </u>suǒ fàn de zuì. Tā hái yǐwéi qīng, yòu qǔle <u>xī dùn </u>wáng <u>yè bā lì </u>de nǚ'ér <u>yé xǐ bié </u>wèi qī, qù shìfèng jìng bài <u>bā lì </u>,
 32 zài <u>sā mǎlìyǎ </u>jiànzào <u>bā lì </u>de miào, zài miào lǐ wèi <u>bā lì </u>zhú tán.
 33 <U>yà hā </u>yòu zuò <u>yà shě lā </u>. Tāsuǒ xíng de rě yēhéhuá <u>yǐsèliè </u>shén de nùqì, bǐ tā yǐqián de <u>yǐsèliè </u>zhūwáng gèng shén.
-34 <U>yà hā </u>zài wèi de shíhòu, yǒu <u>bó tè lì </u>rén <u>xī yī lēi </u>chóngxiū <u>yé lì gē </u>chéng. Lì gēnjī de shíhòu, sàngle zhǎngzǐ <u>yǎ bǐ lán </u>, ān mén de shíhòu, sàngle yòuzǐ <u>xī gē </u>, zhèngrú yēhéhuá jí <u>nèn </u>de érzi <u>yuē shū yà </u>suǒ shuō dehuà. Dì shíqī zhāng
+34 <U>yà hā </u>zài wèi de shíhòu, yǒu <u>bó tè lì </u>rén <u>xī yī lēi </u>chóngxiū <u>yé lì gē </u>chéng. Lì gēnjī de shíhòu, sàngle zhǎngzǐ <u>yǎ bǐ lán </u>, ān mén de shíhòu, sàngle yòuzǐ <u>xī gē </u>, zhèngrú yēhéhuá jí <u>nèn </u>de érzi <u>yuē shū yà </u>suǒ shuō dehuà.
+
+Dì shíqī zhāng
+
 1 <u>jī liè </u>jìjū de <u>tí sī bǐ </u>rén <u>yǐ lìyǎ </u>duì <u>yà hā </u>shuō:`Wǒ zhǐzhe suǒ shìfèng yǒngshēng yēhéhuá <u>yǐsèliè </u>de shén qǐshì: Zhè jǐ nián wǒ ruò bù dǎogào, bì bùjiàng lù bù xià yǔ.'
 2 Yēhéhuá dehuà líndào <u>yǐ lìyǎ </u>shuō:
 3 `Nǐ líkāi zhèlǐ wǎng dōng qù, cáng zài <u>yuēdàn </u>hédōng bian de <u>jī lì </u>xī páng.
@@ -10265,7 +10290,10 @@ Dì jiǔ zhāng
 21 <U>yǐ lìyǎ </u>sāncì fú zài háizi de shēnshang, qiúgào yēhéhuá shuō:`Yēhéhuá wǒ de shén a, qiú nǐ shǐ zhè háizi de línghún réng rù tā de shēntǐ!'
 22 Yēhéhuá yìngyǔn <u>yǐ lìyǎ </u>dehuà, háizi de línghún réng rù tā de shēntǐ, tā jiùhuóle.
 23 <U>yǐ lìyǎ </u>jiāng háizi cóng lóu shàng bào xiàlái, jìn wū zǐ jiāo gěi tā mǔqīn, shuō:`Kàn nǎ, nǐ de érzi huóle.'
-24 Fùrén duì <u>yǐ lìyǎ </u>shuō:`Xiànzài wǒ zhīdào nǐ shì shén rén, yēhéhuá jí nǐ kǒu suǒ shuō dehuà shì zhēn de.' Dì shíbā zhāng
+24 Fùrén duì <u>yǐ lìyǎ </u>shuō:`Xiànzài wǒ zhīdào nǐ shì shén rén, yēhéhuá jí nǐ kǒu suǒ shuō dehuà shì zhēn de.'
+
+Dì shíbā zhāng
+
 1 guò le xǔjiǔ, dào dì sān nián, yēhéhuá dehuà líndào <u>yǐ lìyǎ </u>shuō:`Nǐ qù, shǐ <u>yà hā </u>dé jiàn nǐ, wǒ yào jiàngyǔ zài dìshàng.'
 2 <U>yǐ lìyǎ </u>jiù qù, yào shǐ <u>yà hā </u>dé jiàn tā. Nà shí <u>sā mǎlìyǎ </u>yǒu dà jīhuāng.
 3 <U>yà hā </u>jiāng tā de jiā zǎi <u>é bā dǐ </u>zhàole lái.<U>é bā dǐ </u>shén shì jìngwèi yēhéhuá,
@@ -10311,7 +10339,10 @@ Dì jiǔ zhāng
 43 Duì pú rén shuō:`Nǐ shàngqù, xiàng hǎi guānkàn.'Pú rén jiù shàngqù guānkàn, shuō:`Méiyǒu shé me.'Tā shuō:`Nǐ zài qù guānkàn.'Rúcǐ qī cì.
 44 Dì qī cì pú rén shuō:`Wǒ kànjiàn yǒuyī xiǎo piànyún cóng hǎilǐ shànglái, bùguò rú rénshǒu nàyàng dà.'<U>yǐ lì yǎ </u>shuō:`Nǐ shàngqù gàosù <u>yà hā </u>, dāng tào chē xiàqù, miǎndé bèi yǔ zǔdǎng.'
 45 Shàshíjiān, tiān yīn fēngyún hēi'àn, jiàngxià dàyǔ.<U>yà hā </u>jiùzuòchē wǎng <u>yé sī liè </u>qùle.
-46 Yēhéhuá de líng jiàng zài <u>yǐ lì yǎ </u>shēnshang, tā jiù shù shàng yāo, bēn zài <u>yà hā </u>qiántou, zhídào <u>yé sī liè </u>de chéngmén. Dì shíjiǔ zhāng
+46 Yēhéhuá de líng jiàng zài <u>yǐ lì yǎ </u>shēnshang, tā jiù shù shàng yāo, bēn zài <u>yà hā </u>qiántou, zhídào <u>yé sī liè </u>de chéngmén.
+
+Dì shíjiǔ zhāng
+
 1 <u>yà hā </u>jiāng <u>yǐ lì yǎ </u>yīqiè suǒ xíng de hé tā yòng dāo shā zhòng xiānzhī de shì dōu gàosù <u>yé xǐ bié </u>.
 2 <U>yé xǐ bié </u>jiù chāiqiǎn rén qù jiàn <u>yǐ lì yǎ </u>, gàosù tā shuō:`Míngrì yuē zài zhè shíhòu, wǒ ruò bù shǐ nǐ dì xìngmìng xiàng nàxiē rén dì xìngmìng yīyàng, yuàn shénmíng chóngchóng de jiàng fá yú wǒ!'
 3 <U>yǐ lì yǎ </u>jiàn zhè guāngjǐng jiù qǐlái táomìng, dàole <u>yóudà </u>de <u>bié shì bā </u>, jiāng pú rén liú zài nàlǐ.
@@ -10332,7 +10363,10 @@ Dì jiǔ zhāng
 18 Dàn wǒ zài <u>yǐsèliè </u>rén zhōng wèi zìjǐ liú xià qīqiān rén, shì wèicéng xiàng <u>bā lì </u>qūxī de, wèicéng yǔ <u>bā lì </u>qīnzuǐ de.'
 19 Yúshì,<u>yǐ lì yǎ </u>líkāi nàlǐ zǒule, yùjiàn <u>shā fǎ </u>de érzi <u>yǐ lìshā </u>gēngdì. Zài tā qiántou yǒu shí'èr duì niú, zìjǐ gǎnzhe dì shí'èr duì.<U>yǐ lì yǎ </u>dào tā nàlǐ qù, jiāng zìjǐ de wàiyī dā zài tā shēnshang.
 20 <U>yǐ lìshā </u>jiù líkāi niú, pǎo dào <u>yǐ lì yǎ </u>nàlǐ, shuō:`Qiú nǐ róng wǒ xiān yǔ fùmǔqīnzuǐ, ránhòu wǒ biàn gēnsuí nǐ.'<U>yǐ lì yǎ </u>duì tā shuō:`Nǐ huíqù ba, wǒ xiàng nǐ zuòle shénme ne?'
-21 <U>yǐ lìshā </u>jiù líkāi tā huíqù, zǎile yī duì niú, yòng tào niú de qìjù zhǔ ròu jǐ mín chī, suíhòu jiù qǐshēn gēnsuí <u>yǐ lì yǎ </u>, fúshi tā. Dì èrshí zhāng
+21 <U>yǐ lìshā </u>jiù líkāi tā huíqù, zǎile yī duì niú, yòng tào niú de qìjù zhǔ ròu jǐ mín chī, suíhòu jiù qǐshēn gēnsuí <u>yǐ lì yǎ </u>, fúshi tā.
+
+Dì èrshí zhāng
+
 1 <u>yà lán </u>wáng <u>biàn hādá </u>jùjí tā de quán jūn, shuàilǐng sānshí'èr gè wáng, dàizhe chē mǎshànglái wéigōng <u>sā mǎlìyǎ </u>.
 2 Yòu chāiqiǎn shǐzhě jìn chéng jiàn <u>yǐsèliè </u>wáng <u>yà hā </u>, duì tā shuō:`<U>biàn hādá </u>rúcǐ shuō:
 3 “Nǐ de jīnyín dū yào guī wǒ, nǐ qīzi, érnǚ zhōng zuìměi de yě yào guī wǒ.”'
@@ -10375,7 +10409,10 @@ Dì jiǔ zhāng
 40 Pú rén zhèngzài mángluàn zhī jiān, nà rén jiù bùjiànle.'<U>yǐsèliè </u>wáng duì tā shuō:`Nǐ zìjǐ dìng tuǒle, bì zhàoyàng pànduàn nǐ.'
 41 Tā jímáng chú diào méng yǎn de tóujīn,<u>yǐsèliè </u>wáng jiù rèn chū tā shì yīgè xiānzhī.
 42 Tā duì wáng shuō:`Yēhéhuá rúcǐ shuō:“Yīn nǐ jiāng wǒ dìng yào mièjué de rénfàng qù, nǐ de mìng jiù bì dàitì tā de mìng, nǐ de mín yě bì dàitì tā de mín.”'
-43 Yúshì <u>yǐsèliè </u>wáng mènmènbùlè de huí dào <u>sā mǎlìyǎ </u>, jìnle tā de gōng. Dì èrshíyī zhāng
+43 Yúshì <u>yǐsèliè </u>wáng mènmènbùlè de huí dào <u>sā mǎlìyǎ </u>, jìnle tā de gōng.
+
+Dì èrshíyī zhāng
+
 1 zhè shì yǐhòu, yòu yǒu yī shì.<U>yé sī liè </u>rén <u>ná bó </u>zài <u>yé sī liè </u>yǒu yīgè pútáo yuán, kàojìn <u>sā mǎlìyǎ </u>wáng <u>yà hā </u>de gōng.
 2 <U>yà hā </u>duì <u>ná bó </u>shuō:`Nǐ jiāng nǐ de pútáo yuán gěi wǒ zuò càiyuán, yīn wéi shì kàojìn wǒ de gōng. Wǒ jiù bǎ gèng hǎo de pútáo yuán huàn gěi nǐ, huò shì nǐ yào yínzi, wǒ jiù ànzhe jiàzhí gěi nǐ.'
 3 <U>ná bó </u>duì <u>yà hā </u>shuō:`Wǒ jìngwèi yēhéhuá, wàn bù gǎn jiāng wǒ xiān rén liú xià de chǎnyè gěi nǐ.'
@@ -10404,7 +10441,10 @@ Dì jiǔ zhāng
 26 jiù zhào yēhéhuá zài <u>yǐsèliè </u>rén miànqián suǒ gǎn chū de <u>yà mólì </u>rén, xíngle zuì kě zēngwù de shì, xìn cóng ǒu xiàng.)
 27 <U>yà hā </u>tīngjiàn zhè huà, jiù sī liè yīfú, jìn shí, shēn chuān mábù, shuì wò yě chuānzhuó mábù, bìngqiě huǎn huǎn ér xíng.
 28 Yēhéhuá dehuà líndào <u>tí sī bǐ </u>rén <u>yǐ lì yǎ </u>shuō:
-29 `<U>yà hā </u>zài wǒ miànqián zhèyàng zìbēi, nǐ kànjiànle ma? Yīn tā zài wǒ miànqián zìbēi, tā hái zài shì de shíhòu, wǒ bùjiàng zhè huò. Dào tā érzi de shíhòu, wǒ bì jiàng zhè huò yú tā de jiā.' Dì èrshí'èr zhāng
+29 `<U>yà hā </u>zài wǒ miànqián zhèyàng zìbēi, nǐ kànjiànle ma? Yīn tā zài wǒ miànqián zìbēi, tā hái zài shì de shíhòu, wǒ bùjiàng zhè huò. Dào tā érzi de shíhòu, wǒ bì jiàng zhè huò yú tā de jiā.'
+
+Dì èrshí'èr zhāng
+
 1 <u>yà lán </u>guó hé <u>yǐsèliè </u>guó sān nián méiyǒu zhēngzhàn.
 2 Dào dì sān nián,<u>yóudà </u>wáng <u>yuē shā fǎ </u>xiàqù jiàn <u>yǐsèliè </u>wáng.
 3 <U>yǐsèliè </u>wáng duì chén pú shuō:`Nǐmen bù zhīdào <u>jī liè </u>de <u>lā mò </u>shì shǔ wǒmen de ma? Wǒmen qǐkě jìngzuò bùdòng, bù cóng <u>yà lán </u>wángshǒu lǐ duóhuílái ma?'
@@ -10457,7 +10497,12 @@ Dì jiǔ zhāng
 50 <U>yuē shā fǎ </u>yǔ liè zǔ tóng shuì, zàng zài <u>dà wèi </u>chéng tā liè zǔ de féndì lǐ. Tā érzi <u>yuē lán </u>jiēxù tā zuò wáng.
 51 <U>yóudà </u>wáng <u>yuē shā fǎ </u>shíqī nián,<u>yà hā </u>de érzi <u>yà hā xiè </u>zài <u>sā mǎlìyǎ </u>dēngjī, zuò <u>yǐsèliè </u>wáng gòng èr nián.
 52 Tā xíng yēhéhuá yǎn zhòng kàn wéi è de shì, xiàofǎ tā de fùmǔ, yòu xíng <u>ní bā </u>de érzi <u>yé luóbō'ān </u>shǐ <u>yǐsèliè </u>rén xiàn zài zuì lǐ de shì.
-53 Tā zhào tā fùqīn yīqiè suǒ xíng de, shìfèng jìng bài <u>bā lì </u>, rě yēhéhuá <u>yǐsèliè </u>shén de nùqì. Liè wáng jì xià dì yī zhāng
+53 Tā zhào tā fùqīn yīqiè suǒ xíng de, shìfèng jìng bài <u>bā lì </u>, rě yēhéhuá <u>yǐsèliè </u>shén de nùqì.
+
+Liè wáng jì xià
+
+Dì yī zhāng
+
 1 <u>yà hā </u>sǐhòu,<u>mó yā </u>bèipàn <u>yǐsèliè </u>.
 2 <U>yà hā xiè </u>zài <u>sā mǎlìyǎ </u>, yī rì cóng lóu shàng de lángān lǐ diào xiàlái, jiù bìngle. Yúshì chāiqiǎn shǐzhě shuō:`Nǐmen qù wèn <u>yǐ gé lún </u>de shén <u>bā lì xī bo </u>, wǒ zhè bìng néng hǎo bùnéng hǎo.'
 3 Dàn yēhéhuá de shǐzhě duì <u>tí sī bǐ </u>rén <u>yǐ lì yǎ </u>shuō:`Nǐ qǐlái, qù yíngzhe <u>sā mǎlìyǎ </u>wáng de shǐzhě, duì tāmen shuō:“Nǐmen qù wèn <u>yǐ gé lún </u>shén <u>bā lì xī bo </u>, qǐ yīn <u>yǐsèliè </u>zhōng méiyǒu shén ma?”
@@ -10475,7 +10520,10 @@ Dì jiǔ zhāng
 15 Yēhéhuá de shǐzhě duì <u>yǐ lì yǎ </u>shuō:`Nǐ tóngzhe tā xiàqù, bùyào pà tā.'<U>yǐ lì yǎ </u>jiù qǐlái, tóngzhe tā xiàqù jiàn wáng,
 16 duì wáng shuō:`Yēhéhuá rúcǐ shuō: Nǐ chà rén qù wèn <u>yǐ gé lún </u>shén <u>bā lì xī bo </u>, qǐ yīn <u>yǐsèliè </u>zhōng méiyǒu shén kěyǐ qiú wèn ma? Suǒyǐ nǐ bì bù xià suǒ shàng de chuáng, bìdìng yàosǐ.'
 17 <U>yà hā xiè </u>guǒrán sǐle, zhèngrú yēhéhuá jí <u>yǐ lì yǎ </u>suǒ shuō dehuà. Yīn tā méiyǒu érzi, tā xiōngdì <u>yuē lán </u>jiēxù tā zuò wáng, zhèngzài <u>yóudà </u>wáng <u>yuē shā fǎ </u>de érzi <u>yuē lán </u>dì èr nián.
-18 <U>yà hā xiè </u>qíyú suǒ xíng de shì dōu xiě zài “<u>yǐsèliè </u>zhūwáng jì” shàng. Dì èr zhāng
+18 <U>yà hā xiè </u>qíyú suǒ xíng de shì dōu xiě zài “<u>yǐsèliè </u>zhūwáng jì” shàng.
+
+Dì èr zhāng
+
 1 yēhéhuá yào yòng xuànfēng jiē <u>yǐ lì yǎ </u>shēngtiān de shíhòu,<u>yǐ lì yǎ </u>yǔ <u>yǐ lìshā </u>cóng <u>jí jiǎ </u>qiánwǎng.
 2 <U>yǐ lì yǎ </u>duì <u>yǐ lìshā </u>shuō:`Yēhéhuá chà wǒ wǎng <u>bó tè lì </u>qù, nǐ kěyǐ zài zhèlǐ děnghòu.'<U>yǐ lìshā </u>shuō:`Wǒ zhǐzhe yǒngshēng de yēhéhuá, yòu gǎn zài nǐ miànqián qǐshì: Wǒ bì bù líkāi nǐ!'Yúshì èr rén xià dào <u>bó tè lì </u>.
 3 Zhù <u>bó tè lì </u>de xiānzhī méntú chūlái jiàn <u>yǐ lìshā </u>, duì tā shuō:`Yēhéhuá jīnrì yào jiē nǐ de shīfù líkāi nǐ, nǐ zhīdào bù zhīdào?'Tā shuō:`Wǒ zhīdào, nǐmen bùyào zuò shēng.'
@@ -10500,7 +10548,10 @@ Dì jiǔ zhāng
 22 Yúshì nà shuǐ zhì hǎole, zhídào jīnrì, zhèngrú <u>yǐ lìshā </u>suǒ shuō de.
 23 <U>yǐ lìshā </u>cóng nàlǐ shàng <u>bó tè lì </u>qù. Zhèng shàngqù de shíhòu, yǒuxiē tóngzǐ cóng chéng lǐ chūlái, xì xiào tā shuō:`Tūtóu de, shàngqù ba! Tūtóu de, shàngqù ba!'
 24 Tā huítóu kànjiàn, jiù fèng yēhéhuá de míng zhòu zǔ tāmen. Yúshì yǒu liǎng gè mǔ xióngcónglín zhòng chūlái, sī liè tāmen zhōngjiān sìshí'èr gè tóngzǐ.
-25 <U>yǐ lìshā </u>cóng <u>bó tè lì </u>shàng <u>jiā mì </u>shān, yòu cóng <u>jiā mì </u>shān huí dào <u>sā mǎlìyǎ </u>. Dì sān zhāng
+25 <U>yǐ lìshā </u>cóng <u>bó tè lì </u>shàng <u>jiā mì </u>shān, yòu cóng <u>jiā mì </u>shān huí dào <u>sā mǎlìyǎ </u>.
+
+Dì sān zhāng
+
 1 <u>yóudà </u>wáng <u>yuē shā fǎ </u>shíbā nián,<u>yà hā </u>de érzi <u>yuē lán </u>zài <u>sā mǎlìyǎ </u>dēngjī, zuòle <u>yǐsèliè </u>wáng shí'èr nián.
 2 Tā xíng yēhéhuá yǎn zhòng kàn wéi è de shì, dàn bù zhì xiàng tā fùmǔ suǒ xíng de, yīnwèi chú diào tā fù suǒ zào <u>bā lì </u>de zhù xiàng.
 3 Rán'ér, tā tiējìn <u>ní bā </u>de érzi <u>yé luóbō'ān </u>shǐ <u>yǐsèliè </u>rén xiàn zài zuì lǐ dì nà zuì, zǒng bù líkāi.
@@ -10527,7 +10578,10 @@ Dì jiǔ zhāng
 24 <U>mó yā </u>rén dàole <u>yǐsèliè </u>yíng,<u>yǐsèliè </u>rén jiù qǐlái gōngdǎ tāmen, yǐzhì tāmen zài <u>yǐsèliè </u>rén miànqián táopǎo.<U>yǐsèliè </u>rén wǎng qián zhuī shā <u>mó yā </u>rén, zhí shā rù <u>mó yā </u>de jìngnèi,
 25 chāihuǐ <u>mó yā </u>de chéng yì, gèrén pāo shí tián mǎn yīqiè měitián, sāi zhù yīqiè shuǐquán, kǎnfá gèzhǒng jiāshù, zhǐ shèng xià <u>jí ěr hā liè shè </u>de shí qiáng, shuǎi shí de bīng zài sìwéi gōngdǎ nà chéng.
 26 <U>mó yā </u>wáng jiàn zhènshì shén dà, nányǐ duì dí, jiù shuàilǐng qībǎi ná dāo de bīng, yàochòngguò zhèn qù dào <u>yǐ dōng </u>wáng nàlǐ, què shì bùnéng.
-27 Biàn jiāng nà yīngdāng jiēxù tā zuò wáng de cháng zi, zài chéng shàng xiàn wèi fánjì.<U>yǐsèliè </u>rén zāoyù yēhéhuá de dà nù, yúshì sān wáng líkāi <u>mó yā </u>wáng, gèhuí běnguó qùle. Dì sì zhāng
+27 Biàn jiāng nà yīngdāng jiēxù tā zuò wáng de cháng zi, zài chéng shàng xiàn wèi fánjì.<U>yǐsèliè </u>rén zāoyù yēhéhuá de dà nù, yúshì sān wáng líkāi <u>mó yā </u>wáng, gèhuí běnguó qùle.
+
+Dì sì zhāng
+
 1 yǒu yīgè xiānzhī méntú de qī āiqiú <u>yǐ lìshā </u>shuō:`Nǐ pú rén wǒ zhàngfū sǐle, tā jìngwèi yēhéhuá shì nǐ suǒ zhīdào de. Xiàn zài yǒu zhàizhǔ lái, yào qǔ wǒ liǎng gè er zi zuò núpú.'
 2 <U>yǐ lìshā </u>wèn tā shuō:`Wǒ kěyǐ wéi nǐ zuò shénme ne? Nǐ gàosù wǒ, nǐ jiālǐ yǒu shé me?'Tā shuō:`Bìnǚ jiāzhōng chúle yī píng yóu zhī wài, méiyǒu shé me.'
 3 <U>yǐ lìshā </u>shuō:`Nǐ qù, xiàng nǐ zhòng línshè jiè kōng qìmǐn, bùyào shǎo jiè.
@@ -10571,7 +10625,10 @@ Dì jiǔ zhāng
 41 <U>yǐ lìshā </u>shuō:`Ná diǎn miàn lái.'Jiù bǎ miàn sā zài guō zhōng, shuō:`Dào chūlái gěi zhòngrén chī ba.'Guō zhōng jiù méiyǒu dúle.
 42 Yǒu yīgè rén cóng <u>bā lìshā lìshā </u>lái, dàizhe chū shú dàmài zuò de bǐng èrshí gè bìng xīn suìzi, zhuāng zài kǒudài lǐ sòng gěi shén rén. Shén rén shuō:`Bǎ zhèxiē gěi zhòngrén chī.'
 43 Pú rén shuō:`Zhè yīdiǎn qǐkě bǎi gěi yībǎi rén chī ne?'<U>yǐ lìshā </u>shuō:`Nǐ zhǐguǎn gěi zhòngrén chī ba, yīnwèi yēhéhuá rúcǐ shuō:“Zhòngrén bì chīle, hái shèng xià.”'
-44 Pú rén jiù bǎi zài zhòngrén miànqián. Tāmen chīle, guǒrán hái shèng xià, zhèngrú yēhéhuá suǒ shuō de. Dì wǔ zhāng
+44 Pú rén jiù bǎi zài zhòngrén miànqián. Tāmen chīle, guǒrán hái shèng xià, zhèngrú yēhéhuá suǒ shuō de.
+
+Dì wǔ zhāng
+
 1 <u>yà lán </u>wáng de yuánshuài <u>nǎi màn </u>zài tā zhǔrén miànqián wéi zūn wéi dà, yīn yēhéhuá céng jí tā shǐ <u>yà lán </u>rén déshèng. Tā yòu shì dà néng de yǒngshì, zhǐshì zhǎngle dàmá fēng.
 2 Xiānqián <u>yà lán </u>rén chéng qún dì chūqù, cóng <u>yǐsèliè </u>guó lǔle yīgè xiǎo nǚzǐ, zhè nǚzǐ jiù fúshi <u>nǎi màn </u>de qī.
 3 Tā duì zhǔ mǔ shuō:`Bābudé wǒ zhǔrén qù jiàn <u>sā mǎlìyǎ </u>de xiānzhī, bì néng zhì hǎo tā de dàmá fēng.'
@@ -10598,7 +10655,10 @@ Dì jiǔ zhāng
 24 Dàole shāngāng,<u>jī hā xī </u>cóng tāmen shǒuzhōng jiē guòlái, fàng zài wū lǐ, dǎfā tāmen huíqù.
 25 <U>jī hā xī </u>jìnqù, zhàn zài tā zhǔrén miànqián.<U>yǐ lìshā </u>wèn tā shuō:`<U>jī hā xī </u>, nǐ cóng nǎlǐ lái?'Huídá shuō:`Pú rén méiyǒu wǎng nǎlǐ qù.'
 26 <U>yǐ lìshā </u>duì tā shuō:`Nà rén xiàchē zhuǎn huí yíng nǐ de shíhòu, wǒ de xīn qǐ méiyǒu qù ne? Zhè qǐ shì shòu yínzi, yīshang, mǎi gǎnlǎn yuán, pútáo yuán, niú yáng, pú bì de shíhòu ne?
-27 Yīncǐ,<u>nǎi màn </u>de dàmá fēng bì zhānrǎn nǐ hé nǐ de hòuyì, zhídào yǒngyuǎn.'<U>jī hā xī </u>cóng <u>yǐ lìshā </u>miànqián tuì chūqù, jiù zhǎngle dàmá fēng, xiàng xuě nàyàng bái. Dì liù zhāng
+27 Yīncǐ,<u>nǎi màn </u>de dàmá fēng bì zhānrǎn nǐ hé nǐ de hòuyì, zhídào yǒngyuǎn.'<U>jī hā xī </u>cóng <u>yǐ lìshā </u>miànqián tuì chūqù, jiù zhǎngle dàmá fēng, xiàng xuě nàyàng bái.
+
+Dì liù zhāng
+
 1 xiānzhī méntú duì <u>yǐ lìshā </u>shuō:`Kàn nǎ, wǒmen tóng nǐ suǒ zhù dì dìfāng guòyú zhǎi xiǎo.
 2 Qiú nǐ róng wǒmen wǎng <u>yuēdàn </u>hé qù, gè rén cóng nàlǐ qǔ yī gēnmùliào jiànzào fángwū jūzhù.'Tā shuō:`Nǐmen qù ba.'
 3 Yǒu yīrén shuō:`Qiú nǐ yǔ pú rén tóng qù.'Huídá shuō:`Wǒ kěyǐ qù.'
@@ -10631,7 +10691,10 @@ Dì jiǔ zhāng
 30 Wáng tīngjiàn fùrén dehuà, jiù sī liè yīfú; wángzàichéng shàng jīngguò, bǎixìng kànjiàn wáng tiēshēn chuānzhuó máyī.
 31 Wáng shuō:`Wǒ jīnrì ruò róng <u>shā fǎ </u>de érzi <u>yǐ lìshā </u>de tóu réng zài tā xiàng shàng, yuàn shén chóngchóng de jiàng fá yú wǒ!'
 32 Nà shí,<u>yǐ lìshā </u>zhèng zuò zài jiāzhōng, zhǎnglǎo yě yǔ tā tóng zuò. Wáng dǎfā yīgè cìhòu tā de rén qù, tā hái méiyǒu dào,<u>yǐ lìshā </u>duì zhǎnglǎo shuō:`Nǐmen kàn zhè xiōngshǒu zhīzǐ, dǎfā rén lái zhǎn wǒ de tóu. Nǐmen kànzhe shǐzhě lái dào, jiù guān shàngmén, yòng ménjiàng tā tuī chūqù. Zài tā hòutou bùshì yǒu tā zhǔrén jiǎobù de xiǎngshēng ma?'
-33 Zhèng shuōhuà de shíhòu, shǐzhě lái dào, wáng yě dàole, shuō:`Zhè zāihuò shì cóng yēhéhuá nàlǐ lái de, wǒ hébì zài yǎngwàng yēhéhuá ne?' Dì qī zhāng
+33 Zhèng shuōhuà de shíhòu, shǐzhě lái dào, wáng yě dàole, shuō:`Zhè zāihuò shì cóng yēhéhuá nàlǐ lái de, wǒ hébì zài yǎngwàng yēhéhuá ne?'
+
+Dì qī zhāng
+
 1 <u>yǐ lìshā </u>shuō:`Nǐmen yào tīng yēhéhuá dehuà. Yēhéhuá rúcǐ shuō: Míngrì yuē dào zhè shíhòu, zài <u>sā mǎlìyǎ </u>chéngménkǒu, yī xì yà xì miàn yào mài yín yī shě kè lēi, èr xì yà dàmài yě yào mài yín yī shě kè lēi.'
 2 Yǒu yīgè chānfú wáng de jūn zhǎng duì shén rén shuō:`Jíbiàn yēhéhuá shǐ tiān kāile chuānghù, yě bùnéng yǒu zhè shì!'<U>yǐ lìshā </u>shuō:`Nǐ bì qīnyǎn kànjiàn, què bùdé chī.'
 3 Zài chéngmén nàlǐ yǒu sì gè zhǎng dàmá fēng de rén, tāmen bǐcǐ shuō:`Wǒmen wèihé zuò zài zhèlǐ děng sǐ ne?
@@ -10651,7 +10714,10 @@ Dì jiǔ zhāng
 17 Wáng pài chānfú tā dì nà jūn zhǎng zài chéng ménkǒu tányā, zhòngrén zài nàlǐ jiāng tā jiàntà, tā jiù sǐle, zhèngrú shén rén zài wáng xiàlái jiàn tā de shíhòu suǒ shuō de.
 18 Shén rén céng duì wáng shuō:`Míngrì yuē dào zhè shíhòu, zài <u>sā mǎlìyǎ </u>chéng ménkǒu, èr xì yà dàmài yào mài yín yī shě kè lēi, yī xì yà xì miàn yě yào mài yín yī shě kè lēi.'
 19 Nà jūn zhǎng duì shén rén shuō:`Jíbiàn yēhéhuá shǐ tiān kāile chuānghù, yě bùnéng yǒu zhè shì!'Shén rén shuō:`Nǐ bì qīnyǎn kànjiàn, què bùdé chī.'
-20 Zhè huà guǒrán yìngyàn zài tā shēnshang, yīnwèi zhòngrén zài chéng ménkǒu jiāng tā jiàntà, tā jiù sǐle. Dì bā zhāng
+20 Zhè huà guǒrán yìngyàn zài tā shēnshang, yīnwèi zhòngrén zài chéng ménkǒu jiāng tā jiàntà, tā jiù sǐle.
+
+Dì bā zhāng
+
 1 <u>yǐ lìshā </u>céng duì suǒ jiù huó zhīzǐ dì nà fùrén shuō:`Nǐ hé nǐ de quánjiā yào qǐshēn wǎng nǐ kě zhù dì dìfāng qù zhù, yīnwèi yēhéhuá mìng jīhuāng jiàng zài zhè de qī nián.'
 2 Fùrén jiù qǐshēn, zhào shén rén dehuà, dàizhe quánjiā wǎng <u>fēi lì shì </u>de qù, zhùle qī nián.
 3 Qī nián wánliǎo, nà fùrén cóng <u>fēi lì shì </u>de huílái, jiù chūqù wèi zìjǐ de fángwū, tiándì āigào wáng.
@@ -10680,7 +10746,10 @@ Dì jiǔ zhāng
 26 Tā dēngjī de shíhòu nián èrshí'èr suì, zài <u>yēlùsālěng </u>zuò wáng yī nián. Tā mǔqīn míng jiào <u>yà tā lì yǎ </u>, shì <u>yǐsèliè </u>wáng <u>àn lì </u>de sūnnǚ.
 27 <U>yà hā xiè </u>xiàofǎ <u>yà hā </u>jiā, xíng yēhéhuá yǎn zhòng kàn wéi è de shì, yǔ <u>yà hā </u>jiā yì yàng, yīnwèi tā shì <u>yà hā </u>jiā de nǚxù.
 28 Tā yǔ <u>yà hā </u>de érzi <u>yuē lán </u>tóng wǎng <u>jī liè </u>de <u>lā mò </u>qù, yǔ <u>yà lán </u>wáng <u>hā xuē </u>zhēngzhàn,<u>yà lán </u>rén dǎ shāngle <u>yuē lán </u>.
-29 <U>yuē lán </u>wáng huí dào <u>yé sī liè </u>, yīzhì zài <u>lā mò </u>yǔ <u>yà lán </u>wáng <u>hā xuē </u>dǎzhàng de shíhòu suǒ shòu de shāng.<U>yóudà </u>wáng <u>yuē lán </u>de érzi <u>yà hā xiè </u>yīnwèi <u>yà hā </u>de érzi <u>yuē lán </u>bìngle, jiù xià dào <u>yé sī liè </u>wàng kàn tā. Dì jiǔ zhāng
+29 <U>yuē lán </u>wáng huí dào <u>yé sī liè </u>, yīzhì zài <u>lā mò </u>yǔ <u>yà lán </u>wáng <u>hā xuē </u>dǎzhàng de shíhòu suǒ shòu de shāng.<U>yóudà </u>wáng <u>yuē lán </u>de érzi <u>yà hā xiè </u>yīnwèi <u>yà hā </u>de érzi <u>yuē lán </u>bìngle, jiù xià dào <u>yé sī liè </u>wàng kàn tā.
+
+Dì jiǔ zhāng
+
 1 xiānzhī <u>yǐ lìshā </u>jiàole yīgè xiānzhī méntú lái, fēnfù tā shuō:`Nǐ shù shàng yāo, shǒu ná zhè píng gāo yóu wǎng <u>jī liè </u>de <u>lā mò </u>qù.
 2 Dàole nàlǐ, yào xúnzhǎo <u>níng shì </u>de sūnzi,<u>yuē shā fǎ </u>de érzi <u>yé hù </u>, shǐ tā cóng tóngliáo zhōng qǐlái, dài tā jìn yánmì de wūzi,
 3 jiāng píng lǐ de gāo yóudào zài tā tóushàng, shuō:“Yēhéhuá rúcǐ shuō: Wǒ gāo nǐ zuò <u>yǐsèliè </u>wáng.” Shuō wánliǎo, jiù kāimén táopǎo, bùyào chíyán.'
@@ -10717,7 +10786,10 @@ Dì jiǔ zhāng
 34 <U>yé hù </u>jìnqù, chīle hēle, fēnfù shuō:`Nǐmen bǎ zhè bèi zhòu zǔ de fùrén zàngmáile, yīnwèi tā shì wáng de nǚ'ér.'
 35 Tāmen jiù qù zàngmái tā, zhǐ xún dé tā de tóugǔ hé jiǎo bìng shǒuzhǎng.
 36 Tāmen huíqù gàosù <u>yé hù </u>,<u>yé hù </u>shuō:`Zhè zhèng yìngyàn yēhéhuá jí tā pú rén <u>tí sī bǐ </u>rén <u>yǐ lì yǎ </u>suǒ shuō dehuà, shuō:“Zài <u>yé sī liè </u>tiánjiān, gǒu bì chī <u>yé xǐ bié </u>de ròu.
-37 <U>yé xǐ bié </u>de shīshǒu bì zài <u>yé sī liè </u>tiánjiān rútóng fèntǔ, shènzhì rén bùnéng shuō zhè shì <u>yé xǐ bié </u>.”' Dì shí zhāng
+37 <U>yé xǐ bié </u>de shīshǒu bì zài <u>yé sī liè </u>tiánjiān rútóng fèntǔ, shènzhì rén bùnéng shuō zhè shì <u>yé xǐ bié </u>.”'
+
+Dì shí zhāng
+
 1 <u>yà hā </u>yǒu qīshí gè er zi zài <u>sā mǎlìyǎ </u>.<U>yé hù </u>xiě xìn sòng dào <u>sā mǎlìyǎ </u>, tōngzhī <u>yé sī liè </u>de shǒulǐng, jiùshì zhǎnglǎo hé jiàoyǎng <u>yà hā </u>zhòng zi de rén, shuō:
 2 `Nǐmen nàlǐ jì yǒu nǐmen zhǔrén de zhòng zi hé chē mǎ, qìxiè, jiāngù chéng,
 3 jiēle zhè xìn, jiù kěyǐ zài nǐmen zhǔrén de zhòng zi zhòng xuǎnzé yīgè xiánnéng héyí de, shǐ tā zuò tā fùqīn de wèi, nǐmen yě kěyǐ wéi nǐmen zhǔrén de jiā zhēngzhàn.'
@@ -10753,7 +10825,10 @@ Dì jiǔ zhāng
 33 nǎi shì <u>yuēdàn </u>hédōng,<u>jī liè </u>quán de, cóng kàojìn <u>yà nèn </u>gǔ biān de <u>yà luó ěr </u>qǐ, jiùshì <u>jī liè </u>hé <u>bā shān </u>de <u>jiā dé </u>rén,<u>lǔ běn </u>rén,<u>mǎ ná xī </u>rén zhī dì.
 34 <U>yé hù </u>qíyú de shì, fán tāsuǒ xíng de hé tā de yǒnglì, dōu xiě zài “<u>yǐsèliè </u>zhūwáng jì” shàng.
 35 <U>yé hù </u>yǔ tā liè zǔ tóng shuì, zàng zài <u>sā mǎlìyǎ </u>. Tā érzi <u>yuē hā sī </u>jiēxù tā zuò wáng.
-36 <U>yé hù </u>zài <u>sā mǎlìyǎ </u>zuò <u>yǐsèliè </u>wáng èrshíbā nián. Dì shíyī zhāng
+36 <U>yé hù </u>zài <u>sā mǎlìyǎ </u>zuò <u>yǐsèliè </u>wáng èrshíbā nián.
+
+Dì shíyī zhāng
+
 1 <u>yà hā xiè </u>de mǔqīn <u>yà tā lì yǎ </u>jiàn tā érzi sǐle, jiù qǐlái jiǎomiè wángshì.
 2 Dàn <u>yuē lán </u>wáng de nǚ'ér,<u>yà hā xiè </u>de mèizi <u>yuē shì bā </u>jiāng <u>yà hā xiè </u>de érzi <u>yuē ā shī </u>cóng nà bèi shā de wángzǐ zhōng tōu chūlái, bǎ tā hé tā de rǔmǔ dōu cáng zài wòfáng lǐ, duǒbì <u>yà tā lì yǎ </u>, miǎndé bèi shā.
 3 <U>yuē ā shī </u>hé tā de rǔmǔ cáng zài yēhéhuá de diàn lǐ liù nián.<U>yà tā lì yǎ </u>cuànle guó wèi.
@@ -10774,7 +10849,10 @@ Dì jiǔ zhāng
 18 Yúshì guómín dōu dào <u>bā lì </u>miào, chāihuǐle miào, dǎ suì tán hé xiàng, yòu zài tán qián jiāng <u>bā lì </u>de jìsī <u>mǎ tǎn </u>shāle. Jìsī <u>yé hé yé dà </u>pài guān kānshǒu yēhéhuá de diàn,
 19 yòu shuàilǐng bǎi fū zhǎng hé <u>jiā lì </u>rén yǔ hùwèi bīng, yǐjí guózhōng de zhòng mín, qǐng wáng cóng yēhéhuá diànxiàlái, yóu hùwèi bīng de mén jìnrù wánggōng. Tā jiùzuòle wáng wèi.
 20 Guómín dōu huānlè, hé chéng dū ānjìng. Zhòngrén yǐ jiāng <u>yà tā lì yǎ </u>zài wánggōng nàlǐ yòng dāo shāle.
-21 <U>yuē ā shī </u>dēngjī de shíhòu nián fāng qī suì. Dì shí'èr zhāng
+21 <U>yuē ā shī </u>dēngjī de shíhòu nián fāng qī suì.
+
+Dì shí'èr zhāng
+
 1 <u>yé hù </u>dì qī nián,<u>yuē ā shī </u>dēngjī, zài <u>yēlùsālěng </u>zuò wáng sìshí nián. Tā mǔqīn míng jiào <u>xī bǐ yǎ </u>, shì <u>bié shì bā </u>rén.
 2 <U>yuē ā shī </u>zài jìsī <u>yé hé yé dà </u>jiàoxùn tā de shíhòu, jiùxíng yēhéhuá yǎn zhòng kàn wèi zhèng de shì.
 3 Zhǐshì qiū tán hái méiyǒu fèi qù, bǎixìng réng zài nàlǐ xiàn jì shāoxiāng.
@@ -10795,7 +10873,10 @@ Dì jiǔ zhāng
 18 <U>yóudà </u>wáng <u>yuē ā shī </u>jiāng tā liè zǔ <u>yóudà </u>wáng <u>yuē shā fǎ </u>,<u>yuē lán </u>,<u>yà hā xiè </u>suǒ fēnbié wèi shèng de wù hé zìjǐ suǒ fēnbié wèi shèng de wù, bìng yēhéhuá diàn yǔ wánggōng fǔ kùlǐ suǒyǒu de jīnzi, dōu sòng gěi <u>yà lán </u>wáng <u>hā xuē </u>,<u>hā xuē </u>jiù bù shàng <u>yēlùsālěng </u>láile.
 19 <U>yuē ā shī </u>qíyú de shì, fán tāsuǒ xíng de, dōu xiě zài “<u>yóudà </u>liè wáng jì” shàng.
 20 <U>yuē ā shī </u>de chén pú qǐlái bèipàn, zài xià <u>xī lā </u>de <u>mǐ luó </u>gōng nàlǐ jiāng tāshāle,
-21 shā tā dì nà chén pú jiùshì <u>shì mǐ yā </u>de érzi <u>yuē sā jiǎ </u>hé <u>shuò mò </u>de érzi <u>yuē sà bá </u>. Zhòngrén jiāng tā zàng zài <u>dà wèi </u>chéng tā liè zǔ de féndì lǐ. Tā érzi <u>yà mǎ xiè </u>jiēxù tā zuò wáng. Dì shísān zhāng
+21 shā tā dì nà chén pú jiùshì <u>shì mǐ yā </u>de érzi <u>yuē sā jiǎ </u>hé <u>shuò mò </u>de érzi <u>yuē sà bá </u>. Zhòngrén jiāng tā zàng zài <u>dà wèi </u>chéng tā liè zǔ de féndì lǐ. Tā érzi <u>yà mǎ xiè </u>jiēxù tā zuò wáng.
+
+Dì shísān zhāng
+
 1 <u>yóudà </u>wáng <u>yà hā xiè </u>de érzi <u>yuē ā shī </u>èrshísān nián,<u>yé hù </u>de érzi <u>yuē hā sī </u>zài <u>sā mǎlìyǎ </u>dēngjī, zuò <u>yǐsèliè </u>wáng shíqī nián.
 2 <U>yuē hā sī </u>xíng yēhéhuá yǎn zhòng kàn wéi è de shì, xiàofǎ <u>ní bā </u>de érzi <u>yé luóbō'ān </u>shǐ <u>yǐsèliè </u>rén xiàn zài zuì lǐ dì nà zuì, zǒng bù líkāi.
 3 Yúshì yēhéhuá de nùqì xiàng <u>yǐsèliè </u>rén fāzuò, jiāng tāmen lǚcì jiāo zài <u>yà lán </u>wáng <u>hā xuē </u>hé tā érzi <u>biàn hādá </u>de shǒu lǐ.
@@ -10820,7 +10901,10 @@ Dì jiǔ zhāng
 22 <U>yuē hā sī </u>niánjiān,<u>yà lán </u>wáng <u>hā xuē </u>lǚcì qīyā <u>yǐsèliè </u>rén.
 23 Yēhéhuá què yīn yǔ <u>yàbólāhǎn </u>,<u>yǐ sā </u>,<u>yǎ gè </u>suǒ lì de yuē, réng shī ēngěi <u>yǐsèliè </u>rén, liánxù tāmen, juàngù tāmen, bù kěn miè jìn tāmen, shàngwèi gǎn zhú tāmen líkāi zìjǐ miànqián.
 24 <U>yà lán </u>wáng <u>hā xuē </u>sǐle, tā érzi <u>biàn hādá </u>jiēxù tā zuò wáng.
-25 Cóngqián <u>hā xuē </u>hé <u>yuē ā shī </u>de fùqīn <u>yuē hā sī </u>zhēngzhàn, gōngqǔle xiē chéng yì, xiàn zài <u>yuē hā sī </u>de érzi <u>yuē ā shī </u>sān cì dǎbài <u>hā xuē </u>de érzi <u>biàn hādá </u>, jiù shōuhuíle <u>yǐsèliè </u>de chéng yì. Dì shísì zhāng
+25 Cóngqián <u>hā xuē </u>hé <u>yuē ā shī </u>de fùqīn <u>yuē hā sī </u>zhēngzhàn, gōngqǔle xiē chéng yì, xiàn zài <u>yuē hā sī </u>de érzi <u>yuē ā shī </u>sān cì dǎbài <u>hā xuē </u>de érzi <u>biàn hādá </u>, jiù shōuhuíle <u>yǐsèliè </u>de chéng yì.
+
+Dì shísì zhāng
+
 1 <u>yǐsèliè </u>wáng <u>yuē hā sī </u>de érzi <u>yuē ā shī </u>dì èr nián,<u>yóudà </u>wáng <u>yuē ā shī </u>de érzi <u>yà mǎ xiè </u>dēngjī.
 2 Tā dēngjī de shíhòu nián èrshíwǔ suì, zài <u>yēlùsālěng </u>zuò wáng èrshíjiǔ nián. Tā mǔqīn míng jiào <u>yuē yé dàn </u>, shì <u>yēlùsālěng </u>rén.
 3 <U>yà mǎ xiè </u>xíng yēhéhuá yǎn zhòng kàn wèi zhèng de shì, dàn bùrú tā zǔ <u>dà wèi </u>, nǎi xiàofǎ tā fù <u>yuē ā shī </u>yīqiè suǒ xíng de.
@@ -10849,7 +10933,10 @@ Dì jiǔ zhāng
 26 Yīnwèi yēhéhuá kànjiàn <u>yǐsèliè </u>rén shén shì jiānkǔ, wúlùn kùn zhù de, zìyóu de, dōu méiyǒule, yě wúrén bāngzhù <u>yǐsèliè </u>rén.
 27 Yēhéhuá bìng méiyǒu shuō yào jiāng <u>yǐsèliè </u>de míng cóng tiānxià túmǒ, nǎi jí <u>yuē ā shī </u>de érzi <u>yé luóbō'ān </u>zhěngjiù tāmen.
 28 <U>yé luóbō'ān </u>qíyú de shì, fán tāsuǒ xíng de hé tā de yǒnglì, tā zěnyàng zhēngzhàn, zěnyàng shōuhuí <u>dàmǎshìgé </u>hé xiānqián shǔ <u>yóudà </u>de <u>hā mǎ </u>guī <u>yǐsèliè </u>, dōu xiě zài “<u>yǐsèliè </u>zhūwáng jì” shàng.
-29 <U>yé luóbō'ān </u>yǔ tā liè zǔ <u>yǐsèliè </u>zhūwáng tóng shuì. Tā érzi <u>sā jiā lì yǎ </u>jiēxù tā zuò wáng. Dì shíwǔ zhāng
+29 <U>yé luóbō'ān </u>yǔ tā liè zǔ <u>yǐsèliè </u>zhūwáng tóng shuì. Tā érzi <u>sā jiā lì yǎ </u>jiēxù tā zuò wáng.
+
+Dì shíwǔ zhāng
+
 1 <u>yǐsèliè </u>wáng <u>yé luóbō'ān </u>èrshíqī nián,<u>yóudà </u>wáng <u>yà mǎ xiè </u>de érzi <u>yà sā lì yǎ </u>dēngjī.
 2 Tā dēngjī de shíhòu nián shíliù suì, zài <u>yēlùsālěng </u>zuò wáng wǔshí'èr nián. Tā mǔqīn míng jiào <u>yé kě lì yǎ </u>, shì <u>yēlùsālěng </u>rén.
 3 <U>yà sā lì yǎ </u>xíng yēhéhuá yǎn zhòng kàn wèi zhèng de shì, xiàofǎ tā fùqīn <u>yà mǎ xiè </u>yīqiè suǒ xíng de.
@@ -10887,7 +10974,10 @@ Dì jiǔ zhāng
 35 Zhǐshì qiū tán hái méiyǒu fèi qù, bǎixìng réng zài nàlǐ xiàn jì shāoxiāng.<U>yuē tǎn </u>jiànlì yēhéhuá diàn de shàngmén.
 36 <U>yuē tǎn </u>qíyú de shì, fán tā suǒ xíng de, dōu xiě zài “<u>yóudà </u>liè wáng jì” shàng.
 37 Zài nàxiē rìzi, yēhéhuá cái shǐ <u>yà lán </u>wáng <u>lì xùn </u>hé <u>lì mǎ lì </u>de érzi <u>bǐ jiā </u>qù gōngjí <u>yóu dà </u>.
-38 <U>yuē tǎn </u>yǔ tā liè zǔ tóng shuì, zàng zài tā zǔ <u>dà wèi </u>chéng tā liè zǔ de féndì lǐ. Tā érzi <u>yà hā sī </u>jiēxù tā zuò wáng. Dì shíliù zhāng
+38 <U>yuē tǎn </u>yǔ tā liè zǔ tóng shuì, zàng zài tā zǔ <u>dà wèi </u>chéng tā liè zǔ de féndì lǐ. Tā érzi <u>yà hā sī </u>jiēxù tā zuò wáng.
+
+Dì shíliù zhāng
+
 1 <u>lì mǎ lì </u>de érzi <u>bǐ jiā </u>shíqī nián,<u>yóu dà </u>wáng <u>yuē tǎn </u>de érzi <u>yà hā sī </u>dēngjī.
 2 Tā dēngjī de shíhòu nián èrshí suì, zài <u>yēlùsālěng </u>zuò wáng shíliù nián. Bù xiàng tā zǔ <u>dà wèi </u>xíng yēhéhuá tā shén yǎn zhòng kàn wèi zhèng de shì,
 3 què xiàofǎ <u>yǐsèliè </u>zhūwáng suǒ xíng de, yòu zhàozhe yēhéhuá cóng <u>yǐsèliè </u>rén miànqián gǎn chū de wài bāngrén suǒ xíng kě zēng de shì, shǐ tā de érzi jīng huǒ,
@@ -11895,6 +11985,7 @@ Dì shí qī zhāng
 25 Wǒ de shén a, yīn nǐ qǐ shì pú rén shuō “wǒ bì wèi nǐ jiànlì jiā shì”, suǒ yǐ pú rén dàdǎn zài nǐ miànqián qídǎo.
 26 Yēhéhuá a, wéi yǒu nǐ shì shén, nǐ yě yīngxǔ jiāng zhè fúqi cì gěi pú rén.
 27 Xiàn zài nǐ xǐyuè cì fú yú pú rén de jiā, kěyǐ yǒng cúnzài nǐ miànqián. Yēhéhuá a, nǐ yǐjīng cì fú, hái yào cì fú dào yǒngyuǎn.'
+
 Dì shíbā zhāng
 
 1 cǐhòu,<u>dà wèi </u>gōngdǎ <u>fēi lì shì </u>rén, bǎ tāmen zhìfú, cóng tāmen shǒuxià duóqǔle <u>jiā tè </u>hé shǔ <u>jiā tè </u>de cūnzhuāng.
@@ -13893,6 +13984,7 @@ Dì shí'èr zhāng
 47 Dāng <u>suǒ luó bā bó </u>hé <u>ní xī mǐ </u>de shíhòu,<u>yǐsèliè </u>zhòngrén jiāng gēchàng de, shǒumén de měi rì suǒ dāng dé de fèn gōng jǐ tāmen, yòu gěi <u>lì wèi </u>rén dāng dé de fèn,<u>lì wèi </u>rén yòu gěi <u>yǎ lún </u>de zǐsūn dāng dé de fèn.
 
 Dì shísān zhāng
+
 1 Dāngrì, rén niàn <u>móxī </u>de lǜ fǎ shū gěi bǎixìng tīng, yùjiàn shū shàng xiězhe shuō:<U>yà mén </u>rén hé <u>mó yā </u>rén yǒng bùkě rùshén de huì,
 2 yīnwèi tāmen méiyǒu ná shíwù hé shuǐ lái yíngjiē <u>yǐsèliè </u>rén, qiě gùle <u>bā lán </u>zhòu zǔ tāmen, dàn wǒmen de shén shǐ nà zhòu zǔ biàn wèi zhùfú.
 3 <U>yǐsèliè </u>mín tīngjiàn zhè lǜ fǎ, jiù yǔ yīqiè xiánzá rén juéjiāo.
@@ -15871,6 +15963,7 @@ Dì sānshísān zhāng
 20 Wǒmen de xīn xiànglái děnghòu yēhéhuá, tā shì wǒmen de bāngzhù, wǒmen de dùnpái.
 21 Wǒmen de xīn bì kào tā huānxǐ, yīnwèi wǒmen xiànglái yǐkào tā de shèngmíng.
 22 Yēhéhuá a, qiú nǐ zhàozhe wǒmen suǒ yǎngwàng nǐ de, xiàng wǒmen shīxíng cí'ài.
+
 Dì sānshísì zhāng
 
 1 wǒ yào shí shí chēngsòng yēhéhuá, zànměi tā dehuà bì cháng zài wǒ kǒuzhōng.
@@ -15882,7 +15975,6 @@ Dì sānshísì zhāng
 7 Yēhéhuá de shǐzhě zài jìngwèi tā de rén sìwéi ānyíng, dājiù tāmen.
 8 Nǐmen yào cháng cháng zhǔ ēn de zīwèi, biàn zhīdào tā shì měi shàn. Tóukào tā de rén yǒufúle!
 9 Yēhéhuá de shèng mín nǎ, nǐmen dāng jìngwèi tā, yīn jìngwèi tā de yī wú suǒ quē.
-
 10 Shàozhuàng shī zǐ huán quē shí rěn è, dàn xúnqiú yēhéhuá de, shénme hǎochù dōu bù quē.
 11 Zhòng dìzǐ a, nǐmen dāng lái tīng wǒ dehuà, wǒ yào jiāng jìngwèi yēhéhuá de dào jiàoxùn nǐmen.
 12 Yǒu hérén xǐhào cúnhuó, àimù chángshòu, dé xiǎng měi fú,
@@ -23878,16 +23970,1015 @@ Dì sānshíliù zhāng
 
 Dì sānshíqī zhāng
 
-1 yēhéhuá de líng jiàng zài wǒ shēnshang, yēhéhuá jí tā de líng dài wǒ chū qù, jiāng wǒ fàng zài píngyuán zhōng, zhè píngyuán biàn mǎn háigǔ.
+1 yēhéhuá de líng jiàng zài wǒ shēnshang, yēhéhuá jí tā de líng dài wǒ chūqù, jiāng wǒ fàng zài píngyuán zhōng, zhè píngyuán biàn mǎn háigǔ.
 2 Tā shǐ wǒ cóng háigǔ de sìwéi jīngguò, shuí zhī zài píngyuán de háigǔ shén duō, érqiě jíqí kūgān.
 3 Tā duì wǒ shuō:`Rén zǐ a, zhèxiē háigǔ néng fùhuó ma?'Wǒ shuō:`Zhǔ yēhéhuá a, nǐ shì zhīdào de.'
-4 Tā yòu duì wǒ shuō:`Nǐ xiàng zhèxiē háigǔ fā yùyán shuō:“Kūgān de háigǔ a, yào tīng yēhéhuá de huà!
+4 Tā yòu duì wǒ shuō:`Nǐ xiàng zhèxiē háigǔ fā yùyán shuō:“Kūgān de háigǔ a, yào tīng yēhéhuá dehuà!
+5 Zhǔ yēhéhuá duì zhèxiē háigǔ rúcǐ shuō: Wǒ bì shǐ qìxí jìnrù nǐmen lǐmiàn, nǐmen jiù yào huóle.
+6 Wǒ bì gěi nǐmen jiā shàng jīn, shǐ nǐmen zhǎng ròu, yòu jiāng pí zhēbì nǐmen, shǐ qìxí jìnrù nǐmen lǐmiàn, nǐmen jiù yào huóle, nǐmen biàn zhīdào wǒ shì yēhéhuá.”'
+7 Yúshì, wǒ zūnmìng shuō yùyán. Zhèng shuō yùyán de shíhòu, bùliào, yǒu xiǎngshēng, yǒu dìzhèn, gǔ yǔ gǔ hùxiāng liánluò.
+8 Wǒ guānkàn, jiàn háigǔ shàng yǒu jīn, yě zhǎngle ròu, yòu yǒu pí zhēbì qí shàng, zhǐshì hái méiyǒu qìxí.
+9 Zhǔ duì wǒ shuō:`Rén zǐ a, nǐ yào fā yùyán, xiàng fēngfā yùyán shuō:“Zhǔ yēhéhuá rúcǐ shuō: Qìxí a, yào cóng sìfāng ér lái, chuī zài zhèxiē bèi shā de rén shēnshang, shǐ tāmen huóle!”'
+10 Yúshì wǒ zūnmìng shuō yùyán, qìxí jiù jìnrù háigǔ, háigǔ biàn huóle, bìngqiě zhàn qǐlái, chéngwéi jídà de jūnduì.
+11 Zhǔ duì wǒ shuō:`Rén zǐ a, zhèxiē háigǔ jiùshì <u>yǐsèliè </u>quánjiā. Tāmen shuō:“Wǒmen de gǔtou kūgānle, wǒmen de zhǐwàng shīqùle, wǒmen mièjué jìngjìnle.”
+12 Suǒyǐ nǐ yào fā yùyán duì tāmen shuō:“Zhǔ yēhéhuá rúcǐ shuō: Wǒ de mín nǎ, wǒ bì kāi nǐmen de fénmù, shǐ nǐmen cóng fénmù zhòng chūlái, lǐng nǐmen jìnrù <u>yǐsèliè </u>de.
+13 Wǒ de mín nǎ, wǒ kāi nǐmen de fénmù, shǐ nǐmen cóng fénmù zhòng chūlái, nǐmen jiù zhīdào wǒ shì yēhéhuá.
+14 Wǒ bì jiāng wǒ de líng fàng zài nǐmen lǐmiàn, nǐmen jiù yào huóle. Wǒ jiāng nǐmen ānzhì zài běndì, nǐmen jiù zhīdào wǒ yēhéhuá rúcǐ shuō, yě rúcǐ chéngjiùle. Zhè shì yēhéhuá shuō de.”'
+15 Yēhéhuá dehuà yòu líndào wǒ shuō:
+16 `Rén zǐ a, nǐ yào qǔ yī gēnmù zhàng, zài qí shàng xiě “wèi <u>yóudà </u>hé tā de tóngbàn <u>yǐsèliè </u>rén”. Yòu qǔ yī gēnmù zhàng, zài qí shàng xiě “wèi <u>yuē sè </u>, jiùshì wèi <u>yǐ fǎlián </u>, yòu wèi tā de tóngbàn <u>yǐsèliè </u>quánjiā”.
+17 Nǐ yào shǐ zhè liǎng gēnmù zhàng jiēlián wéi yī, zài nǐ shǒuzhōng chéngwéi yī gēn.
+18 Nǐ běnguó de zi mín wèn nǐ shuō:“Zhè shì shénme yìsi, nǐ bù zhǐshì wǒmen ma?”
+19 Nǐ jiù duì tāmen shuō:“Zhǔ yēhéhuá rúcǐ shuō: Wǒ yào jiāng <u>yuē sè </u>hé tā tóngbàn <u>yǐsèliè </u>zhīpài de zhàng, jiùshì nà zài <u>yǐ fǎlián </u>shǒuzhōng de, yǔ <u>yóudà </u>de zhàng yītóng jiēlián wéi yī, zài wǒ shǒuzhōng chéngwéi yī gēn.”
+20 Nǐ suǒ xiě dì nà liǎng gēn zhàng yào zài tāmen yǎnqián ná zài shǒuzhōng,
+21 yào duì tāmen shuō:“Zhǔ yēhéhuá rúcǐ shuō: Wǒ yào jiāng <u>yǐsèliè </u>rén cóng tāmen suǒ dào de gèguó shōuqǔ, yòu cóng sìwéi jùjí tāmen, yǐndǎo tāmen guīhuí běndì.
+22 “Wǒ yào shǐ tāmen zài nà de, zài <u>yǐsèliè </u>shānshàng, chéngwéi yī guó, yǒuyī wáng zuò tāmen zhòng mín de wáng. Tāmen bù zài wéi èr guó, jué bù zài fēn wéi èr guó.
+23 Yě bù zài yīn ǒuxiàng hàn kězēng de wù, bìng yīqiè de zuìguo, diànwū zìjǐ. Wǒ què yào jiù tāmen chū lí yīqiè de zhùchù, jiùshì tāmen fànzuì dì dìfāng, wǒ yào jiéjìng tāmen. Rúcǐ, tāmen yào zuò wǒ de zi mín, wǒ yào zuò tāmen de shén.
+24 “Wǒ de pú rén <u>dà wèi </u>bì zuò tāmen de wáng, zhòng mín bì guī yīgè mùrén. Tāmen bì shùncóng wǒ de diǎnzhāng, jǐn shǒu zūnxíng wǒ de lǜ lì.
+25 Tāmen bì zhù zài wǒ cì gěi wǒ pú rén <u>yǎ gè </u>dì dìshàng, jiùshì nǐmen liè zǔ suǒ zhù zhī dì. Tāmen hé tāmen de zǐsūn, bìng zǐsūn de zǐsūn, dōu yǒngyuǎn zhù zài nàlǐ. Wǒ de pú rén <u>dà wèi </u>bì zuò tāmen de wáng, zhídào yǒngyuǎn.
+26 Bìngqiě wǒ yào yǔ tāmen lì píng'ān dì yuē, zuòwéi yǒng yuē. Wǒ yě yào jiāng tāmen ānzhì zài běndì, shǐ tāmen de rénshù zēngduō, yòu zài tāmen zhōngjiān shèlì wǒ de shèng suǒ, zhídào yǒngyuǎn.
+27 Wǒ de jūsuǒ bì zài tāmen zhōngjiān, wǒ yào zuò tāmen de shén, tāmen yào zuò wǒ de zi mín.
+28 Wǒ de shèng suǒzài <u>yǐsèliè </u>rén zhōngjiān zhídào yǒngyuǎn, wài bāngrén jiù bì zhīdào wǒ shì jiào <u>yǐsèliè </u>chéngwéi shèng de yēhéhuá.”'
+
+Dì sānshíbā zhāng
+
+1 yēhéhuá dehuà líndào wǒ shuō:
+2 `Rén zǐ a, nǐ yào miànxiàng <u>mǎ gè </u>dì de <u>gē gé </u>, jiùshì <u>luó shī </u>,<u>mǐ shè </u>,<u>tǔ bā </u>de wáng fā yùyán gōngjí tā,
+3 shuō:“Zhǔ yēhéhuá rúcǐ shuō:<U>luó shī </u>,<u>mǐ shè </u>,<u>tǔ bā </u>de wáng <u>gē gé </u>a, wǒ yǔ nǐ wèi dí.
+4 Wǒ bìyòng gōuzi gōu zhù nǐ de sāi jiá, diàozhuǎn nǐ, jiāng nǐ hé nǐ de jūnbīng, mǎpǐ, mǎ bīng dài chūlái, dōu pīguà zhěngqí, chéngle dàduì, yǒu dàxiǎo dùnpái, gè ná dāojiàn.
+5 <U>bōsī </u>rén,<u>gǔ shí </u>rén hé <u>fú </u>rén gè ná dùnpái, tóushàng dài kuī,
+6 <u>gē miè </u>rén hé tā de jūnduì, běifāng jí chǔ de <u>tuó jiā mǎ </u>zú hé tā de jūnduì, zhè xǔduō guó de mín dōu tóngzhe nǐ.
+7 “Nà jùjídào nǐ zhèlǐ de gè duì dōu dāng zhǔnbèi, nǐ zìjǐ yě yào zhǔnbèi, zuò tāmen de dà shuài.
+.Guòle duō rì, nǐ bì bèi chà pài. Dào mòhòu zhī nián, nǐ bì lái dào tuōlí dāojiàn cóng lièguó shōuhuí zhī dì, dào <u>yǐsèliè </u>chángjiǔ huāngliáng de shānshàng. Dàn nà cóng lièguózhōng zhāo jù chūlái de, bì zài qí shàng ānrán jūzhù.
+9 Nǐ hé nǐ de jūnduì, bìng tóngzhe nǐ xǔduō guó de mín, bì rú bàofēng shànglái, rú mìyún zhēgài dìmiàn.
+10 “Zhǔ yēhéhuá rúcǐ shuō: Dào nà shí, nǐ xīn bì qǐ yìniàn, túmóu è jì,
+11 shuō:`Wǒ yào shàng nà wú chéngqiáng de xiāngcūn, wǒ yào dào nà ānjìng de mín nàlǐ, tāmen dōu méiyǒu chéngqiáng, wú mén wú shuān, ānrán jūzhù.
+12 Wǒ qù yào qiǎng cái wèi lǔ wù, duó huò wèi è wù, fǎnshǒu gōngjí nà cóngqián huāngliáng, xiànzài yǒurén jūzhù zhī dì, yòu gōngjí nà zhù shìjiè zhōngjiān, cóng lièguó zhāo jù, déliǎo shēngchù cáihuò de mín.'
+13 <U>shì bā </u>rén,<u>dǐ dàn rén </u>,<u>tā shī </u>de kèshāng héqíjiān de shàozhuàng shīzi dōu bì wèn nǐ shuō:`Nǐ lái yào qiǎng cái wèi lǔ wù ma? Nǐ jùjí jūnduì yào duó huò wèi è wù ma? Yào duóqǔ jīnyín, lǔ qù shēngchù, cáihuò ma? Yào qiǎngduó xǔduō cáibǎo wèi lǔ wù ma?'”
+14 `Rén zǐ a, nǐ yào yīncǐ fā yùyán, duì <u>gē gé </u>shuō:“Zhǔ yēhéhuá rúcǐ shuō: Dào wǒ mín <u>yǐsèliè </u>ānrán jūzhù zhī rì, nǐ qǐ bù zhīdào ma?
+15 Nǐ bì cóng běndì, cóng běifāng de jí chù shuàilǐng xǔduō guó de mín lái, dōu qízhe mǎ, nǎi yī dàduì jí duō de jūnbīng.
+16 <U>gē gé </u>a, nǐ bì shànglái gōngjí wǒ de mín <u>yǐsèliè </u>, rú mìyún zhēgài dìmiàn. Mòhòu de rìzi, wǒ bì dài nǐ lái gōngjí wǒ dì dì, dào wǒ zàiwài bāngrén yǎnqián, zài nǐ shēnshang xiǎn wèi shèng de shíhòu, hǎo jiào tāmen rènshí wǒ.
+17 “Zhǔ yēhéhuá rúcǐ shuō: Wǒ zài gǔ shí jí wǒ de pú rén <u>yǐsèliè </u>de xiānzhī suǒ shuō de, jiùshì nǐ ma? Dāngrì tāmen duōnián yùyán wǒ bì dài nǐ lái gōngjí <u>yǐsèliè </u>rén.
+18 Zhǔ yēhéhuá shuō:<U>gē gé </u>shànglái gōngjí <u>yǐsèliè </u>dì de shíhòu, wǒ de nùqì yào cóng bíkǒng lǐ fāchū.
+19 Wǒ fā fènhèn hé liè nù rú huǒ shuō, nà rì zài <u>yǐsèliè </u>de bì yǒu dà zhèndòng,
+20 shènzhì hǎizhōng de yú, tiānkōng de niǎo, tiányě de shòu, bìng dìshàng de yīqiè kūnchóng héqí shàng de zhòngrén, yīn jiàn wǒ de miàn jiù dōu zhèndòng. Shānlǐng bì bēngliè, dǒu yán bì tāxiàn, qiáng yuán dōu bì tān dào.
+21 Zhǔ yēhéhuá shuō: Wǒ bì mìng wǒ de zhūshān fā dāojiàn lái gōngjí <u>gē gé </u>, rén dōu yào yòng dāojiàn shāhài dìxiōng.
+22 Wǒ bìyòng wēnyì hé liúxuè de shì xíngfá tā, wǒ yě bì jiāng bàoyǔ, dà báo yǔ huǒ bìng liúhuáng jiàng yú tā hé tā de jūnduì, bìng tāsuǒ shuàilǐng de zhòng mín.
+23 Wǒ bì xiǎn wéi dà, xiǎn wèi shèng, zài duō guórén de yǎnqián xiǎnxiàn, tāmen jiù zhīdào wǒ shì yēhéhuá.”
+
+Dì sānshíjiǔ zhāng
+
+1 `rén zǐ a, nǐ yào xiàng <u>gē gé </u>fā yùyán gōngjí tā, shuō:“Zhǔ yēhéhuá rúcǐ shuō:<U>luó shī </u>,<u>mǐ shè </u>,<u>tǔ bā </u>de wáng <u>gē gé </u>a, wǒ yǔ nǐ wèi dí.
+2 Wǒ bì diàozhuǎn nǐ, lǐng nǐ qiánwǎng, shǐ nǐ cóng běifāng de jí chù shànglái, dài nǐ dào <u>yǐsèliè </u>de shānshàng.
+3 Wǒ bì cóng nǐ zuǒshǒu dǎ luò nǐ de gōng, cóng nǐ yòushǒu dǎ diào nǐ de jiàn.
+4 Nǐ hé nǐ de jūnduì bìng tóngzhe nǐ dì lièguórén, dōu bì dào zài <u>yǐsèliè </u>de shānshàng, wǒ bì jiāng nǐ gěi gè lèi de zhì niǎo hétiányě de zǒushòu zuò shíwù.
+5 Nǐ bì dào zài tiányě, yīnwèi wǒ céng shuōguò. Zhè shì zhǔ yēhéhuá shuō de.
+6 Wǒ yào jiàng huǒ zài <u>mǎ gè </u>hé hǎidǎo ānrán jūzhù de rén shēnshang, tāmen jiù zhīdào wǒ shì yēhéhuá.
+7 Wǒ yào zài wǒ mín <u>yǐsèliè </u>zhōng xiǎn chū wǒ de shèngmíng, yě bùróng wǒ de shèngmíng zài bèi xièdú, lièguórén jiù zhīdào wǒ shì yēhéhuá,<u>yǐsèliè </u>zhōng de shèngzhě.
+8 “Zhǔ yēhéhuá shuō: Zhè rì shìqíng línjìn, yě bì chéngjiù, nǎi shì wǒ suǒ shuō de rìzi.
+9 Zhù <u>yǐsèliè </u>chéng yì de rén bì chūqù jiǎn qìxiè, jiùshì dàxiǎo dùnpái, gōngjiàn, tǐng zhàng, qiāng máo, dōu dāng chái shāohuǒ, zhí shāo qī nián,
+10 shènzhì tāmen bùbì cóng tiányě jiǎn chái, yě bùbì cóng shùlín fámù. Yīnwèi tāmen yào yòng qìxiè shāohuǒ, bìngqiě qiǎngduó nà qiǎngduó tāmen de rén, lǔlüè nà lǔlüè tāmen de rén. Zhè shì zhǔ yēhéhuá shuō de.
+11 “Dāng nà rì, wǒ bì jiāng <u>yǐsèliè </u>dì de gǔ, jiùshì hǎidōng rén suǒ jīngguò de gǔ, cì gěi <u>gē gé </u>wèi féndì, shǐ jīngguò de rén dào cǐ tíng bù. Zài nàlǐ, rén bì zàngmái <u>gē gé </u>hé tā de qúnzhòng, jiù chēng nà dì wéi <u>hāmen gē gé </u>gǔ.
+12 <U>yǐsèliè </u>jiā de rén bìyòng qī gè yuè zàngmái tāmen, wèi yào jiéjìng quán de.
+13 Quán dì de jūmín dōu bì zàngmái tāmen. Dāng wǒ dé róngyào de rìzi, zhè shì bì jiào tāmen dé míngshēng. Zhè shì zhǔ yēhéhuá shuō de.
+14 Tāmen bì fēnpài rén shícháng xúnchá biàndì, yǔ guòlù de rén yītóng zàngmái nà shèng zài dìmiànshàng de shīshǒu, hào jiéjìng quán de. Guò le qī gè yuè, tāmen hái yào xúnchá.
+15 Xúnchá biàndì de rén yào jīngguò quán de, jiàn yǒurén de háigǔ, jiù zài pángbiān lì yī biāojì, děng zàngmái de rén lái jiāng háigǔ zàng zài <u>hāmen gē gé </u>gǔ.
+16 Tāmen bì zhèyàng jiéjìng nà de, bìng yǒuyī chéng míng jiào <u>hā mónà </u>.”
+17 `Rén zǐ a, zhǔ yēhéhuá rúcǐ shuō: Nǐ yào duì gè lèi de fēiniǎo hétiányě de zǒushòu shuō:“Nǐmen jùjí lái ba! Yào cóng sìfāng jù dào wǒ wèi nǐmen xiàn jì zhī dì, jiùshì zài <u>yǐsèliè </u>shānshàng xiàn dàjì zhī dì, hǎo jiào nǐmen chī ròu hē xuè.
+18 Nǐmen bì chī yǒngshì dì ròu, hē dìshàng shǒulǐng de xuè, jiù rú chī gōng miányáng, yánggāo, gōng shānyáng, gōngniú, dōu shì <u>bā shān </u>de féi chù.
+19 Nǐmen chī wǒ wèi nǐmen suǒ xiàn de jì, bì chī bǎole zhīyóu, hē zuìle xuè.
+20 Nǐmen bì zài wǒ xí shàng bǎo chī mǎpǐ hé zuòchē de rén, bìng yǒngshì hé yīqiè de zhànshì.” Zhè shì zhǔ yēhéhuá shuō de.
+21 `Wǒ bì xiǎn wǒ de róngyào zài liè guózhōng, wànmín jiù bì kànjiàn wǒ suǒ xíng de shěnpàn yǔ wǒ zài tāmen shēnshang suǒ jiā de shǒu.
+22 Zhèyàng, cóng nà rì yǐhòu,<u>yǐsèliè </u>jiā bì zhīdào wǒ shì yēhéhuá tāmen de shén.
+23 Liè guórén yě bì zhīdào <u>yǐsèliè </u>jiā bèi lǔlüè, shì yīn tāmen de zuìniè. Tāmen dézuì wǒ, wǒ jiù yǎn miàn bùgù, jiāng tāmen jiāo zài dírénshǒuzhōng, tāmen biàn dōu dào zài dāo xià.
+24 Wǒ shì zhào tāmen de wūhuì hé zuìguo dài tāmen, bìngqiě wǒ yǎn miàn bùgù tāmen.
+25 `Zhǔ yēhéhuá rúcǐ shuō: Wǒ yào shǐ <u>yǎ gè </u>bèi lǔ de rén guīhuí, yào liánmǐn <u>yǐsèliè </u>quánjiā, yòu wèi wǒ de shèngmíng fā rèxīn.
+26 Tāmen zài běndì ānrán jūzhù, wúrén jīngxià, shì wǒ jiāng tāmen cóng wànmín zhōng lǐng huí, cóng chóudí zhī dì zhào lái. Wǒ zài xǔduō guó de mín yǎnqián, zài tāmen shēnshang xiǎn wèi shèng de shíhòu, tāmen yào dāndāng zìjǐ de xiūrù hé gānfàn wǒ de yīqiè zuì.
+27 
+28 Yīn wǒ shǐ tāmen bèi lǔ dào wài bāngrén zhōng, hòu yòu jùjí tāmen guīhuí běndì, tāmen jiù zhīdào wǒ shì yēhéhuá tāmen de shén. Wǒ bì bùzài liú tāmen yīrén zàiwài bāng.
+29 Wǒ yě bù zài yǎn miàn bùgù tāmen, yīn wǒ yǐ jiāng wǒ de líng jiāoguàn <u>yǐsèliè </u>jiā. Zhè shì zhǔ yēhéhuá shuō de.'
+
+Dì sìshí zhāng
+
+1 wǒmen bèi lǔlüè dì èrshíwǔ nián,<u>yēlùsālěng </u>chéng gōngpò hòu shísì nián, zhèngzài niánchū, yuè zhī chū shí rì, yēhéhuá de líng jiàng zài wǒ shēnshang, tā bǎ wǒ dài dào <u>yǐsèliè </u>de.
+2 Zài shén de yìxiàng zhōng, dài wǒ dào <u>yǐsèliè </u>de, ānzhì zài zhìgāo de shānshàng, zài shānshàng de nánbian yǒu fǎngfú yīzuò chéng jiànlì.
+3 Tā dài wǒ dào nàlǐ, jiàn yǒuyīrén, yánsè rútóng, shǒu ná má shéng hé liàngdù de gān, zhàn zài ménkǒu.
+4 Nà rén duì wǒ shuō:`Rén zǐ a, fán wǒ suǒ zhǐshì nǐ de, nǐ dōu yào yòng yǎnkàn, yòng ěr tīng, bìng yào fàng zàixīn shàng. Wǒ dài nǐ dào zhèlǐ lái, tè wèi yào zhǐshì nǐ. Fán nǐ suǒjiàn de, nǐ dōu yào gàosù <u>yǐsèliè </u>jiā.'
+5 Wǒ jiàn diàn sìwéi yǒu qiáng. Nà rénshǒu ná liàngdù de gān, zhǎng liù zhǒu, měi zhǒu shì yī zhǒu líng yī zhǎng. Tā yòng gān liàng qiáng, hòu yī gān, gāo yī gān.
+6 Tā dàole cháo dōng de mén, jiù shàngmén de táijiē, liàng mén de zhè kǎn, kuān yī gān, yòu liàng mén dì nà kǎn, kuān yī gān.
+7 Yòu yǒu wèi fáng, měi fáng zhǎng yī gān, kuān yī gān, xiānggé wǔ zhǒu. Ménkǎn, jiùshì āizhe xiàng diàn de láng ménkǎn, kuān yī gān.
+8 Tā yòu liàng xiàng diàn mén de lángzi, kuān yī gān.
+9 Yòu liàng ménláng, kuān bā zhǒu, qiáng zhù hòu èr zhǒu, nà mén de lángzi xiàngzhe diàn.
+10 Dōngméndòng yǒu wèi fáng, zhè páng sānjiān, nà páng sānjiān, dōu shì yīyàng de chǐcùn, zhè biān de zhùzi hé nà biān de zhùzi yěshì yīyàng de chǐcùn.
+11 Tā liàng ménkǒu, kuān shí zhǒu, zhǎng shísān zhǒu.
+12 Wèi fáng qián zhǎn chū de jìngjiè, zhè biān yī zhǒu, nà biān yī zhǒu; wèi fáng zhè biān liù zhǒu, nà biān liù zhǒu.
+13 Yòu liàng méndòng, cóng zhè wèi fáng dǐng de hòu yán dào nà wèi fáng dǐng de hòu yán, kuān èrshíwǔ zhǒu, wèi fáng mén yǔ mén xiāngduì.
+14 Yòu liàng lángzi, liùshí zhǒu, qiáng zhù wài shì yuànzi, yǒu láng wèi jiè, zài méndòng liǎngbiān.
+15 Cóng dà ménkǒu dào nèi láng qián, gòng wǔshí zhǒu.
+16 Wèi fáng hé méndòng liǎngpáng zhù jiān bìng lángzi, dōu yǒu yánjǐn de chuānglíng, lǐbian dōu yǒu chuānglíng, zhù shàng yǒu diāokè de zōng shù.
+17 Tā dài wǒ dào wàiyuàn, jiàn yuàn de sìwéi yǒu pū shí de, pū shí dìshàng yǒu wūzi sānshí jiān.
+18 Pū shí de, jiùshì ǎi pū shí de, zài gè méndòng liǎngpáng, yǐ méndòng de chángduǎn wèi dù.
+19 Tā cóng xià mén liàng dào nèi yuànwài, gòng kuān yībǎi zhǒu, dōng miàn, běimiàn dōu shì rúcǐ.
+20 Tā liàng wàiyuàn cháo běi de mén, zhǎng kuān ruògān.
+21 Méndòng de wèi fáng, zhè páng sānjiān, nà páng sānjiān. Méndòng de zhùzi hé lángzi, yǔ dì yīmén de chǐcùn yīyàng. Méndòng zhǎng wǔshí zhǒu, kuān èrshíwǔ zhǒu.
+22 Qí chuānglíng hé lángzi bìng diāokè de zōng shù, yǔ cháo dōng de mén chǐcùn yīyàng. Dēng qī céng táijiē shàng dào zhè mén, qiánmiàn yǒu lángzi.
+23 Nèi yuàn yǒu mén yǔ zhè mén xiāngduì, běimiàn, dōng miàn dōu shì rúcǐ. Tā cóng zhè mén liàng dào nà mén, gòng yībǎi zhǒu.
+24 Tā dài wǒ wǎng nán qù, jiàn cháo nán yǒu mén. Yòu zhào xiānqián de chǐcùn, liàng méndòng de zhùzi hé lángzi.
+25 Méndòng liǎngpáng yǔ lángzi de zhōuwéi dōu yǒu chuānglíng, hé xiān liàng de chuānglíng yīyàng. Méndòng zhǎng wǔshí zhǒu, kuān èrshíwǔ zhǒu.
+26 Dēng qī céng táijiē shàng dào zhè mén, qiánmiàn yǒu lángzi. Zhù shàng yǒu diāokè de zōng shù, zhè biān yī kē, nà biān yī kē.
+27 Nèi yuàn cháo nán yǒu mén, cóng zhè mén liàng dào cháo nán dì nà mén, gòng yībǎi zhǒu.
+28 Tā dài wǒ cóng nán mén dào nèi yuàn, jiù zhào xiānqián de chǐcùn liàng nán mén.
+29 Wèi fáng hé zhùzi bìng lángzi, dōu zhào xiānqián de chǐcùn. Méndòng liǎngpáng yǔ lángzi de zhōuwéi dōu yǒu chuānglíng. Méndòng zhǎng wǔshí zhǒu, kuān èrshíwǔ zhǒu.
+30 Zhōuwéi yǒu lángzi, cháng èrshíwǔ zhǒu, kuān wǔ zhǒu.
+31 Lángzi cháozhe wàiyuàn, zhù shàng yǒu diāokè de zōng shù. Dēng bā céng táijiē shàng dào zhè mén.
+32 Tā dài wǒ dào nèi yuàn de dōng miàn, jiù zhào xiānqián de chǐcùn liàng dōngmén.
+33 Wèi fáng hé zhùzi bìng lángzi, dōu zhào xiānqián de chǐcùn. Méndòng liǎngpáng yǔ lángzi de zhōuwéi dōu yǒu chuānglíng. Méndòng zhǎng wǔshí zhǒu, kuān èrshíwǔ zhǒu.
+34 Lángzi cháozhe wàiyuàn, méndòng liǎngpáng de zhùzi dōu yǒu diāokè de zōng shù. Dēng bā céng táijiē shàng dào zhè mén.
+35 Tā dài wǒ dào běimén, jiù zhào xiānqián de chǐcùn liàng nà mén,
+36 jiùshì liàng wèi fáng hé zhùzi bìng lángzi. Méndòng zhōuwéi dōu yǒu chuānglíng. Méndòng zhǎng wǔshí zhǒu, kuān èrshíwǔ zhǒu.
+37 Láng zhù cháozhe wàiyuàn, méndòng liǎngpáng de zhùzi dōu yǒu diāokè de zōng shù. Dēng bā céng táijiē shàng dào zhè mén.
+38 Mén dòng de zhù páng yǒu wūzi hé mén, jìsī zài nàlǐ xǐ fánjì shēng.
+39 Zài ménláng nèi, zhè biān yǒu liǎng zhāng zhuōzi, nà biān yǒu liǎng zhāng zhuōzi, zài qí shàng kěyǐ zǎishā fánjì shēng, shúzuì jì shēng hé shú qiān jì shēng.
+40 Shàng dào cháo běi de ménkǒu, zhè biān yǒu liǎng zhāng zhuōzi, ménláng nà biān yěyǒu liǎng zhāng zhuōzi.
+41 Mén zhè biān yǒu sì zhāng zhuōzi, nà biān yǒu sì zhāng zhuōzi, gòng bā zhāng, zài qí shàng jìsī zǎishā xīshēng.
+42 Wèi fánjì shēng yǒu sì zhāng zhuōzi, shì záoguò de shítou zuò chéng de, zhǎng yī zhǒu bàn, kuān yī zhǒu bàn, gāo yī zhǒu, jìsī jiāng zǎishā fánjì shēng hé píng'ān jì shēng suǒyòng de qìmǐn fàng zài qí shàng.
+43 Yǒu gōuzi, kuān yī zhǎng, dīng zài láng nèi de sìwéi. Zhuōzi shàng yǒu xīshēng de ròu.
+44 Zài běimén páng, nèi yuàn lǐ yǒu wūzi, wèi gēchàng de rén ér shè. Zhè wūzi cháo nán, zài nán mén páng yòu yǒuyījiàn cháo běi.
+45 Tā duì wǒ shuō:`Zhè cháo nán de wūzi shì wèi kānshǒu diàn yǔ de jìsī,
+46 nà cháo běi de wūzi shì wèi kānshǒu jìtán de jìsī. Zhèxiē jìsī shì <u>lì wèi </u>rén zhōng <u>sā dū </u>de zǐsūn, jìnqián lái shìfèng yēhéhuá de.'
+47 Tā yòu liàng nèi yuàn, zhǎng yībǎi zhǒu, kuān yībǎi zhǒu, shì jiànfāng de. Jìtán zài diàn qián.
+48 Yúshì tā dài wǒ dào diàn qián de lángzi, liàng lángzi de qiáng zhù, zhè miàn hòu wǔ zhǒu, nà miàn hòu wǔ zhǒu. Mén liǎngpáng, zhè biān sān zhǒu, nà biān sān zhǒu.
+49 Lángzi cháng èrshí zhǒu, kuān shíyī zhǒu. Shàng lángzi yǒu táijiē. Kàojìn qiáng zhù yòu yǒu zhùzi, zhè biān yī gēn, nà biān yī gēn.
+
+Dì sìshíyī zhāng
+
+1 tā dài wǒ dào diàn nàlǐ liàng qiáng zhù, zhè miàn hòu liù zhǒu, nà miàn hòu liù zhǒu, kuānzhǎi yùhuì mù xiāngtóng.
+2 Ménkǒu kuān shí zhǒu, mén liǎngpáng, zhè biān wǔ zhǒu, nà biān wǔ zhǒu. Tā liàng diàn, zhǎng sìshí zhǒu, kuān èrshí zhǒu.
+3 Tā dào nèi diàn liàng qiáng zhù, gè hòu èr zhǒu. Ménkǒu kuān liù zhǒu, mén liǎngpáng gè kuān qī zhǒu.
+4 Tā liàng nèi diàn, cháng èrshí zhǒu, kuān èrshí zhǒu. Tā duì wǒ shuō:`Zhè shì zhì shèng suǒ.'
+5 Tā yòu liàng diàn qiáng, hòu liù zhǒu. Wéizhe diàn yǒu páng wū, gè kuān sì zhǒu.
+6 Páng wū yǒusān céng, céngdié ér shàng, měi céng páiliè sānshí jiān. Páng wū de liángmù gē zài diàn qiáng kǎn shàng, miǎndé chārù diàn qiáng.
+7 Zhè wéi diàn de páng wū yuè gāo yuè kuān. Yīn páng wū wéi diàn xuán dié ér shàng, suǒyǐ yuè shàngyuè kuān, cóng xià yīcéng, yóu zhōng yīcéng, dàoshàng yīcéng.
+8 Wǒ yòu jiàn wéizhe diàn yǒu gāo yuè tái. Páng wū de gēnjī, gāo zú yī gān, jiùshì liù dà zhǒu.
+9 Páng wū de wài qiáng hòu wǔ zhǒu. Páng wū zhī wài hái yǒu yúdì.
+10 Zài páng wū yǔ duìmiàn de fángwū zhōngjiān yǒu kòng de, kuān èrshí zhǒu.
+11 Páng wū de mén dū xiàng yúdì, yīmén xiàng běi, yī mén xiàng nán, zhōuwéi de yúdì kuān wǔ zhǒu.
+12 Zài xī miàn kòngdì zhīhòu yǒu fángzi, kuān qīshí zhǒu, zhǎng jiǔshí zhǒu, qiáng sìwéi hòu wǔ zhǒu.
+13 Zhèyàng, tā liàng diàn, zhǎng yībǎi zhǒu. Yòu liàng kòngdì hé nà fángzi bìng qiáng, gòng zhǎng yībǎi zhǒu.
+14 Diàn de qiánmiàn hé liǎngpáng de kòngdì, kuān yībǎi zhǒu.
+15 Tā liàng kòngdì hòumiàn dì nà fángzi bìng liǎngpáng de lóu láng, gòng zhǎng yībǎi zhǒu.
+16 Nèi diàn, yuàn láng, ménkǎn, yánjǐn de chuānglíng, bìng duìzhe ménkǎn de sān céng lóu láng, cóng de dào chuānglíng (chuānglíng dōu yǒu bì zi),
+17 zhídào mén yǐshàng, jiùshì dào nèi diàn hé wài diàn nèiwài sìwéi qiángbì, dōu àn chǐcùn yòng mùbǎn zhēbì.
+18 Qiáng shàng diāokè jī lù bó hé zōng shù, měi èr jī lù bó zhōngjiān yǒuyī kē zōng shù, měi jī lù bà yǒu èr liǎn.
+19 Zhè biān yǒurén liǎn xiàngzhe zōng shù, nà biān yǒu shī zǐ liǎn xiàngzhe zōng shù, diàn nèi zhōuwéi dōu shì rúcǐ.
+20 Cóng de zhì mén yǐshàng, dōu yǒu jī lù bó hé zōng shù, diàn qiáng jiùshì zhèyàng.
+21 Diàn de ménzhù shì fāng de. Zhì shèng suǒ de qiánmiàn, xíngzhuàng hé diàn de xíngzhuàng yīyàng.
+22 Tán shì mùtou zuò de, gāosān zhǒu, cháng èr zhǒu. Tán jiǎo hé tán miàn bìng sìpáng, dōu shì mùtou zuò de. Tā duì wǒ shuō:`Zhè shì yēhéhuá miànqián de zhuōzi.'
+23 Diàn hé zhì shèng suǒ de mén gè yǒu liǎng shàn.
+24 Měi shàn fēn liǎng shàn, zhè liǎng shàn shì zhédié de, zhè biānmén fēn liǎng shàn, nà biānmén yě fēn liǎng shàn.
+25 Diàn de ménshànshàng diāokè jī lù bó hé zōng shù, yǔ kè zài qiáng shàng de yībān. Zàiwài tou láng qián yǒu mù kǎn.
+26 Láng zhè biān nà biān dōu yǒu yánjǐn de chuānglíng hé zōng shù. Diàn de páng wū hé kǎn jiùshì zhèyàng.
+
+Dì sìshí'èr zhāng
+
+1 tā dài wǒ chūlái xiàng běi, dào wàiyuàn, yòu dài wǒ jìnrù shèng wū. Zhè shèng wū yī pái shùnzhe kòngdì, yī pái yǔ běibian pū shí de zhī wū xiāngduì.
+2 Zhè shèng wū zhǎng yībǎi zhǒu, kuān wǔshí zhǒu, yǒuxiàng běi de mén.
+3 Duìzhe nèi yuàn nà èrshí zhǒu kuān zhī kòngdì, yòu duìzhe wàiyuàn de pū shí de, zài dì sān céng lóu shàng yǒu lóu láng duìzhe lóu láng.
+4 Zài shèng wū qián yǒuyītiáo jiádào, kuān shí zhǒu, zhǎng yībǎi zhǒu. Fáng mén dū xiàng běi.
+5 Shèng wū yīnwèi lóu láng zhàn qù xiē dìfāng, suǒyǐshàngcéng bǐ zhòng xià liǎng céng zhǎi xiē.
+6 Shèng wū yǒusān céng, què wú zhùzi, bù xiàng wàiyuàn de wūzi yǒu zhùzi, suǒyǐshàngcéng bǐ zhòng xià liǎng céng gèng zhǎi.
+7 Shèng wūwài, dōngbian yǒu qiáng, kàozhe wàiyuàn, zhǎng wǔshí zhǒu.
+8 Kàozhe wàiyuàn de shèng wū zhǎng wǔshí zhǒu, diàn běimiàn de shèng wū zhǎng yībǎi zhǒu.
+9 Zài shèng wū yǐxià, dōng tóu yǒu jìnrù zhī chù, jiùshì cóng wàiyuàn jìnrù zhī chù.
+10 Xiàng nán, zài nèi yuàn qiáng lǐ yǒu shèng wū, yī pái yǔ pū shí de zhī wū xiāngduì, yī pái shùnzhe kòngdì.
+11 Zhè shèng wū qián de jiádào yǔ běibian shèng wū de jiádào cháng kuān yīyàng, chūrù zhī chù yǔ běi wū mén de yàngshì xiāngtóng.
+12 Zhèngzài qiáng qián, jiádào de dōng tóu, yǒu mén kěyǐ jìnrù, yǔ xiàng nán shèng wū de mén yīyàng.
+13 Tā duì wǒ shuō:`Shùnzhe kòngdì de nán wū běi wū, dōu shì shèng wū. Qīnjìn yēhéhuá de jìsī dāng zài nàlǐ chī zhì shèng de wù, yě dāng zài nàlǐ fàng zhì shèng de wù, jiùshì sù jì, shúzuì jì hé shú qiān jì, yīncǐ chùwèi shèng.
+14 Jìsī jìnqù chūle shèng suǒ de shíhòu, bùkě zhídào wàiyuàn, dàn yào zài shèng wū fàngxià tāmen gòngzhí de yīfú, yīn wéi shì shèng yī. Yào chuān shàng bié de yīfú, cái kěyǐ dào shǔ mín de wàiyuàn.'
+15 Tā liàng wánliǎo nèi diàn, jiù dài wǒ chū cháo dōng de mén, liàng yuàn de sìwéi.
+16 Tā yòngliàng dù de gān liàng sìwéi, liàng dōng miàn, wǔbǎi zhǒu.
+17 Yòng gān liàng běimiàn, wǔbǎi zhǒu.
+18 Yòng gān liàng nánmiàn, wǔbǎi zhǒu.
+19 Yòu zhuǎn dào xī miàn, yòng gān liàng wǔbǎi zhǒu.
+20 Tā liàng sìmiàn, sìwéi yǒu qiáng, zhǎng wǔbǎi zhǒu, kuān wǔbǎi zhǒu, wèi yào fēnbié shèngdì yǔ sú de.
+
+Dì sìshísān zhāng
+
+1 yǐhòu, tā dài wǒ dào yīzuò mén, jiùshì cháo dōng de mén.
+2 <U>yǐsèliè </u>shén de róngguāng cóng dōng ér lái, tā de shēngyīn rútóng duō shuǐ de shēngyīn, de jiù yīn tā de róngyào fāguāng.
+3 Qí zhuàng rú cóngqián tā lái miè chéng de shíhòu wǒ suǒjiàn de yì xiàng, nà yì xiàng rú wǒ zài <u>jiā bā lǔ </u>hé biān suǒjiàn de yì xiàng, wǒ jiù fǔfú zài dì.
+4 Yēhéhuá de róngguāng cóng cháo dōng de mén zhào rù diànzhōng.
+5 Líng jiāng wǒ jǔ qǐ, dài rù nèi yuàn, bùliào, yēhéhuá de róngguāng chōngmǎnle diàn.
+6 Wǒ tīngjiàn yǒuyī wèi cóng diànzhōng duì wǒ shuōhuà, yǒuyīrén zhàn zài wǒ pángbiān.
+7 Tā duì wǒ shuō:`Rén zǐ a, zhè shì wǒ bǎozuò zhī dì, shì wǒ jiǎozhǎngsuǒ tà zhī dì. Wǒ yào zài zhèlǐ zhù, zài <u>yǐsèliè </u>rén zhōng, zhídào yǒngyuǎn.<U>yǐsèliè </u>jiā hé tāmen de jūnwáng bì bù zài diànwū wǒ de shèngmíng, jiùshì xíng xiéyín, zài <u>xī ān </u>de gāo chù zàngmái tāmen jūnwáng de shīshǒu.
+8 Shǐ tāmen de ménkǎn āijìn wǒ de ménkǎn, tāmen de ménkuàng āijìn wǒ de ménkuàng, tāmen yǔ wǒ zhōngjiān jǐn gé yī qiáng, bìngqiě xíng kězēng de shì, diànwūle wǒ de shèngmíng, suǒyǐ wǒ fānù mièjué tāmen.
+9 Xiànzài tāmen dāng cóng wǒ miànqián yuǎn chú xiéyín hé tāmen jūnwáng de shīshǒu, wǒ jiù zhù zài tāmen zhōngjiān zhídào yǒngyuǎn.
+10 `Rén zǐ a, nǐ yào jiāng zhè diàn zhǐshì <u>yǐsèliè </u>jiā, shǐ tāmen yīn zìjǐ de zuìniè cánkuì, yě yào tāmen liàng diàn de chǐcùn.
+11 Tāmen ruò yīn zìjǐ suǒ xíng de yīqiè shì cánkuì, nǐ jiù jiāng diàn de guīmó, yàngshì, chūrù zhī chù hé yī qiē xíngzhuàng, diǎnzhāng, lǐyí, fǎzé zhǐshì tāmen, zài tāmen yǎnqián xiě shàng, shǐ tāmen zūnzhào diàn de yīqiè guīmó, diǎnzhāng qù zuò.
+12 Diàn de fǎzé nǎi shì rúcǐ: Diàn zài shāndǐng shàng, sìwéi de quán jiè yào chēng wéi zhì shèng. Zhè jiùshì diàn de fǎzé.
+13 `Yǐxià liàng jìtán, shì yǐ zhǒu wèi dù (zhè zhǒu shì yī zhǒu líng yī zhǎng). Dǐzuò gāo yī zhǒu, biān kuān yī zhǒu, sìwéi qǐ biān gāo yī zhǎng, zhè shì tán de zuò.
+14 Cóng dǐzuò dào xiàcéng dèng tái, gāo'èr zhǒu, biān kuān yī zhǒu. Cóngxiǎo dèng tái dào dà dèng tái, gāo sì zhǒu, biān kuān yī zhǒu.
+15 Tánshàng de gōng tái gāo sì zhǒu, gōng tái de sì guǎijiǎo shàng dū yǒu jiǎo.
+16 Gōng tái zhǎng shí'èr zhǒu, kuān shí'èr zhǒu, sìmiàn jiànfāng.
+17 Dèng tái zhǎng shísì zhǒu, kuān shísì zhǒu, sìmiàn jiànfāng. Sìwéi qǐ biān gāo bàn zhǒu, dǐzuò sìwéi de biān kuān yī zhǒu. Táijiē cháo dōng.'
+18 Tā duì wǒ shuō:`Rén zǐ a, zhǔ yēhéhuá rúcǐ shuō: Jiànzào jìtán, wèi yào zài qí shàng xiàn fánjì sǎ xuè, zàochéng de shíhòu diǎnzhāng rúxià.
+19 Zhǔ yēhéhuá shuō: Nǐ yào jiāng yī zhī gōngniúdú zuòwéi shúzuì jì, gěi jìsī <u>lì wèi </u>rén <u>sā dū </u>de hòuyì, jiùshì nà qīnjìn wǒ shìfèng wǒ de.
+20 Nǐ yào qǔ xiē gōngniú de xuè, mǒ zài tán de sìjiǎo hé dèng tái de sì guǎijiǎo, bìng sìwéi suǒ qǐ de biān shàng. Nǐ zhèyàng jiéjìng tán, tán jiù jiéjìngle.
+21 Nǐ yòu yào jiāng nà zuò shúzuì jì de gōngniúdú shāo zài diàn wài, shèngdì zhī wài yùdìng zhī chù.
+22 Cì rì, yào jiāng wú cánjí de gōng shānyáng xiàn wèi shúzuì jì, yào jiéjìng tán, xiàng yòng gōngniúdú jiéjìng de yīyàng.
+23 Jiéjìngle tán, jiù yào jiāng yī zhī wú cánjí de gōngniúdú hé yáng qún zhōng yī zhī wú cánjí de gōng miányáng,
+24 fèng dào yēhéhuá qián. Jìsī yào sā yán zài qí shàng, xiàn yú yēhéhuá wèi fánjì.
+25 Qī rìnèi, měi rì yào yùbèi yī zhī gōng shānyáng wèi shúzuì jì, yě yào yùbèi yī zhī gōngniúdú hé yáng qún zhōng de yī zhī gōng miányáng, dōu yào méiyǒu cánjí de.
+26 Qī rì jìsī jiéjìng tán, tán jiù jiéjìngle, yào zhèyàng bǎ tán fēnbié wèi shèng.
+27 Mǎnle qī rì, zì bā rì yǐhòu, jìsī yào zài tánshàng xiàn nǐmen de fánjì hé píng'ān jì, wǒ bì yuè nà nǐmen. Zhè shì zhǔ yēhéhuá shuō de.'
+
+Dì sìshísì zhāng
+
+1 tā yòu dài wǒ huí dào shèngdì cháo dōng de wài mén, nà mén guānbìle.
+2 Yēhéhuá duì wǒ shuō:`Zhè mén bìxū guānbì, bùkě chǎngkāi, shuí yě bùkě yóu qízhōng jìnrù. Yīnwèi yēhéhuá <u>yǐsèliè </u>de shén yǐjīng yóu qízhōng jìnrù, suǒyǐ bìxū guānbì.
+3 `Zhìyú wáng, tā bì àn wáng de wèi fēn zuò zài qí nèi, zài yēhéhuá miànqián chī bǐng. Tā bìyóu zhè mén de láng ér rù, yě bìyóu cǐ ér chū.'
+4 Tā yòu dài wǒ yóu běimén lái dào diàn qián. Wǒ guānkàn, jiàn yēhéhuá de róngguāng chōngmǎn yēhéhuá de diàn, wǒ jiù fǔfú zài dì.
+5 Yēhéhuá duì wǒ shuō:`Rén zǐ a, wǒ duì nǐ suǒ shuō yēhéhuá diànzhōng de yīqiè diǎnzhāng, fǎzé, nǐ yào fàng zàixīn shàng, yòng yǎnkàn, yòng ěr tīng, bìng yào liúxīn diàn yǔhé shèngdì yīqiè chūrù zhī chù.
+6 `Nǐ yào duì nà bèinì de <u>yǐsèliè </u>jiā shuō:“Zhǔ yēhéhuá rúcǐ shuō:<U>yǐsèliè </u>jiā a, nǐmen xíng yīqiè kězēng de shì, dāng gòule ba!
+7 Nǐmen bǎ wǒ de shíwù, jiùshì zhīyóu hé xuè xiàn shàng de shíhòu, jiāng shēnxīn wèi shòu gēlǐ de wài bāngrén lǐng jìn wǒ de shèngdì, diànwūle wǒ de diàn; yòu bèile wǒ de yuē, zài nǐmen yīqiè kězēng de shìshàng, jiā shàng zhè yīcéng.
+8 Nǐmen yě méiyǒu kānshǒu wǒ de shèng wù, què pài biérén zài shèngdì tì nǐmen kānshǒu wǒ suǒ fēnfù nǐmen de.
+9 “Zhǔ yēhéhuá rúcǐ shuō:<U>yǐsèliè </u>zhōng de wài bāngrén, jiùshì shēnxīn wèi shòu gēlǐ de, dōu bùkě rù wǒ de shèngdì.
+10 Dāng <u>yǐsèliè </u>rén zǒu mí de shíhòu, yǒu <u>lì wèi </u>rén yuǎnlí wǒ, jiùshì zǒu mí líkāi wǒ, suícóng tāmen de ǒuxiàng, tāmen bì dāndāng zìjǐ de zuìniè.
+11 Rán'ér tāmen bì zài wǒ de shèngdì dāng púyì, zhàoguǎn diàn mén, zài diànzhōng gòngzhí, bì wèimín zǎishā fánjì shēng hé píng'ān jì shēng, bì zhàn zài mín qián cìhòu tāmen.
+12 Yīnwèi zhèxiē <u>lì wèi </u>rén céng zài ǒuxiàng qián cìhòu zhè mín, chéngle <u>yǐsèliè </u>jiā zuìniè de bànjiǎoshí, suǒyǐ wǒ xiàng tāmen qǐshì, tāmen bì dāndāng zìjǐ de zuìniè. Zhè shì zhǔ yēhéhuá shuō de.
+13 Tāmen bùkě qīnjìn wǒ, gěi wǒ gōng jìsī de zhí fèn, yě bùkě āijìn wǒ de yī jiàn shèng wù, jiùshì zhì shèng de wù, tāmen què yào dāndāng zìjǐ de xiūrù hé suǒ xíng kězēng zhīshì de bàoyìng.
+14 Rán'ér wǒ yào shǐ tāmen kānshǒu diàn yǔ, bànlǐ qízhōng de yīqiè shì bìng zuò qí nèi yīqiè dàngzuò zhī gōng.
+15 “<U>yǐsèliè </u>rén zǒu mí líkāi wǒ de shíhòu, jìsī <u>lì wèi </u>rén <u>sā dū </u>de zǐsūn réng kānshǒu wǒ de shèng suǒ. Tāmen bì qīnjìn wǒ shìfèng wǒ, bìngqiě shìlì zài wǒ miànqián, jiāng zhīyóu yǔ xuè xiàn gěi wǒ. Zhè shì zhǔ yēhéhuá shuō de.
+16 Tāmen bì jìnrù wǒ de shèng suǒ, jiùjìn wǒ de zhuō qián shìfèng wǒ, shǒu wǒ suǒ fēnfù de.
+17 “Tāmen jìn nèi yuàn mén bì chuān xì máyī, zài nèi yuàn mén hé diàn nèi gòngzhí de shíhòu bùkě chuān yángmáo yīfú.
+18 Tāmen tóushàng yào dài xì mábù guǒ tóujīn, yāo chuān xì mábù kùzi, bùkě chuān shǐ shēntǐ chū hàn de yīfú.
+19 Tāmen chū dào wàiyuàn de mín nàlǐ, dāng tuō xià gòngzhí de yīfú, fàng zài shèng wū nèi, chuān shàng bié de yīfú, miǎndé yīn shèng yī shǐ mín chéng shèng.
+20 Bùkě tìtóu, yě bùkě róng fà liǔ zhǎng zhǎng, zhǐ kě jiǎn fà.
+21 Jìsī jìn nèi yuàn de shíhòu dōu bùkě hējiǔ.
+22 Bùkě qǔ guǎfù hé bèi xiū de fùrén wéi qī, zhǐ kě qǔ <u>yǐsèliè </u>hòuyì zhōng de chǔnǚ, huò shì jìsī yíliú de guǎfù.
+23 Tāmen yào shǐ wǒ de mín zhīdào shèngsú de fēnbié, yòu shǐ tāmen fēnbiàn jiéjìng de hé bù jiéjìng de.
+24 Yǒu zhēng sòng de shì, tāmen yīngdāng zhànlì pànduàn, yào àn wǒ de diǎnzhāng pànduàn. Zài wǒ yīqiè de jié qí, bì shǒu wǒ de lǜ fǎ, tiáolì, yě bì yǐ wǒ de ānxírì wèi shèng rì.
+25 Tāmen bùkě āijìn sǐshī zhānrǎn zìjǐ, zhǐ kě wéi fùqīn, mǔqīn, érzi, nǚ'ér, dìxiōng hé wèi jià rén de jiěmèi zhānrǎn zìjǐ.
+26 Jìsī jiéjìng zhīhòu, bì zài jìsuàn qī rì.
+27 Dāng tā jìn nèi yuàn, jìn shèng suǒ, zài shèng suǒ zhōng shìfèng de rìzi, yào wèi zìjǐ xiàn shúzuì jì. Zhè shì zhǔ yēhéhuá shuō de.
+28 “Jìsī bì yǒu chǎnyè, wǒ shì tāmen de chǎnyè. Bùkě zài <u>yǐsèliè </u>zhōng gěi tāmen jīyè, wǒ shì tāmen de jīyè.
+29 Sù jì, shúzuì jì hé shú qiān jì tāmen dōu kěyǐ chī,<u>yǐsèliè </u>zhōng yīqiè yǒng xiàn de wù dōu yào guī tāmen.
+30 Shǒuxiān chū shú zhī wù hé yīqiè suǒ xiàn de gōngwù, dōu yào guī gěi jìsī. Nǐmen yě yào yòng chū shú de màizi mò miàn gěi jìsī, zhèyàng, fúqi jiù bì líndào nǐmen de jiāle.
+31 Wúlùn shì niǎo shì shòu, fán zì sǐ de huò shì sī liè de, jìsī dōu bùkě chī.
+
+Dì sìshíwǔ zhāng
+
+1 “nǐmen niānjiū fēn dì wéi yè, yào xiàn shàng yī fèn gěi yēhéhuá wèi shèng gōng de, cháng èr wàn wǔqiān zhǒu, kuān yī wàn zhǒu. Zhè fèn yǐnèi, sìwéi dōu wèi shèngdì.
+2 Qízhōng yǒu zuòwéi shèng suǒ zhī dì, zhǎng wǔbǎi zhǒu, kuān wǔbǎi zhǒu, sìmiàn jiànfāng. Sìwéi zài yǒu wǔshí zhǒu, wèi jiāoyě zhī dì.
+3 Yào yǐ zhǒu wèi dù liáng dì, cháng èr wàn wǔqiān zhǒu, kuān yī wàn zhǒu. Qízhōng yǒu shèng suǒ, shì zhì shèng de.
+4 Zhè shì quán dì de yī fèn shèngdì, yào guīyú gōng shèng suǒ zhí shì de jìsī, jiùshì qīnjìn shìfèng yēhéhuá de, zuòwéi tāmen fángwū zhī dì yǔ shèng suǒ zhī shèngdì.
+5 Yòu yǒuyī fèn, cháng èr wàn wǔqiān zhǒu, kuān yī wàn zhǒu, yào guīyú zài diànzhōng gòngzhí de <u>lì wèi </u>rén, zuòwéi èrshí jiān fángwū zhī yè.
+6 “Yě yào fēn dìng shǔ chéng dì dì yè, kuān wǔqiān zhǒu, cháng èr wàn wǔqiān zhǒu, āizhe nà fèn shèng gōng de, yào guī <u>yǐsèliè </u>quánjiā.
+7 “Guī wáng zhī dì yào zài shèng gōng de hé shǔ chéng zhī dì de liǎngpáng, jiùshì shèng gōng de hé shǔ chéng zhī dì de pángbiān, xī zhì xī tóu, dōng zhì dōng tóu, cóng xī dào dōng, qí zhǎng yǔ měi zhīpài de fèn yīyàng.
+8 Zhè de zài <u>yǐsèliè </u>zhōng bì guī wángwèiyè. Wǒ suǒ lì de wáng bì bù zài qīyā wǒ de mín, què yào àn zhīpài jiāng dì fēn gěi <u>yǐsèliè </u>jiā.
+9 “Zhǔ yēhéhuá rúcǐ shuō:<U>yǐsèliè </u>de wáng a, nǐmen yīngdāng zhīzú, yào chú diào qiángbào hé qiǎngduó de shì, shīxíng gōngpíng hé gōngyì, bù zài lèsuǒ wǒ de mín. Zhè shì zhǔ yēhéhuá shuō de.
+10 Nǐmen yào yòng gōngdào tiānpíng, gōngdào yī fǎ, gōngdào bà tè.
+11 Yī fǎ yǔ bà tè dàxiǎo yào yīyàng, bà tè kě shènghèméi ěr shí fēn zhī yī, yī fǎ yě kě shènghèméi ěr shí fēn zhī yī, dōu yǐ hè méi ěr de dàxiǎo wéi zhǔn.
+12 Shě kè lēi shì èrshí jì lā; èrshí shě kè lēi, èrshíwǔ shě kè lēi, shíwǔ shě kè lēi, wèi nǐmen de mí nà.
+13 “Nǐmen dāng xiàn de gōngwù nǎi shì zhèyàng: Yī hè méi ěr màizi yào xiàn yī fǎ liù fēn zhī yī, yī hè méi ěr dàmài yào xiàn yī fǎ liù fēn zhī yī.
+14 Nǐmen xiàn suǒ fēn dìng de yóu, àn yóu de bà tè, yī kē ěr yóu yào xiàn bà tè shí fēn zhī yī. Yuánlái shí bà tè jiùshì yī hè méi ěr.
+15 Cóng <u>yǐsèliè </u>zīrùn de cǎochǎng shàng, měi èrbǎi yáng zhòng yào xiàn yī zhī yánggāo. Zhè dōu kě zuò sù jì, fánjì, píng'ān jì, wèimín shúzuì. Zhè shì zhǔ yēhéhuá shuō de.
+16 Cǐdì de mín dōu yào fèng shàng zhè gōngwù gěi <u>yǐsèliè </u>zhōng de wáng.
+17 Wáng de běn fēn shì zài jié qí, yuè shuò, ānxírì, jiùshì <u>yǐsèliè </u>jiā yì qiè de jié qí, fèng shàng fánjì, sù jì, diàn jì. Tā yào yùbèi shúzuì jì, sù jì, fánjì hé píng'ān jì, wèi <u>yǐsèliè </u>jiā shúzuì.
+18 “Zhǔ yēhéhuá rúcǐ shuō: Zhēngyuèchū yī rì, nǐ yào qǔ wú cánjí de gōng niúdú, jiéjìng shèng suǒ.
+19 Jìsī yào qǔ xiē shúzuì jì shēng de xuè, mǒ zài diàn de ménzhù shàng hé tán dèng tái de sìjiǎo shàng, bìng nèi yuàn de ménkuàng shàng.
+20 Běn yuè chū qī rì, yě yào wéi wù fànzuì de hé yúméng fànzuì de rúcǐ xíng, wèi diàn shúzuì.
+21 “Zhēngyuè shísì rì, nǐmen yào shǒu yúyuè jié, shǒujié qī rì, yào chī wú jiào bǐng.
+22 Dāngrì, wáng yào wèi zìjǐ hé guónèi de zhòng mín yùbèi yī zhī gōng niú zuò shúzuì jì.
+23 Zhè jié de qī rì, měi rì tā yào wèi yēhéhuá yùbèi wú cánjí de gōng niú qī zhī, gōng miányáng qī zhī wèi fánjì, měi rì yòu yào yùbèi gōng shānyáng yī zhī wèi shúzuì jì.
+24 Tā yě yào yùbèi sù jì, jiùshì wéi yī zhī gōng niú tóng xiàn yī yī fǎ xì miàn, wéi yī zhī gōng miányáng tóng xiàn yī yī fǎ xì miàn, měi yī yī fǎ xì miàn jiāyóu yīxīn.
+25 Qī yuè shíwǔ rì shǒujié de shíhòu, qī rì tā dōu yào rúcǐ xíng, zhào yúyuè jié de shúzuì jì, fánjì, sù jì hé yóu de tiáolì yīyàng.
+
+Dì sìshíliù zhāng
+
+1 “zhǔ yēhéhuá rúcǐ shuō: Nèi yuàn cháo dōng de mén zài bànlǐ shìwù de liù rìnèi bìxū guānbì, wéi yǒu ānxírì hé yuè shuò bìxū chǎngkāi.
+2 Wáng yào cóng zhè mén de láng jìnrù, zhàn zài ménkuàng pángbiān. Jìsī yào wèi tā yùbèi fánjì hé píng'ān jì, tā jiù yào zài ménkǎn nàlǐ jìng bài, ránhòu chūqù. Zhè mén zhídào wǎnshàng bùkě guānbì.
+3 Zài ānxírì hé yuè shuò, guónèi de jūmín yào zài zhè ménkǒu, yēhéhuá miànqián jìng bài.
+4 Ānxírì, wáng suǒ xiàn yú yēhéhuá de fánjì yào yòng wú cánjí de yánggāo liù zhī, wú cánjí de gōng miányáng yī zhī.
+5 Tóng xiàn de sù jì yào wèi gōng miányáng xiàn yī yī fǎ xì miàn, wèi yánggāo zhào tā de lìliàng ér xiàn, yī yī fǎ xì miàn jiāyóu yī xīn.
+6 “Dàngyuè shuò, yào xiàn wú cánjí de gōng niúdú yī zhī, yánggāo liù zhī, gōng miányáng yī zhī, dōu yào wú cánjí de.
+7 Tā yě yào yùbèi sù jì, wèi gōng niú xiàn yī yī fǎ xì miàn, wèi gōng miányáng xiàn yī yī fǎ xì miàn, wèi yánggāo zhào tā de lìliàng ér xiàn, yī yī fǎ xì miàn jiāyóu yī xīn.
+8 Wáng jìnrù de shíhòu, bìyóu zhè mén de láng ér rù, yě bìyóu cǐ ér chū.
+9 “Zài gè jié qí, guónèi jūmín cháojiàn yēhéhuá de shíhòu, cóng běimén jìnrù jìng bài de bìyóu nán mén ér chū, cóng nán mén jìnrù de bìyóu běimén ér chū. Bùkě cóng suǒ rù de mén ér chū, bìyào zhí wǎng qián xíng, yóu duìmén ér chū.
+10 Mín jìnrù, wáng yě yào zài mín zhōng jìnrù; mín chūqù, wáng yě yào yītóng chūqù.
+11 Zài jié qí hé shèng huì de rì zǐ tóng xiàn de sù jì, yào wéi yī zhī gōng niú xiàn yī yī fǎ xì miàn, wéi yī zhī gōng miányáng xiàn yī yī fǎ xì miàn, wèi yánggāo zhào tā de lìliàng ér xiàn, yī yī fǎ xì miàn jiāyóu yī xīn.
+12 Wáng yùbèi gānxīn xiàn de fánjì huò píng'ān jì, jiùshì xiàng yēhéhuá gānxīn xiàn de, dāng yǒurén wéi tā kāi cháo dōng de mén. Tā jiù yùbèi fánjì hé píng'ān jì, yǔ ānxírì yùbèi de yīyàng, xiàn bì jiù chūqù. Tā chūqù zhīhòu, dāng yǒurén jiàngmén guānbì.
+13 “Měi rì nǐ yào yùbèi wú cánjí, yī suì de yánggāo yī zhī, xiàn yú yēhéhuá wèi fánjì, yào měi zǎochén yùbèi.
+14 Měi zǎochén yě yào yùbèi tóng xiàn de sù jì, xì miàn yī yī fǎ liù fēn zhī yī, bìng yóu yī xīn sān fēn zhī yī, tiáohé xì miàn. Zhè sù jì yào cháng xiàn yú yēhéhuá wèi yǒngyuǎn de dìnglì.
+15 Měi zǎochén yào zhèyàng yùbèi yánggāo, sù jì bìng yóu wéi cháng xiàn de fánjì.
+16 “Zhǔ yēhéhuá rúcǐ shuō: Wáng ruò jiāng chǎnyè cì gěi tā de érzi, jiù chéngle tā érzi de chǎnyè, nà shì tāmen chéngshòu wèi yè de.
+17 Tǎngruò wángjiāng yī fèn chǎnyè cì gěi tā de chén pú, jiù chéngle tā chén pú de chǎnyè, dào zìyóu zhī nián réng yào guīyú wáng. Zhìyú wáng de chǎnyè, bì guīyú tā de érzi.
+18 Wáng bùkě duóqǔ mín de chǎnyè, yǐzhì qūzhú tāmen líkāi suǒ chéngshòu de. Tā yào cóng zìjǐ dì dì yè zhōng, jiāng chǎnyè cì gěi tā érzi, miǎndé wǒ de mín fēnsàn, gèrén líkāi suǒ chéngshòu de.”'
+19 Nà dài wǒ de, jiāng wǒ cóng mén páng jìnrù zhī chù lǐng jìn wèi jìsī yùbèi de shèng wū, shì cháo běi de, jiàn hòutou xībian yǒuyīkuài dì.
+20 Tā duì wǒ shuō:`Zhè shì jìsī zhǔ shú qiān jì, shúzuì jì, kǎo sù jì zhī dì, miǎndé dài dào wàiyuàn, shǐ mín chéng shèng.'
+21 Tā yòu dài wǒ dào wàiyuàn, shǐ wǒ jīngguò yuànzi de sì guǎijiǎo, jiàn měi guǎijiǎo gè yǒuyīgè yuànzi.
+22 Yuànzi sì guǎijiǎo de yuàn zǐ zhōuwéi yǒu qiáng, měi yuànzhǎng sìshí zhǒu, kuān sānshí zhǒu, sì guǎijiǎo yuànzi de chǐcùn dōu shì yīyàng.
+23 Qízhōng zhōuwéi yǒuyī pái fángzi, fángzi nèi yǒu zhǔ ròu dì dìfāng.
+24 Tā duì wǒ shuō:`Zhè dōu shì zhǔ ròu de fángzi, diàn nèi de púyì yào zài zhèlǐ zhǔ mín de jì wù.'
+
+Dì sìshíqī zhāng
+
+1 tā dài wǒ huí dào diàn mén, jiàn diàn de ménkǎn xià yǒu shuǐ wǎng dōng liúchū (yuánlái diàn miàn cháo dōng). Zhè shuǐ cóng kǎn xià, yóu diàn de yòubiān, zài jìtán de nánbian wǎng xiàliú.
+2 Tā dài wǒ chū běimén, yòu lǐng wǒ cóng wàibian zhuǎn dào cháo dōng de wài mén, jiàn shuǐ cóng yòubiān liúchū.
+3 Tā shǒu ná zhǔnshéng wǎng dōng chūqù de shíhòu, liàngle yīqiān zhǒu, shǐ wǒ tàngguò shuǐ, shuǐ dào huái zi gǔ.
+4 Tā yòu liàngle yīqiān zhǒu, shǐ wǒ tàngguò shuǐ, shuǐ jiù dào xī. Zài liàngle yīqiān zhǒu, shǐ wǒ tàngguò shuǐ, shuǐ biàn dào yāo.
+5 Yòu liàngle yīqiān zhǒu, shuǐ biànchéngle hé, shǐ wǒ bùnéng tàngguò, yīn wéi shuǐshì zhǎng qǐ, chéngwéi kě fú de shuǐ, bùkě tàng de hé.
+6 Tā duì wǒ shuō:`Rén zǐ a, nǐ kànjiànle shénme?'Tā jiù dài wǒ huí dào hé biān.
+7 Wǒ huí dào hé biān de shíhòu, jiàn zài hé zhè biān yǔ nà biān de àn shàng yǒu jí duō de shùmù.
+8 Tā duì wǒ shuō:`Zhè shuǐ wǎng dōngfāng liú qù, bì xià dào <u>yà lābā </u>, zhídào hǎi. Suǒ fāchūlái de shuǐ bì liúrù <u>yán </u>hǎi, shǐ shuǐ biàn tián.
+9 Zhè héshuǐ suǒ dào zhī chù, fán zīshēng de dòngwù dōu bì shēnghuó, bìngqiě yīn zhè liú lái de shuǐ bì yǒu jí duō de yú, hǎishuǐ yě biàn tiánle. Zhè héshuǐ suǒ dào zhī chù, bǎi wù dōu bì shēnghuó.
+10 Bì yǒu yúfū zhàn zài hé biān, cóng <u>yǐn jīdǐ </u>zhídào <u>yǐn yǐ gé lián </u>, dōu zuò shài wǎng zhī chù. Nà yú gè cóng qí lèi, hǎoxiàng dàhǎi de yú, shén duō.
+11 Zhǐshì nínìng zhī dì yǔ wā shī zhī chù bùdé zhì hǎo, bì wèi yán de.
+12 Zài hé zhè biān yǔ nà biān de àn shàng bì shēngzhǎng gè lèi de shùmù, qí guǒ kě zuò shíwù, yèzi bù kūgān, guǒzi bùduànjué. Měi yuè bì jié xīn guǒzi, yīnwèi zhè shuǐ shì cóng shèng suǒ liúchūlái de. Shù shàng de guǒzi bì zuò shíwù, yèzi nǎi wèi zhì bìng.
+13 `Zhǔ yēhéhuá rúcǐ shuō: Nǐmen yào zhào dì de jìngjiè, àn <u>yǐsèliè </u>shí'èrzhīpài fèn dì wéi yè,<u>yuē sè </u>bìděi liǎng fèn.
+14 Nǐmen chéngshòu zhè dì wéi yè, yào bǐcǐ jūn fēn, yīnwèi wǒ céng qǐshì yīngxǔ jiāng zhè de cìyǔ nǐmen dì liè zǔ, zhè de bì guī nǐmen wèi yè.
+15 `Dì de sì jiè nǎi shì rúcǐ: Běi jiè cóng dàhǎi wǎng <u>xī tè lún </u>, zhídào <u>xī dá dá </u>kǒu,
+16 yòu wǎng <u>hā mǎ </u>,<u>bǐ luó tā </u>,<u>xībó lián </u>(<u>xībó lián </u>zài <u>dàmǎshìgé </u>yǔ <u>hā mǎ </u>liǎng jiè zhōngjiān), dào <u>hào lán </u>biānjiè de <u>hā sǎ hātí gàn </u>.
+17 Zhèyàng, jìngjiè cóng hǎibiān wǎng <u>dàmǎshìgé </u>dìjiè shàng de <u>hā sà yǐ nán </u>, běibian yǐ <u>hā mǎ </u>dì wéi jiè. Zhè shì běi jiè.
+18 Dōng jiè zài <u>hào lán </u>,<u>dàmǎshìgé </u>,<u>jī liè </u>hé <u>yǐsèliè </u>dì de zhōngjiān, jiùshì <u>yuēdàn </u>hé. Nǐmen yào cóng běi jiè liàng dào dōnghǎi. Zhè shì dōng jiè.
+19 Nán jiè shì cóng <u>tā mǎ </u>dào <u>mǐlì bā jiā dī sī </u>de shuǐ, yán dào <u>āijí </u>xiǎohé, zhídào dàhǎi. Zhè shì nán jiè.
+20 Xī jiè jiùshì dàhǎi, cóng nán jiè zhídào <u>hā mǎ </u>kǒu duìmiàn zhī dì. Zhè shì xī jiè.
+21 `Nǐmen yào ànzhe <u>yǐsèliè </u>de zhīpài bǐcǐ fēn zhè de.
+22 Yào niānjiū fēn zhè dì wéi yè, guīyú zìjǐ hé nǐmen zhōngjiān jìjū de wàirén, jiùshì zài nǐmen zhōngjiān shēngyǎng érnǚ de wàirén. Nǐmen yào kàn tāmen rútóng <u>yǐsèliè </u>rén zhōng suǒ shēng de yīyàng, tāmen zài <u>yǐsèliè </u>zhīpài zhòng yào yǔ nǐmen tóng dé de yè.
+23 Wàirén jìjū zài nǎ zhīpài zhōng, nǐmen jiù zài nǎlǐ fēn gěi tā de yè. Zhè shì zhǔ yēhéhuá shuō de.
+
+Dì sìshíbā zhāng
+
+1 `zhòng zhīpài àn míng suǒdé zhī dì jì zài xiàmiàn: Cóng běi tóu, yóu <u>xī tè lún </u>wǎng <u>hā mǎ </u>kǒu, dào <u>dàmǎshìgé </u>dìjiè shàng de <u>hā sà yǐ nán </u>, běibian kàozhe <u>hā mǎ </u>de (gè zhīpài dì dì dōu yǒu dōngxī de biānjiè), shì <u>dàn </u>de yī fèn.
+2 Āizhe <u>dàn </u>dì dìjiè, cóng dōng dào xī, shì <u>yà shè </u>de yī fèn.
+3 Āizhe <u>yà shè </u>dì dìjiè, cóng dōng dào xī, shì <u>ná fú tā lì </u>de yī fèn.
+4 Āizhe <u>ná fú tā lì </u>dì dìjiè, cóng dōng dào xī, shì <u>mǎ ná xī </u>de yī fèn.
+5 Āizhe <u>mǎ ná xī </u>dì dìjiè, cóng dōng dào xī, shì <u>yǐ fǎlián </u>de yī fèn.
+6 Āizhe <u>yǐ fǎlián </u>dì dìjiè, cóng dōng dào xī, shì <u>lǔ běn </u>de yī fèn.
+7 Āizhe <u>lǔ běn </u>dì dìjiè, cóng dōng dào xī, shì <u>yóudà </u>de yī fèn.
+8 `Āizhe <u>yóudà </u>dì dìjiè, cóng dōng dào xī, bì yǒu nǐmen suǒ dāng xiàn de gōng de, kuān èr wàn wǔqiān zhǒu. Cóng dōng jiè dào xī jiè, chángduǎn yǔ gè fèn zhī dì xiāngtóng, shèngdì dāng zài qízhōng.
+9 Nǐmen xiàn yú yēhéhuá de gōng de yào cháng èr wàn wǔqiān zhǒu, kuān yī wàn zhǒu.
+10 Zhè shèng gōng de yào guīyú jìsī, běi cháng èr wàn wǔqiān zhǒu, xī kuān yī wàn zhǒu, dōng kuān yī wàn zhǒu, nán cháng èr wàn wǔqiān zhǒu, yēhéhuá de shèngdì dāng zài qízhōng.
+11 Zhè de yào guīyú <u>sā dū </u>de zǐsūn zhōng chéngwéi shèng de jìsī, jiùshì nà shǒu wǒ suǒ fēnfù de, dāng <u>yǐsèliè </u>rén zǒu mí de shíhòu, tāmen bù xiàng nàxiē <u>lì wèi </u>rén zǒu míle.
+12 Zhè yào guīyú tāmen wèi gōng de, shì quán dì zhōng zhì shèng de. Gōng de āizhe <u>lì wèi </u>rén dì dìjiè.
+13 `<U>lì wèi </u>rén suǒdé dì dì yào cháng èr wàn wǔqiān zhǒu, kuān yī wàn zhǒu, yǔ jìsī dì dìjiè xiāngděng, dōu cháng èr wàn wǔqiān zhǒu, kuān yī wàn zhǒu.
+14 Zhè dì bùkě mài, bùkě huàn, chū shú zhī wù yě bùkě guīyú biérén, yīn wéi shì guī yēhéhuá wèi shèng de.
+15 `Zhè èr wàn wǔqiān zhǒu qiánmiàn suǒ shèng xià wǔqiān zhǒu kuān zhī dì, yào zuò sú yòng, zuòwéi zào chéng, gài fáng, jiāoyě zhī dì. Chéng yào zài dāngzhōng.
+16 Chéng de chǐcùn nǎi shì rúcǐ: Běimiàn sìqiān wǔbǎi zhǒu, nánmiàn sìqiān wǔbǎi zhǒu, dōng miàn sìqiān wǔbǎi zhǒu, xī miàn sìqiān wǔbǎi zhǒu.
+17 Chéng bì yǒu jiāoyě, xiàng běi èrbǎi wǔshí zhǒu, xiàng nán èrbǎi wǔshí zhǒu, xiàngdōng èrbǎi wǔshí zhǒu, xiàng xī èrbǎi wǔshí zhǒu.
+18 Kàozhe shèng gōng dì de yúdì, dōng zhǎng yī wàn zhǒu, xī zhǎng yī wàn zhǒu, yào yǔ shèng gōng de xiāngděng, qízhōng de tǔchǎn yào zuò chéng nèi gōngrén de shíwù.
+19 Suǒyǒu <u>yǐsèliè </u>zhīpài zhōng zài chéng nèi zuògōng de, dōu yào gēngzhòng zhè de.
+20 Nǐmen suǒ xiàn de shèng gōng de lián guī chéng zhī dì, shì sìfāng de, cháng èr wàn wǔqiān zhǒu, kuān èr wàn wǔqiān zhǒu.
+21 `Shèng gōng de lián guī chéng zhī dì, liǎngbiān de yúdì yào guīyú wáng. Gōng de dōngbian nánběi èr wàn wǔqiān zhǒu, dōng zhì dōng jiè, xībian nánběi èr wàn wǔqiān zhǒu, xī zhì xī jiè, yǔ gè fèn zhī dì xiāngtóng, dōu yào guī wáng. Shèng gōng de hé diàn de shèngdì yào zài qízhōng.
+22 Bìngqiě <u>lì wèi </u>rén zhī dì yǔ guī chéng zhī dì de dōngxī liǎngbiān yáncháng zhī dì (zhè liǎng de zài wáng dì zhōngjiān), jiùshì zài <u>yóudà </u>hé <u>biàn yǎ mǐn </u>liǎng jiè zhōngjiān, yào guīyú wáng.
+23 `Lùn dào qíyú de zhīpài, cóng dōng dào xī, shì <u>biàn yǎ mǐn </u>de yī fèn.
+24 Āizhe <u>biàn yǎ mǐn </u>dì dìjiè, cóng dōng dào xī, shì <u>xī miǎn </u>de yī fèn.
+25 Āizhe <u>xī miǎn </u>dì dìjiè, cóng dōng dào xī, shì <u>yǐ sà jiā </u>de yī fèn.
+26 Āizhe <u>yǐ sà jiā </u>dì dìjiè, cóng dōng dào xī, shì <u>xī bù lún </u>de yī fèn.
+27 Āizhe <u>xī bù lún </u>dì dìjiè, cóng dōng dào xī, shì <u>jiā dé </u>de yī fèn.
+28 <U>jiā dé </u>dì de nán jiè shì cóng <u>tā mǎ </u>dào <u>mǐlì bā jiā dī sī </u>de shuǐ, yán dào <u>āijí </u>xiǎohé, zhídào dàhǎi.
+29 Zhè jiùshì nǐmen yào niānjiū fēn gěi <u>yǐsèliè </u>zhīpài wèi yè zhī dì, nǎi shì tāmen gè zhīpài suǒdé zhī fèn. Zhè shì zhǔ yēhéhuá shuō de.
+30 `Chéng de běimiàn sìqiān wǔbǎi zhǒu, chūchéng zhī chù rúxià.
+31 Chéng de gè mén yào àn <u>yǐsèliè </u>zhīpài de míngzì. Běimiàn yǒusānmén, yī wéi <u>lǔ běn </u>mén, yī wéi <u>yóudà </u>mén, yī wéi <u>lì wèi </u>mén.
+32 Dōng miàn sìqiān wǔbǎi zhǒu, yǒu sānmén, yī wéi <u>yuē sè </u>mén, yī wéi <u>biàn yǎ mǐn </u>mén, yī wéi <u>dàn </u>mén.
+33 Nánmiàn sìqiān wǔbǎi zhǒu, yǒu sānmén, yī wéi <u>xī miǎn </u>mén, yī wéi <u>yǐ sà jiā </u>mén, yī wéi <u>xī bù lún </u>mén.
+34 Xī miàn sìqiān wǔbǎi zhǒu, yǒu sānmén, yī wéi <u>jiā dé </u>mén, yī wéi <u>yà shè </u>mén, yī wéi <u>ná fú tā lì </u>mén.
+35 Chéng sìwéi gòng yī wàn bāqiān zhǒu. Cóngcǐ yǐhòu, zhè chéng de míngzì bì chēng wèi “yēhéhuá de suǒzài”.'
+
+Dàn yǐ lǐ shū
+
+dì yī zhāng
+
+1 <u>yóudà </u>wáng <u>yuē yǎ jìng </u>zài wèi dì sān nián,<u>bābǐlún </u>wáng <u>ní bù jiǎ ní sā </u>lái dào <u>yēlùsālěng </u>, jiāng chéngwéikùn.
+2 Zhǔjiàng <u>yóudà </u>wáng <u>yuē yǎ jìng </u>, bìng shéndiànzhōng qìmǐn de jǐ fèn jiāofù tā shǒu, tā jiù bǎ zhè qìmǐn dài dào <u>shì ná </u>de, shōurù tā shén de miào lǐ, fàng zài tā shén de kù zhōng.
+3 Wáng fēnfù tàijiàn zhǎng <u>yà shī pí ná </u>cóng <u>yǐsèliè </u>rén de zōngshì hé guìzhòu zhōng dài jìn jǐ gèrén lái,
+4 jiùshì niánshào méiyǒu cánjí, xiàngmào jùnměi, tōngdá gè yàng xuéwèn, zhīshì, cōngmíng jù bèi, zú néng shìlì zài wánggōng lǐ de, yào jiào tāmen <u>jiā lēi dǐ </u>de wénzì yányǔ.
+5 Wáng pài dìng jiāng zìjǐ suǒyòng de shàn hé suǒyǐn de jiǔ měi rì cì tāmen yī fèn, yǎng tāmen sān nián, mǎnle sān nián hǎo jiào tāmen zài wáng miànqián shìlì.
+6 Tāmen zhōngjiān yǒu <u>yóudà </u>zú de rén <u>dàn yǐ lǐ </u>,<u>hā ná ní yǎ </u>,<u>mǐ shā lì </u>,<u>yà sā lìyǎ </u>.
+7 Tàijiàn zhǎng gěi tāmen qǐmíng, chēng <u>dàn yǐ lǐ </u>wèi <u>bó tí shā sā </u>, chēng <u>hā ná ní yǎ </u>wèi <u>shā dé lā </u>, chēng <u>mǐ shā lì </u>wèi <u>mǐ shā </u>, chēng <u>yà sā lìyǎ </u>wèi <u>yà bó ní gē </u>.
+8 <U>dàn yǐ lǐ </u>què lìzhì bù yǐ wáng de shàn hé wáng suǒyǐn de jiǔ diànwū zìjǐ, suǒyǐ qiú tàijiàn zhǎng róng tā bù diànwū zìjǐ.
+9 Shén shǐ <u>dàn yǐ lǐ </u>zài tàijiàn zhǎng yǎnqián méng ēnhuì, shòu liánmǐn.
+10 Tàijiàn zhǎng duì <u>dàn yǐ lǐ </u>shuō:`Wǒ jùpà wǒ zhǔ wǒ wáng, tā yǐjīng pài dìng nǐmen de yǐnshí. Tǎngruò tā jiàn nǐmen de miànmào bǐ nǐmen tóng suì de shàonián rén jī shòu, zěnme hǎo ne? Zhèyàng, nǐmen jiù shǐ wǒ de tóu zài wáng nàlǐ nánbǎo.'
+11 <U>dàn yǐ lǐ </u>duì tàijiàn zhǎng suǒ pài guǎnlǐ <u>dàn yǐ lǐ </u>,<u>hā ná ní yǎ </u>,<u>mǐ shā lì </u>,<u>yà sā lìyǎ </u>de wěi bàn shuō:
+12 `Qiú nǐ shì shì pú rénmen shí tiān, gěi wǒmen sùcài chī, báishuǐ hē,
+13 ránhòu kàn kàn wǒmen de miànmào hé yòng wáng shàn nà shàonián rén de miànmào, jiù zhào nǐ suǒ kàn de dài pú rén ba.'
+14 Wěi bàn biàn yǔnzhǔn tāmen zhè jiàn shì, shìkàn tāmen shí tiān.
+15 Guò le shí tiān, jiàn tāmen de miànmào bǐ yòng wáng shàn de yīqiè shàonián rén gèngjiā jùnměi féipàng.
+16 Yúshì, wěi bàn chèqù pài tāmen yòng de shàn, yǐn de jiǔ, gěi tāmen sùcài chī.
+17 Zhè sì gè shàonián rén, shén zài gè yàng wénzì, xuéwèn shàng cì gěi tāmen cōngmíng, zhīshì,<u>dàn yǐ lǐ </u>yòu míngbái gè yàng de yì xiànghé mèng zhào.
+18 <U>ní bù jiǎ ní sā </u>wáng yùdìng dài jìn shàonián rén lái de rìqí mǎnle, tàijiàn zhǎng jiù bǎ tāmen dài dào wáng miànqián.
+19 Wáng yǔ tāmen tánlùn, jiàn shàonián rén zhōng wú yīrén néng bǐ <u>dàn yǐ lǐ </u>,<u>hā ná ní yǎ </u>,<u>mǐ shā lì </u>,<u>yà sā lìyǎ </u>, suǒyǐ liú tāmen zài wáng miànqián shìlì.
+20 Wáng kǎowèn tāmen yīqiè shì, jiù jiàn tāmen de zhìhuì, cōngmíng bǐ tōng guó de shùshì hé yòng fǎshù de shèngguò shí bèi.
+21 Dào <u>jū lǔ shì </u>wángyuánnián,<u>dàn yǐ lǐ </u>hái zài.
+
+Dì èr zhāng
+
+1 <u>ní bù jiǎ ní sā </u>zài wèi dì èr nián, tā zuòle mèng, xīnlǐ fánluàn, bùnéng shuìjiào.
+2 Wáng fēnfùrén jiāng shùshì, yòng fǎshù de, xíng xié shù de hé <u>jiā lēi dǐ </u>rén zhào lái, yào tāmen jiāng wáng de mèng gàosù wáng, tāmen jiù lái zhàn zài wáng qián.
+3 Wáng duì tāmen shuō:`Wǒ zuòle yī mèng, xīnlǐ fánluàn, yào zhīdào zhè shì shénme mèng.'
+4 <U>jiā lēi dǐ </u>rén yòng <u>yà lán </u>de yányǔ duì wáng shuō:`Yuàn wáng wànsuì! Qǐng jiāng nà mèng gàosù pú rén, pú rén jiù kěyǐ jiǎngjiě.'
+5 Wáng huídá <u>jiā lēi dǐ </u>rén shuō:`Mèng wǒ yǐjīng wàngle, nǐmen ruò bù jiāng mèng hé mèng de jiǎngjiě gàosù wǒ, jiù bì bèi língchí, nǐmen de fángwū bì chéngwéi fèn duī.
+6 Nǐmen ruò jiāng mèng hé mèng de jiǎngjiě gàosù wǒ, jiù bì cóng wǒ zhèlǐ dé zèngpǐn hé shǎngcì bìng dà zūn róng. Xiànzài nǐmen yào jiāng mèng hé mèng de jiǎngjiě gàosù wǒ.'
+7 Tāmen dì èr cì duì wáng shuō:`Qǐng wáng jiāng mèng gàosù pú rén, pú rén jiù kěyǐ jiǎngjiě.'
+8 Wáng huídá shuō:`Wǒ zhǔn zhīdào nǐmen shì gùyì chíyán, yīnwèi nǐmen zhīdào nà mèng wǒ yǐjīng wàngle.
+9 Nǐmen ruò bù jiāng mèng gàosù wǒ, zhǐyǒuyī fǎ dài nǐmen. Yīnwèi nǐmen yùbèile huǎngyán luàn yǔ xiàng wǒ shuō, yào děnghòu shíshì gǎibiàn. Xiànzài nǐmen yào jiāng mèng gàosù wǒ, yīn wǒ zhīdào nǐmen néng jiāng mèng de jiǎngjiě gàosù wǒ.'
+10 <U>jiā lēi dǐ </u>rén zài wáng miànqián huídá shuō:`Shìshàng méiyǒurén néng jiāng wáng suǒ wèn de shì shuō chūlái. Yīnwèi méiyǒu jūnwáng, dàchén, zhǎngquán de xiàngshùshì, huò yòng fǎshù de, huò <u>jiā lēi dǐ </u>rén wènguò zhèyàng de shì.
+11 Wáng suǒ wèn de shì shén nán, chú liǎo bù yǔ shìrén tóngjū de shénmíng, méiyǒurén zài wáng miànqián néng shuō chūlái.'
+12 Yīncǐ, wáng qì fènfèn dì dàfā liè nù, fēnfù mièjué <u>bābǐlún </u>suǒyǒu de zhéshì.
+13 Yúshì mìnglìng fāchū, zhéshì jiāngyào jiàn shā, rén jiù xúnzhǎo <u>dàn yǐ lǐ </u>hé tā de tóngbàn, yào shā tāmen.
+14 Wáng de hùwèi zhǎng <u>yà è </u>chūlái, yào shā <u>bābǐlún </u>de zhéshì,<u>dàn yǐ lǐ </u>jiù yòng wǎnyán huídá tā,
+15 xiàng wáng de hù wèi zhǎng <u>yà è </u>shuō:`Wáng de mìnglìng wèihé zhèyàng jǐnjí ne?'<U>yà è </u>jiù jiāng qíngjié gàosù <u>dàn yǐ lǐ </u>.
+16 <U>dàn yǐ lǐ </u>suì jìnqù qiú wáng kuānxiàn, jiù kěyǐ jiāng mèng de jiǎngjiě gàosù wáng.
+17 <U>dàn yǐ lǐ </u>huí dào tā de jūsuǒ, jiāng zhè shì gàosù tā de tóngbàn <u>hā ná ní yǎ </u>,<u>mǐ shā lì </u>,<u>yà sā lìyǎ </u>,
+18 yào tāmen qíqiú tiānshàng de shén shī liánmǐn, jiāng zhè àomì de shì zhǐmíng, miǎndé <u>dàn yǐ lǐ </u>hé tā de tóngbàn yǔ <u>bābǐlún </u>qíyú de zhéshì yītóng mièwáng.
+19 Zhè àomì de shì jiù zài yèjiān yì xiàng zhōng gěi <u>dàn yǐ lǐ </u>xiǎnmíng,<u>dàn yǐ lǐ </u>biàn chēngsòng tiānshàng de shén.
+20 <U>dàn yǐ lǐ </u>shuō:`Shén de míng shì yīngdāng chēngsòng de, cóng gèngǔ zhídào yǒngyuǎn! Yīnwèi zhìhuì nénglì dōu shǔ hū tā.
+21 Tā gǎibiàn shíhòu, rìqí, fèi wáng, lì wáng, jiāng zhìhuì cìyǔ zhìhuì rén, jiāng zhīshì cìyǔ cōngmíng rén.
+22 Tā xiǎnmíng shēn'ào yǐnmì de shì, zhīdào àn zhōng suǒyǒu de, guāngmíng yě yǔ tā tóngjū.
+23 Wǒ liè zǔ de shén a, wǒ gǎnxiè nǐ, zànměi nǐ! Yīn nǐ jiāng zhìhuì, cáinéng cì gěi wǒ, yǔnzhǔn wǒmen suǒ qiú de, bǎ wáng de shì gěi wǒmen zhǐmíng.'
+24 Yúshì <u>dàn yǐ lǐ </u>jìnqù jiàn <u>yà è </u>, jiùshì wáng suǒ pài mièjué <u>bābǐlún </u>zhéshì dì, duì tā shuō:`Bùyào mièjué <u>bābǐlún </u>de zhéshì, qiú nǐ lǐng wǒ dào wáng miànqián, wǒ yào jiāng mèng de jiǎngjiě gàosù wáng.'
+25 <U>yà è </u>jiù jímáng jiāng <u>dàn yǐ lǐ </u>lǐng dào wáng miànqián, duì wáng shuō:`Wǒ zài bèi lǔ de <u>yóudà </u>rén zhōng yùjiàn yīrén, tā néng jiāng mèng de jiǎngjiě gàosù wáng.'
+26 Wáng wèn chēng wèi <u>bó tí shā sā </u>de <u>dàn yǐ lǐ </u>shuō:`Nǐ néng jiāng wǒ suǒ zuò de mèng hé mèng de jiǎngjiě gàosù wǒ ma?'
+27 <U>dàn yǐ lǐ </u>zài wáng miànqián huídá shuō:`Wáng suǒ wèn dì nà àomì shì, zhéshì, yòng fǎshù de, shùshì, guān zhào de dōu bùnéng gàosù wáng.
+28 Zhǐyǒuyī wèi zài tiānshàng de shén néng xiǎnmíng àomì de shì, tā yǐ jiāng rìhòu bì yǒu de shì zhǐshì <u>ní bù jiǎ ní sā </u>wáng. Nǐ de mèng hé nǐ zài chuángshàng nǎo zhōng de yì xiàng shì zhèyàng:
+29 Wáng a, nǐ zài chuángshàng xiǎngdào hòulái de shì, nà xiǎnmíng àomì shì de zhǔ bǎ jiānglái bì yǒu de shì zhǐshì nǐ.
+30 Zhìyú nà àomì de shì xiǎnmíng gěi wǒ, bìngfēi yīn wǒ de zhìhuì shèngguò yīqiè huó rén, nǎi wèi shǐ wáng zhīdào mèng de jiǎngjiě hé xīnlǐ de sīniàn.
+31 `Wáng a, nǐ mèngjiàn yīgè dà xiàng, zhè xiàng shèn gāo, jíqí guāngyào, zhàn zài nǐ miànqián, xíngzhuàng shén shì kěpà.
+32 Zhè xiàng de tóu shì jīng jīn de, xiōngtáng hé bǎngbì shì yín de, dù fù hé yāo shì tóng de,
+33 tuǐ shì tiě de, jiǎo shì bàn tiě bàn ní de.
+34 Nǐ guānkàn, jiàn yǒuyīkuài fēi rénshǒu záo chūlái de shítou dǎ zài zhè xiàng bàn tiě bàn ní de jiǎo shàng, bǎ jiǎo zá suì.
+35 Yúshì jīn, yín, tóng, tiě, ní dōu yītóng zá dé fěnsuì, chéng rú xiàtiān hécháng shàng de kāngbǐ, bèi fēngchuī sàn, wú chù kě xún. Dǎ suì zhè xiàng de shítou biàn chéng yīzuò dàshān, chōngmǎn tiānxià.
+36 `Zhè jiùshì nà mèng, wǒmen zài wáng miànqián yào jiǎngjiě nà mèng.
+37 Wáng a, nǐ shì zhūwáng zhī wáng, tiānshàng de shén yǐ jiāng guódù, quánbǐng, nénglì, zūn róng dōu cì gěi nǐ.
+38 Fán shìrén suǒ zhù zhī dì de zǒushòu, bìng tiānkōng de fēiniǎo, tā dōu jiāofù nǐ shǒu, shǐ nǐ zhǎngguǎn zhè yīqiè, nǐ jiùshì nà jīn tóu.
+39 Zài nǐ yǐhòu bì lìng xìng yī guó, bùjí yú nǐ. Yòu yǒu dì sānguó, jiùshì tóng de, bì zhǎngguǎn tiānxià.
+40 Dì sì guó, bì jiān zhuàng rú tiě, tiě néng dǎ suì kèzhì bǎi wù, yòu néng yā suì yīqiè, nà guó yě bì dǎ suì yāzhì liè guó.
+41 Nǐ jì jiàn xiàng de jiǎo hé jiǎo zhǐtou yībànshì yáo jiàng de ní, yībàn shì tiě, nà guó jiānglái yě bì fēnkāi. Nǐ jì jiàn tiě yǔ ní chān zá, nà guó yě bì yǒu tiě de lìliàng.
+42 Nà jiǎo zhǐtou jìshì bàn tiě bàn ní, nà guó yě bì bàn qiáng bàn ruò.
+43 Nǐ jì jiàn tiě yǔ ní chān zá, nà guómín yě bì yǔ gèzhǒng rén chān zá, què bùnéng bǐcǐ xiànghé, zhèngrú tiě yǔ ní bùnéng xiàng hé yīyàng.
+44 Dāng nà liè wáng zài wèi de shíhòu, tiānshàng de shén bì lìng lì yī guó, yǒng bù bàihuài, yě bù guī bié guó de rén, què yào dǎ suì mièjué nà yīqiè guó, zhè guó bì cún dào yǒngyuǎn.
+45 Nǐ jì kànjiàn fēi rénshǒu záo chūlái de yīkuài shítou cóng shān ér chū, dǎ suì jīn, yín, tóng, tiě, ní, nà jiùshì zhì dà de shén bǎ hòulái bì yǒu de shì gěi wáng zhǐmíng. Zhè mèng zhǔn shì zhèyàng, zhè jiǎngjiě yěshì quèshí de.'
+46 Dāngshí <u>ní bù jiǎ ní sā </u>wáng fǔfú zài dì, xiàng <u>dàn yǐ lǐ </u>xià bài, bìngqiě fēnfù rén gěi tā fèng shàng gòng wù héxiāng pǐn.
+47 Wáng duì <u>dàn yǐ lǐ </u>shuō:`Nǐ jì néng xiǎnmíng zhè àomì de shì, nǐmen de shén chéngrán shì wàn shén zhī shén, wàn wáng zhī zhǔ, yòu shì xiǎnmíng àomì shì de.'
+48 Yúshì wáng gāo tái <u>dàn yǐ lǐ </u>, shǎngcì tā xǔduō shàng děng lǐwù, pài tā guǎnlǐ <u>bābǐlún </u>quán shěng, yòu lì tā wèi zǒnglǐ, zhǎngguǎn <u>bābǐlún </u>de yīqiè zhéshì.
+49 <U>dàn yǐ lǐ </u>qiú wáng,<u>wáng </u>jiù pài <u>shā dé lā </u>,<u>mǐ shā </u>,<u>yà bó ní gē </u>guǎnlǐ <u>bābǐlún </u>shěng de shìwù, zhǐshì <u>dàn yǐ lǐ </u>cháng zài cháo zhōng shìlì.
+
+Dì sān zhāng
+
+1 <u>ní bù jiǎ ní sā </u>wáng zàole yīgè jīn xiàng, gāo liùshí zhǒu, kuān liù zhǒu, lì zài <u>bābǐlún </u>shěng <u>dù lā </u>píngyuán.
+2 <U>ní bù jiǎ ní sā </u>wáng chà rén jiāng zǒngdū, qīnchāi, xúnfǔ, niè sī, fān sī, móushì, fǎguān hé gèshěng de guānyuán dōu zhàole lái, wèi <u>ní bù jiǎ ní sā </u>wáng suǒ lì de xiàng xíng kāiguāng zhī lǐ.
+3 Yúshì zǒngdū, qīnchāi, xúnfǔ, niè sī, fān sī, móushì, fǎguān hé gèshěng de guānyuán dōu jùjíle lái, yào wèi <u>ní bù jiǎ ní sā </u>wáng suǒ lì de xiàng xíng kāiguāng zhī lǐ, jiù zhàn zài <u>ní bù jiǎ ní sā </u>suǒ lì de xiàng qián.
+4 Nà shí chuánlìng de dà shēng hūjiào shuō:`Gè fāng, gèguó, gè zú de rén nǎ, yǒu lìng chuán yú nǐmen:
+5 Nǐmen yī tīngjiàn jiǎo, dí, pípá, qín, sè, shēng hé gè yàng yuèqì de shēngyīn, jiù dāng fǔfú jìng bài <u>ní bù jiǎ ní sā </u>wáng suǒ lì de jīn xiàng.
+6 Fán bù fǔfú jìng bài de, bì lìshí rēng zài lièhuǒ de yáo zhōng.'
+7 Yīncǐ gè fāng, gèguó, gè zú de rénmín yī tīngjiàn jiǎo, dí, pípá, qín, sè hè gè yàng yuèqì de shēngyīn, jiù dōu fǔfú jìng bài <u>ní bù jiǎ ní sā </u>wáng suǒ lì de jīn xiàng.
+8 Nà shí, yǒu jǐ gè <u>jiā lēi dǐ </u>rén jìn qián lái kònggào <u>yóudà </u>rén.
+9 Tāmen duì <u>ní bù jiǎ ní sā </u>wáng shuō:`Yuàn wáng wànsuì!
+10 Wáng a, nǐ céng jiàng zhǐ shuō, fán tīngjiàn jiǎo, dí, pípá, qín, sè, shēng hé gè yàng yuèqì shēngyīn de dōu dāng fǔfú jìng bàijīn xiàng,
+11 fán bù fǔfú jìng bài de, bì rēng zài lièhuǒ de yáo zhōng.
+12 Xiànzài yǒu jǐ gè <u>yóudà </u>rén, jiùshì wáng suǒ pài guǎnlǐ <u>bābǐlún </u>shěng shìwù de <u>shā dé lā </u>,<u>mǐ shā </u>,<u>yà bó ní gē </u>, wáng a, zhèxiē rén bù lǐ nǐ, bùshìfèng nǐ de shén, yě bùjìng bài nǐ suǒ lì de jīn xiàng.'
+13 Dāngshí <u>ní bù jiǎ ní sā </u>chōngchōng dà nù, fēnfù rén bǎ <u>shā dé lā </u>,<u>mǐ shā </u>,<u>yà bó ní gē </u>dài guòlái, tāmen jiù bǎ nàxiē rén dài dào wáng miànqián.
+14 <U>ní bù jiǎ ní sā </u>wèn tāmen shuō:`<U>shā dé lā </u>,<u>mǐ shā </u>,<u>yà bó ní gē </u>, nǐmen bùshìfèng wǒ de shén, yě bùjìng bài wǒ suǒ lì de jīn xiàng, shì gùyì de ma?
+15 Nǐmen zài tīngjiàn jiǎo, dí, pípá, qín, sè, shēng hé gè yàng yuèqì de shēngyīn, ruò fǔfú jìng bài wǒ suǒ zào de xiàng, què hái kěyǐ, ruò bùjìng bài, bì lìshí rēng zài lièhuǒ de yáo zhōng. Yǒu hé shén néng jiù nǐmen tuōlí wǒ shǒu ne?'
+16 <U>shā dé lā </u>,<u>mǐ shā </u>,<u>yà bó ní gē </u>duì wáng shuō:`<U>ní bù jiǎ ní sā </u>a, zhè jiàn shì wǒmen bùbì huídá nǐ.
+17 Jíbiàn rúcǐ, wǒmen suǒ shìfèng de shén néng jiāng wǒmen cóng lièhuǒ de yáo zhōng jiù chūlái. Wáng a, tā yě bì jiù wǒmen tuōlí nǐ de shǒu.
+18 Jí huò bùrán, wáng a, nǐ dāng zhīdào: Wǒmen jué bùshìfèng nǐ de shén, yě bùjìng bài nǐ suǒ lì de jīn xiàng!'
+19 Dāngshí <u>ní bù jiǎ ní sā </u>nùqì tián xiōng, xiàng <u>shā dé lā </u>,<u>mǐ shā </u>,<u>yà bó ní gē </u>biànle liǎnsè, fēnfù rén bǎ yáo shāo rè, bǐ xúncháng gèngjiā qī bèi.
+20 Yòu fēnfù tā jūn zhōng de jǐ gè zhuàngshì, jiāng <u>shā dé lā </u>,<u>mǐ shā </u>,<u>yà bó ní gē </u>kǔn qǐlái, rēng zài lièhuǒ de yáo zhōng.
+21 Zhè sān rén chuānzhuó kùzi, nèi páo, wàiyī hé bié de yīfú, bèi kǔn qǐlái rēng zài lièhuǒ de yáo zhōng.
+22 Yīnwèi wángmìng jǐnjí, yáo yòu shén rè, nà tái <u>shā dé lā </u>,<u>mǐ shā </u>,<u>yà bó ní gē </u>de rén dōu bèi huǒyàn shāo sǐ.
+23 <U>shā dé lā </u>,<u>mǐ shā </u>,<u>yà bó ní gē </u>zhè sān gèrén dōu bèi kǔn zhuóluò zài lièhuǒ de yáo zhōng.
+24 Nà shí,<u>ní bù jiǎ ní sā </u>wáng jīngqí, jímáng qǐlái, duì móushì shuō:`Wǒmen kǔn qǐlái rēng zài huǒ lǐ de bùshì sān gèrén ma?'Tāmen huídá wáng shuō:`Wáng a, shì.'
+25 Wáng shuō:`Kàn nǎ! Wǒ jiàn yǒu sì gèrén, bìng méiyǒu kǔnbǎng, zài huǒ zhōng yóuxíng, yě méiyǒu shòushāng, nà dì sì gè de xiàngmào hǎoxiàng shénzi.'
+26 Yúshì,<u>ní bù jiǎ ní sā </u>jiùjìn lièhuǒ yáo mén, shuō:`Zhìgāo shén de pú rén <u>shā dé lā </u>,<u>mǐ shā </u>,<u>yà bó ní gē </u>, chūlái, shàng zhèlǐ lái ba!'<U>shā dé lā </u>,<u>mǐ shā </u>,<u>yà bó ní gē </u>jiù cóng huǒ zhòng chūláile.
+27 Nàxiē zǒngdū, qīnchāi, xúnfǔ hé wáng de móushì yītóng jùjí kàn zhè sān gèrén, jiàn huǒ wúlì shāng tāmen de shēntǐ, tóufà yě méiyǒu shāo jiāo, yīshang yě méiyǒu biànsè, bìng méiyǒu huǒ liǎo de qìwèi.
+28 <U>ní bù jiǎ ní sā </u>shuō:`<U>shā dé lā </u>,<u>mǐ shā </u>,<u>yà bó ní gē </u>de shén shì yīngdāng chēngsòng de! Tā chāiqiǎn shǐzhě jiùhù yǐkào tā de pú rén, tāmen bù zūn wángmìng, shě qù jǐ shēn, zài tāmen shén yǐwài bùkěn shìfèng jìng bài bié shén.
+29 Xiànzài wǒ jiàng zhǐ, wúlùn héfāng, hé guó, hé zú de rén, bàng dú <u>shā dé lā </u>,<u>mǐ shā </u>,<u>yà bó ní gē </u>zhī shén de, bì bèi língchí, tā de fángwū bì chéng fèn duī, yīnwèi méiyǒu bié shén néng zhèyàng shīxíng zhěngjiù.'
+30 Nà shí wáng zài <u>bābǐlún </u>shěng gāoshēngle <u>shā dé lā </u>,<u>mǐ shā </u>,<u>yà bó ní gē </u>.
+
+Dì sì zhāng
+
+1 <u>ní bù jiǎ ní sā </u>wáng xiǎoyù zhù zài quán de gè fāng, gèguó, gè zú de rén shuō: Yuàn nǐmen dà xiǎng píng'ān!
+2 Wǒ lèyì jiāng zhìgāo de shénxiàng wǒ suǒ xíng de shén jī qí shì xuānyáng chūlái.
+3 Tā de shén jī hé qí dà, tā de qí shì hé qí shèng! Tā de guó shì yǒngyuǎn de, tā de quánbǐng cún dào wàndài!
+4 Wǒ <u>ní bù jiǎ ní sā </u>ānjū zài gōngzhōng, píngshùn zài diàn nèi.
+5 Wǒ zuòle yī mèng, shǐ wǒ jùpà, wǒ zài chuángshàng de sīniàn bìng nǎo zhōng de yì xiàng shǐ wǒ jīnghuáng.
+6 Suǒyǐ wǒ jiàng zhǐ zhào <u>bābǐlún </u>de yīqiè zhéshì dào wǒ miànqián, jiào tāmen bǎ mèng de jiǎngjiě gàosù wǒ.
+7 Yúshì nàxiē shùshì, yòng fǎshù de,<u>jiā lēi dǐ </u>rén, guān zhào de dōu jìnlái, wǒ jiāng nà mèng gàosùle tāmen, tāmen què bùnéng bǎ mèng de jiǎngjiě gàosù wǒ.
+8 Mòhòu nà zhào wǒ shén de míngchēng wèi <u>bó tí shā sā </u>de <u>dàn yǐ lǐ </u>lái dào wǒ miànqián, tā lǐtou yǒu shèng shén de líng. Wǒ jiāng mèng gàosù tā shuō:
+9 `Shùshì dì lǐngxiù <u>bó tí shā sā </u>a, yīn wǒ zhīdào nǐ lǐtou yǒu shèng shén de líng, shénme àomì de shì dōu bùnéng shǐ nǐ wéinán, xiànzài yào bǎ wǒ mèngzhōng suǒjiàn de yì xiàng hé mèng de jiǎngjiě gàosù wǒ.
+10 Wǒ zài chuángshàng nǎo zhōng de yì xiàng shì zhèyàng: Wǒ kànjiàn dì dāngzhōng yǒuyī kē shù, jíqí gāodà.
+11 Nà shù jiàn zhǎng, érqiě jiāngù, gāo dé dǐng tiān, cóng dì jí dōu néng kànjiàn.
+12 Yèzi huáměi, guǒzi shén duō, kě zuò zhòngshēng de shíwù. Tiányě de zǒushòu wò zài yīn xià, tiānkōng de fēiniǎo sù zài zhī shàng, fán yǒu xuèqì de dōu cóng zhè shù dé shí.
+13 Wǒ zài chuángshàng nǎo zhōng de yì xiàng, jiàn yǒuyī wèi shǒuwàng de shèngzhě cóngtiān'érjiàng,
+14 dà shēng hūjiào shuō:“Fá dào zhè shù, kǎn xià zhīzi, yáo diào yèzi, pāo sàn guǒzi, shǐ zǒushòu líkāi shùxià, fēiniǎo duǒ kāi shùzhī.
+15 Shùdūn què yào liú zài dì nèi, yòng tiě quān hétóng quān gū zhù, zài tiányě de qīngcǎo zhōng ràng tiān lù dī shī, shǐ tā yǔ dìshàng de shòu yītóng chī cǎo.
+16 Shǐ tā de xīn gǎibiàn, bùrú rénxīn, gěi tā yīgè shòu xīn, shǐ tā jīngguò qī qī.
+17 Zhè shì shǒuwàng zhě suǒ fā de mìng, shèngzhě suǒ chū de lìng, hǎo jiào shìrén zhīdào zhìgāo zhě zài rén de guózhōng zhǎngquán, yào jiāng guó cìyǔ shuí jiù cìyǔ shuí, huò lì jí bēiwéi de rén zhízhǎng guó quán.”
+18 Zhè shì wǒ <u>ní bù jiǎ ní sā </u>wáng suǒ zuò de mèng.<U>bó tí shā sā </u>a, nǐ yào shuōmíng zhè mèng de jiǎngjiě, yīnwèi wǒguózhōng de yīqiè zhéshì dōu bùnéng jiāng mèng de jiǎngjiě gàosù wǒ, wéi dú nǐ néng, yīn nǐ lǐtou yǒu shèng shén de líng.'
+19 Yúshì chēng wèi <u>bó tí shā sā </u>de <u>dàn yǐ lǐ </u>jīngyà piàn shí, xīnyì jīnghuáng. Wáng shuō:`<U>bó tí shā sā </u>a, bùyào yīn mèng hé mèng de jiǎngjiě jīnghuáng.'<U>bó tí shā sā </u>huídá shuō:`Wǒ zhǔ a, yuàn zhè mèng guīyú hèn è nǐ de rén, jiǎngjiě guīyú nǐ de dírén!
+20 Nǐ suǒjiàn de shù jiàn zhǎng, érqiě jiāngù, gāo dé dǐng tiān, cóng dì jí dōu néng kànjiàn.
+21 Yèzi huáměi, guǒzi shén duō, kě zuò zhòngshēng de shíwù. Tiányě de zǒushòu zhù zài qí xià, tiānkōng de fēiniǎo sù zài zhī shàng.
+22 Wáng a, zhè jiàn zhǎng yòu jiāngù de shù jiùshì nǐ. Nǐ de wēishì jiàn zhǎng jí tiān, nǐ de quánbǐng guǎn dào dì jí.
+23 Wáng jì kànjiàn yī wèi shǒuwàng de shèngzhě cóngtiān'érjiàng, shuō:“Jiāng zhè shù kǎnfá huǐhuài, shùdūn què yào liú zài dì nèi, yòng tiě quān hétóng quān gū zhù, zài tiányě de qīngcǎo zhōng, ràng tiān lù dī shī, shǐ tā yǔ dìshàng de shòu yītóng chī cǎo, zhídào jīngguò qī qī.”
+24 Wáng a, jiǎngjiějiùshì zhèyàng: Líndào wǒ zhǔ wǒ wáng de shì shì chū yú zhìgāo zhě de mìng.
+25 Nǐ bì bèi gǎn chū líkāi shìrén, yǔ yědì de shòu tóngjū, chī cǎo rú niú, bèi tiān lù dī shī, qiě yào jīngguò qī qī, děng nǐ zhīdào zhìgāo zhě zài rén de guózhōng zhǎngquán, yào jiāng guó cìyǔ shuí jiù cìyǔ shuí.
+26 Shǒuwàng zhě jì fēnfù cúnliú shùdūn, děng nǐ zhīdào zhū tiān zhǎngquán, yǐhòu nǐ de guó bìdìng guī nǐ.
+27 Wáng a, qiú nǐ yuè nà wǒ de jiànyán, yǐ shīxíng gōngyì duànjué zuìguo, yǐ liánmǐn qióng rén chú diào zuìniè, huòzhě nǐ de píng'ān kěyǐ yáncháng.'
+28 Zhè shì dōu líndào <u>ní bù jiǎ ní sā </u>wáng.
+29 Guò le shí'èr gè yuè, tā yóuxíng zài <u>bābǐlún </u>wánggōng lǐ,
+30 tā shuō:`Zhè dà <u>bābǐlún </u>bùshì wǒ yòng dà néng dàlì jiàn wèi jīngdū, yào xiǎn wǒ wēiyán de róngyào ma?'
+31 Zhè huà zài wáng kǒuzhōng shàngwèi shuō wán, yǒu shēngyīn cóng tiān jiàngxià, shuō:`<U>ní bù jiǎ ní sā </u>wáng a, yǒu huà duì nǐ shuō: Nǐ de guó wèi líkāi nǐle!
+32 Nǐ bì bèi gǎn chū líkāi shìrén, yǔ yědì de shòu tóngjū, chī cǎo rú niú, qiě yào jīngguò qī qī, děng nǐ zhīdào zhìgāo zhě zài rén de guózhōng zhǎngquán, yào jiāng guó cìyǔ shuí jiù cìyǔ shuí.'
+33 Dāngshí zhè huà jiù yìngyàn zài <u>ní bù jiǎ ní sā </u>de shēnshang, tā bèi gǎn chū líkāi shìrén, chī cǎo rú niú, shēn bèi tiān lù dī shī, tóufà zhǎng zhǎng hǎoxiàng yīng máo, zhǐjiǎ zhǎng zhǎng rútóng niǎo zhǎo.
+34 Rìzi mǎnzú, wǒ <u>ní bù jiǎ ní sā </u>jǔmù wàng tiān, wǒ de cōngmíng fùguīyú wǒ, wǒ biàn chēngsòng zhìgāo zhě, zànměi, zūnjìng huó dào yǒngyuǎn de shén. Tā de quánbǐng shì yǒng yǒu de, tā de guó cún dào wàndài.
+35 Shìshàng suǒyǒu de jūmín dōu suàn wèi xūwú, zài tiānshàng de wàn jūn hé shìshàng de jūmín zhōng, tā dōu píng zìjǐ de yìzhǐ xíngshì. Wúrén néng lánzhù tā shǒu, huò wèn tā shuō:`Nǐ zuò shénme ne?'
+36 Nà shí, wǒ de cōngmíng fùguīyú wǒ, wèi wǒguó de róngyào, wēiyán hé guāngyào yě dū fùguīyú wǒ, bìngqiě wǒ de móushì hé dàchén yě lái cháojiàn wǒ. Wǒ yòu dé jiān lì zài guó wèi shàng, zhì dà de quánbǐng jiā zēng yú wǒ.
+37 Xiànzài wǒ <u>ní bù jiǎ ní sā </u>zànměi, zūnchóng, gōngjìng tiānshàng de wáng, yīnwèi tāsuǒ zuò de quándōu chéngshí, tāsuǒ xíng de yě dū gōngpíng, nà xíngdòng jiāo'ào de, tā néng jiàng wèi bēi.
+
+Dì wǔ zhāng
+
+1 <u>bó shā sā </u>wángwèi tā de yīqiān dàchén shè bǎi shèng yán, yǔ zhè yīqiān rén duìmiàn yǐnjiǔ.
+2 <U>bó shā sā </u>huān yǐn zhī jiān, fēnfù rén jiāng tā fù <u>ní bù jiǎ ní sā </u>cóng <u>yēlùsālěng </u>diànzhōng suǒ è de jīnyín qìmǐn ná lái, wáng yǔ dàchén, huánghòu, fēipín hǎo yòng zhè qìmǐn yǐnjiǔ.
+3 Yúshì tāmen bǎ <u>yēlùsālěng </u>shéndiàn kùfáng zhōng suǒ è de jīn qìmǐn ná lái, wáng hé dàchén, huánghòu, fēipín jiù yòng zhè qìmǐn yǐnjiǔ.
+4 Tāmen yǐnjiǔ, zànměi jīn, yín, tóng, tiě, mù, shí suǒ zào de shén.
+5 Dāngshí, hū yǒurén de zhǐtou xiǎn chū, zài wánggōng yǔ dēngtái xiāngduì de fěnqiáng shàng xiě zì. Wáng kànjiàn xiě zì de zhǐtou,
+6 jiù biànle liǎnsè, xīnyì jīnghuáng, yāogǔ hǎoxiàng tuōjié, shuāng xī bǐcǐ xiāng pèng,
+7 dà shēng fēnfù jiāng yòng fǎshù de hé <u>jiā lēi dǐ </u>rén bìng guān zhào de lǐng jìnlái, duì <u>bābǐlún </u>de zhéshì shuō:`Shuí néng dú zhè wénzì, bǎ jiǎngjiě gàosù wǒ, tā bì shēn chuān zǐ páo, xiàng dàijīnliàn, zài wǒguózhōng wèi liè dì sān.'
+8 Yúshì wáng de yīqiè zhéshì dōu jìnlái, què bùnéng dú nà wénzì, yě bùnéng bǎ jiǎngjiě gàosù wáng.
+9 <U>bó shā sā </u>wáng jiù shén jīnghuáng, liǎnsè gǎibiàn, tā de dàchén yě dū jīngqí.
+10 Tàihòu yīn wáng hé tā dàchén suǒ shuō dehuà, jiùjìnrù yàn gōng, shuō:`Yuàn wáng wànsuì! Nǐ xīnyì bùyào jīnghuáng, liǎnmiàn bùyào biànsè.
+11 Zài nǐ guózhōng yǒuyīrén, tā lǐtou yǒu shèng shén de líng, nǐ fù zàishì de rìzi, zhèrénxīnzhōng guāngmíng, yòu yǒu cōngmíng, zhìhuì, hǎoxiàng shén de zhìhuì. Nǐ fù <u>ní bù jiǎ ní sā </u>wáng, jiùshì wáng de fù, lì tā wèi shùshì, yòng fǎshù de hé <u>jiā lēi dǐ </u>rén bìng guān zhào de lǐngxiù.
+12 Zài tā lǐtou yǒu měihǎo de língxìng, yòu yǒu zhīshì, cōngmíng, néng yuánmèng, shì míyǔ, jiě yíhuò. Zhè rénmíng jiào <u>dàn yǐ lǐ </u>,<u>ní bù jiǎ ní sā </u>wáng yòu chēng tā wèi <u>bó tí shā sā </u>. Xiànzài kěyǐ zhào tā lái, tā bì jiěmíng zhè yìsi.'
+13 <U>dàn yǐ lǐ </u>jiù bèi lǐng dào wáng qián. Wáng wèn <u>dàn yǐ lǐ </u>shuō:`Nǐ shì bèi lǔ zhī <u>yóudà </u>rén zhōng de <u>dàn yǐ lǐ </u>ma? Jiùshì wǒ fù wáng cóng <u>yóudà </u>lǔ lái de ma?
+14 Wǒ tīng shuō nǐ lǐtou yǒu shén de líng, xīnzhōng guāngmíng, yòu yǒu cōngmíng hé měihǎo de zhìhuì.
+15 Xiànzài zhéshì hé yòng fǎshù de dōu lǐng dào wǒ miànqián, wèi jiào tāmen dú zhè wénzì, bǎ jiǎngjiě gàosù wǒ, wúnài tāmen dōu bùnéng bǎ jiǎngjiě shuō chūlái.
+16 Wǒ tīng shuō nǐ shànyú jiǎngjiě, néng jiě yíhuò, xiànzài nǐ ruò néng dú zhè wénzì, bǎ jiǎngjiě gàosù wǒ, jiù bì shēn chuān zǐ páo, xiàng dàijīnliàn, zài wǒguózhōng wèi liè dì sān.'
+17 <U>dàn yǐ lǐ </u>zài wáng miànqián huídá shuō:`Nǐ de zèngpǐn kěyǐ guī nǐ zìjǐ, nǐ de shǎngcì kěyǐ guī gěi biérén, wǒ què yào wèi wáng dú zhè wénzì, bǎ jiǎngjiě gàosù wáng.
+18 Wáng a, zhìgāo de shén céng jiāng guó wèi, dàquán, róngyào, wēiyán cìyǔ nǐ fù <u>ní bù jiǎ ní sā </u>.
+19 Yīn shén suǒ cì tā de dàquán, gè fāng, gèguó, gè zú de rén dōu zài tā miànqián zhàn jīngkǒngjù, tā kěyǐ suíyì shēng shā, suíyì shēngjiàng.
+20 Dàn tā xīn gāo qì ào, líng yě gāngbì, shènzhì xíngshì kuáng ào, jiù bèi gé qù wángwèi, duó qù róngyào.
+21 Tā bèi gǎn chū líkāi shìrén, tā de xīn biàn rú shòu xīn, yǔ yě lǘ tóngjū, chī cǎo rú niú, shēn bèi tiān lù dī shī, děng tā zhīdào zhìgāo de shén zài rén de guózhōng zhǎngquán, píng zìjǐ de yìzhǐ lì rén zhìguó.
+22 <U>bó shā sā </u>a, nǐ shì tā de érzi, nǐ suī zhīdào zhè yīqiè, nǐ xīn réng bù zìbēi,
+23 jìng xiàng tiānshàng de zhǔ zì gāo, shǐ rén jiāng tā diànzhōng de qìmǐn ná dào nǐ miànqián, nǐ hé dàchén, huánghòu, fēipín yòng zhè qìmǐn yǐnjiǔ. Nǐ yòu zànměi nà bùnéng kàn, bùnéng tīng, wúzhī wú shí, jīn, yín, tóng, tiě, mù, shí suǒ zào de shén, què méiyǒu jiàng róngyào guīyú nà shǒuzhōng yǒu nǐ qìxí, guǎnlǐ nǐ yīqiè xíngdòng de shén.
+24 Yīncǐ, cóng shén nàlǐ xiǎn chū zhǐtou lái xiě zhè wénzì.
+25 `Suǒ xiě de wénzì shì: Mí ní, mí ní, tí kè lēi, wū fǎ ěr xīn.
+26 Jiǎngjiě shì zhèyàng: Mí ní, jiùshì shén yǐjīng shù suàn nǐ guó de nián rì dào cǐ wánbì.
+27 Tí kè lēi, jiùshì nǐ bèi chēng zài tiānpíng lǐ, xiǎn chū nǐ de kuīqiàn.
+28 Pí lè sī, jiùshì nǐ de guó fèn liè, guī yú <u>mǎ dài </u>rén hé <u>bōsī </u>rén.'
+29 <U>bó shā sā </u>xiàlìng, rén jiù bǎ zǐ páo gěi <u>dàn yǐ lǐ </u>chuān shàng, bǎ jīn liàn gěi tā dài zài jǐngxiàng shàng, yòu chuánlìng shǐ tā zài guózhōng wèi liè dì sān.
+30 Dàngyè,<u>jiā lēi dǐ </u>wáng <u>bó shā sā </u>bèi shā.
+31 <U>mǎ dài </u>rén <u>dà liú shì </u>nián liùshí'èr suì, qǔle <u>jiā lēi dǐ </u>guó.
+
+Dì liù zhāng
+
+1 <u>dà liú shì </u>suíxīn suǒ yuàn, lì yībǎi èrshí gè zǒngdū, zhìlǐ tōng guó.
+2 Yòu zài tāmen yǐshàng lì zǒngzhǎng sān rén,<u>dàn yǐ lǐ </u>zài qízhōng, shǐ zǒngdū zài tāmen sān rén miànqián huífù shìwù, miǎndé wáng shòu kuīsǔn.
+3 Yīn zhè <u>dàn yǐ lǐ </u>yǒu měihǎo de língxìng, suǒyǐ xiǎnrán chāo hū qíyú de zǒngzhǎng hé zǒngdū, wáng yòu xiǎng lì tā zhìlǐ tōng guó.
+4 Nà shí zǒngzhǎng hé zǒngdū xúnzhǎo <u>dàn yǐ lǐ </u>wù guó de bǎbǐng, wèi yào cān tā, zhǐshì zhǎo bùzháo tā de cuòwù guòshī, yīn tā zhōngxīn bàn shì, háo wú cuòwù guòshī.
+5 Nàxiē rén biàn shuō:`Wǒmen yào zhǎo cān zhè <u>dàn yǐ lǐ </u>de bǎbǐng, chúfēi zài tā shén de lǜ fǎ zhōng, jiù xún bùzháo.'
+6 Yúshì, zǒngzhǎng hé zǒngdū fēnfēn jùjí lái jiàn wáng, shuō:`Yuàn <u>dà liú shì </u>wáng wànsuì!
+7 Guózhōng de zǒngzhǎng, qīnchāi, zǒngdū, móushì hé xúnfǔ bǐcǐ shāngyì, yào lì yītiáo jiāndìng de jìnlìng, sānshí rìnèi, bùjū hérén, ruò zài wáng yǐwài, huò xiàng shén huò xiàng rén qiú shénme, jiù bì rēng zài shīzi kēng zhōng.
+8 Wáng a, xiànzài qiú nǐ lì zhè jìnlìng, jiā gài yùxǐ, shǐ jìnlìng jué bù gēnggǎi, zhào <u>mǎ dài </u>hé <u>bōsī </u>rén de lì shì bùkě gēnggǎi de.'
+9 Yúshì <u>dà liú shì </u>wánglì zhè jìnlìng, jiā gài yùxǐ.
+10 <U>dàn yǐ lǐ </u>zhīdào zhè jìnlìng gàile yùxǐ, jiù dào zìjǐ jiālǐ (tā lóu shàng de chuānghù kāi xiàng <u>yēlùsālěng </u>), yī rì sāncì shuāng xī guì zài tā shén miànqián dǎogào gǎnxiè, yǔ sùcháng yīyàng.
+11 Nàxiē rén jiù fēnfēn jùjí, jiàn <u>dàn yǐ lǐ </u>zài tā shén miànqián qídǎo kěnqiú.
+12 Tāmen biàn jìn dào wáng qián, tí wáng de jìnlìng, shuō:`Wáng a, sānshí rìnèi bùjū hérén, ruò zài wáng yǐwài, huò xiàng shén huò xiàng rén qiú shénme, bì bèi rēng zài shīzi kēng zhōng. Wáng bùshì zài zhè jìnlìng shànggàile yùxǐ ma?'Wáng huídá shuō:`Shí yǒu zhè shì, zhào <u>mǎ dài </u>hé <u>bōsī </u>rén de lì shì bùkě gēnggǎi de.'
+13 Tāmen duì wáng shuō:`Wáng a, nà bèi lǔ zhī <u>yóudà </u>rén zhōng de <u>dàn yǐ lǐ </u>bù lǐ nǐ, yě bù zūn nǐ gàile yùxǐ de jìnlìng, tā jìng yī rì sāncì qídǎo.'
+14 Wáng tīngjiàn zhè huà jiù shén chóu fán, yī xīn yào jiù <u>dàn yǐ lǐ </u>, chóuhuà jiě jiù tā, zhídào rìluò de shíhòu.
+15 Nàxiē rén jiù fēnfēn jùjí lái jiàn wáng, shuō:`Wáng a, dāng zhīdào <u>mǎ dài </u>rén hé <u>bōsī </u>rén yǒu lì, fán wáng suǒ lì de jìnlìng hé lǜ lì dōu bùkě gēnggǎi.'
+16 Wáng xiàlìng, rén jiù bǎ <u>dàn yǐ lǐ </u>dài lái, rēng zài shīzi kēng zhōng. Wáng duì <u>dàn yǐ lǐ </u>shuō:`Nǐ suǒ cháng shìfèng de shén, tā bì jiù nǐ.'
+17 Yǒurén bān shítou fàng zài kēngkǒu, wáng yòng zìjǐ de xǐ hé dàchén de yìn fēngbì nà kēng, shǐ chéngbàn <u>dàn yǐ lǐ </u>de shì háo wú gēnggǎi.
+18 Wáng huí gōng, zhōngyè jìn shí, wúrén ná yuèqì dào tā miànqián, bìngqiě shuì bùzháo jué.
+19 Cì rì límíng wáng jiù qǐlái, jímáng wǎng shīzi kēng nàlǐ qù.
+20 Línjìn kēng biān, āi shēng hūjiào <u>dàn yǐ lǐ </u>, duì <u>dàn yǐ lǐ </u>shuō:`Yǒngshēng shén de pú rén <u>dàn yǐ lǐ </u>a, nǐ suǒ cháng shìfèng de shén néng jiù nǐ tuōlí shīzi ma?'
+21 <U>dàn yǐ lǐ </u>duì wáng shuō:`Yuàn wáng wànsuì!
+22 Wǒ de shén chāiqiǎn shǐzhě fēng zhù shīzi de kǒu, jiào shīzi bù shāng wǒ, yīn wǒ zài shén miànqián wúgū, wǒ zài wáng miànqián yě méiyǒu xíngguò kuīsǔn de shì.'
+23 Wáng jiù shén xǐlè, fēnfù rén jiāng <u>dàn yǐ lǐ </u>cóng kēng lǐ xì shànglái. Yúshì <u>dàn yǐ lǐ </u>cóng kēng lǐ bèi xì shànglái, shēnshang háo wúshāng sǔn, yīn wéi xìn kào tā de shén.
+24 Wáng xiàlìng, rén jiù bǎ nàxiē kònggào <u>dàn yǐ lǐ </u>de rén lián tāmen de qīzi, érnǚ dōu dài lái, rēng zài shīzi kēng zhōng. Tāmen hái méiyǒu dào kēng dǐ, shīzi jiù zhuā zhù tāmen, yǎo suì tāmen de gǔtou.
+25 Nà shí <u>dà liú shì </u>wáng chuán zhǐ, xiǎoyù zhù zài quán de, gè fāng, gèguó, gè zú de rén shuō:`Yuàn nǐmen dà xiǎng píng'ān!
+26 Xiànzài wǒ jiàng zhǐ xiǎoyù wǒ suǒ tǒngxiá de quánguó rénmín, yào zài <u>dàn yǐ lǐ </u>de shén miànqián zhàn jīng kǒngjù. Yīnwèi tā shì yǒngyuǎn cháng cún de huó shén, tā de guó yǒng bù bàihuài, tā de quánbǐng yǒngcún wújí.
+27 Tā hù bì rén, dājiù rén, zài tiānshàng dìxià shīxíng shén jī qí shì, jiùle <u>dàn yǐ lǐ </u>tuōlí shīzi de kǒu.'
+28 Rúcǐ, zhè <u>dàn yǐ lǐ </u>dāng <u>dà liú shì </u>wáng zài wèi de shíhòu hé <u>bōsī </u>wáng <u>jū lǔ shì </u>zài wèi de shíhòu, dà xiǎng hēngtōng.
+
+Dì qī zhāng
+
+1 <u>bābǐlún </u>wáng <u>bó shā sā </u>yuán nián,<u>dàn yǐ lǐ </u>zài chuángshàng zuòmèng, jiànle nǎo zhōng de yì xiàng, jiù jìlù zhè mèng, shùshuō qízhōng de dàyì.
+2 <U>dàn yǐ lǐ </u>shuō: Wǒ yèlǐ jiàn yì xiàng, kànjiàn tiān de sì fēng dǒu qǐ, guā zài dàhǎi zhī shàng.
+3 Yǒu sì gè dà shòu cóng hǎizhōng shànglái, xíngzhuàng gè yǒu bùtóng.
+4 Tóu yīgè xiàng shīzi, yǒuyīng de chìbǎng. Wǒ zhèng guānkàn de shíhòu, shòu de chìbǎng bèi bá qù, shòu cóng dìshàng dé lì qǐlái, yòng liǎng jiǎo zhànlì, xiàng rén yīyàng, yòu déliǎo rén xīn.
+5 Yòu yǒuyī shòu rú xióng, jiùshì dì èr shòu, páng kuà ér zuò, kǒuchǐ nèi xián zháo sāngēn lèigǔ. Yǒu fēnfù zhè shòu de shuō:`Qǐlái, tūn chī duōròu!'
+6 Cǐhòu wǒ guānkàn, yòu yǒuyī shòu rú bào, bèi shàng yǒu niǎo de sì gè chìbǎng. Zhè shòu yǒu sì gètóu, yòu déliǎo quánbǐng.
+7 Qí hòu wǒ zài yèjiān de yì xiàng zhōng guānkàn, jiàn dì sì shòu shén shì kěpà, jíqí qiángzhuàng, dà yǒu lìliàng, yǒu dà tiě yá, tūn chī jué suì, suǒ shèng xià de yòng jiǎo jiàntà. Zhè shòu yǔ qián sān shòu dà bù xiāngtóng, tóu yǒu shí jiǎo.
+8 Wǒ zhèng guānkàn zhèxiē jiǎo, jiàn qízhōng yòu zhǎng qǐ yīgè xiǎojué, xiānqián de jiǎo zhòng yǒu sānjiǎo zài zhè jiǎo qián, lián gēn bèi tā bá chūlái. Zhè jiǎo yǒu yǎn, xiàng rén de yǎn, yǒu kǒu shuō kuādà dehuà.
+9 Wǒ guānkàn, jiàn yǒu bǎozuò shèlì, shàng tou zuòzhe gèngǔ cháng zài zhě. Tā de yīfú jiébái rú xuě, tóufà rú chúnjìng de yángmáo. Bǎozuò nǎi huǒyàn, qí lún nǎi lièhuǒ.
+10 Cóng tā miànqián yǒu huǒ xiàng hé fāchū, shìfèng tā de yǒu qiān qiān, zài tā miànqián shìlì de yǒu wàn wàn. Tā zuòzhe yào xíng shěnpàn, ànjuàn dōu zhǎnkāile.
+11 Nà shí wǒ guānkàn, jiàn nà shòu yīn xiǎojué shuō kuādà huà de shēngyīn bèi shā, shēntǐ sǔnhuài, rēng zài huǒ zhōng fénshāo.
+12 Qíyú de shòu, quánbǐng dōu bèi duó qù, shēngmìng què réng cúnliú, zhídào suǒdìng de shíhòu hé rìqí.
+13 Wǒ zài yèjiān de yì xiàng zhōng guānkàn, jiàn yǒuyī wèi xiàng rén zǐ de, jiàzhe tiān yún ér lái, bèi lǐng dào gèngǔ cháng zài zhě miànqián,
+14 déliǎo quánbǐng, róngyào, guódù, shǐ gè fāng, gèguó, gè zú de rén dōu shìfèng tā. Tā de quánbǐng shì yǒngyuǎn de, bùnéng fèi qù, tā de guó bì bù bàihuài.
+15 Zhìyú wǒ <u>dàn yǐ lǐ </u>, wǒ de líng zài wǒ lǐmiàn chóu fán, wǒ nǎo zhōng de yì xiàng shǐ wǒ jīnghuáng.
+16 Wǒ jiùjìn yī wèi shìlì zhě, wèn tā zhè yīqiè de zhēnqíng. Tā jiù gàosù wǒ, jiāng nà shì de jiǎngjiě gěi wǒ shuōmíng:
+17 `Zhè sì gè dà shòu jiùshì sì wáng jiāngyào zài shìshàng xīngqǐ.
+18 Rán'ér, zhìgāo zhě de shèng mín bìyào dé guó xiǎngshòu, zhídào yǒng yǒngyuǎn yuǎn.'
+19 Nà shí wǒ yuàn zhīdào dì sì shòu de zhēnqíng, tā wèihé yǔ nà sān shòu de zhēnqíng dà bù xiāngtóng, shén shì kěpà, yǒu tiě yá tóng zhǎo, tūn chī jué suì, suǒ shèng xià de yòng jiǎo jiàntà;
+20 tóu yǒu shí jiǎo hé nà lìng zhǎng de yījiǎo, zài zhè jiǎo qián yǒu sānjiǎo bèi tā dǎ luò, zhè jiǎo yǒu yǎn, yǒu shuō kuādà huà de kǒu, xíngzhuàng qiánghèng guòyú tā de tónglèi.
+21 Wǒ guānkàn, jiàn zhè jiǎo yǔ shèng mín zhēngzhàn, shèngle tāmen,
+22 zhídào gèngǔ cháng zài zhě lái gěi zhìgāo zhě de shèng mín shēnyuān, shèng mín dé guó de shíhòu jiù dàole.
+23 Nà shìlì zhě zhèyàng shuō:`Dì sì shòu jiùshì shì shàng bì yǒu de dì sì guó, yǔ yīqiè guó dà bù xiāngtóng, bì tūn chī quán de, bìngqiě jiàntà jué suì.
+24 Zhìyú nà shí jiǎo, jiùshì cóng zhè guózhōng bì xīngqǐ de shí wáng. Hòulái yòu xīngqǐ yī wáng, yǔ xiānqián de bùtóng, tā bì zhìfú sān wáng.
+25 Tā bì xiàng zhìgāo zhě shuō kuādà dehuà, bì zhémó zhìgāo zhě de shèng mín, bì xiǎng gǎibiàn jié qí hé lǜ fǎ, shèng mín bì jiāofù tā shǒu yī zài, èr zài, bàn zǎi.
+26 Rán'ér, shěnpàn zhě bì zuòzhe xíng shěnpàn, tā de quánbǐng bì bèi duó qù, huǐhuài, mièjué, yīzhídàodǐ.
+27 Guódù, quánbǐng hé tiānxià zhū guó de dàquán bì cì gěi zhìgāo zhě de shèng mín. Tā de guó shì yǒngyuǎn de, yīqiè zhǎngquán de dōu bì shìfèng tā, shùncóng tā.'
+28 Nà shì zhìcǐ wánbì. Zhìyú wǒ <u>dàn yǐ lǐ </u>, xīnzhōng shén shì jīnghuáng, liǎnsè yě gǎibiànle, què jiāng nà shì cún jì zàixīn.
+
+Dì bā zhāng
+
+1 <u>bó shā sā </u>wáng zài wèi dì sān nián, yǒu yì xiàng xiàn yú wǒ <u>dàn yǐ lǐ </u>, shì zài xiānqián suǒjiàn de yì xiàng zhīhòu.
+2 Wǒ jiànle yì xiàng de shíhòu, wǒ yǐwéi zài <u>yǐ lán </u>shěng <u>shū shān </u>chéngzhōng, wǒ jiàn yì xiàng yòu rú zài <u>wū lái </u>hé biān.
+3 Wǒ jǔmù guānkàn, jiàn yǒu shuāng jiǎo de gōng miányáng zhàn zài hé biān, liǎng jiǎo dōu gāo, zhè jiǎo gāoguò nà jiǎo, gèng gāo de shì hòu zhǎng de.
+4 Wǒ jiàn nà gōng miányáng wǎng xī, wǎng běi, wǎng nán dǐ chù, shòu zài tā miànqián dōu zhànlì bù zhù, yě méiyǒu néng jiùhù tuōlí tā shǒu de. Dàn tā rènyì ér xíng, zìgāozìdà.
+5 Wǒ zhèng sīxiǎng de shíhòu, jiàn yǒu yī zhī gōng shānyáng cóng xī ér lái, biàn xíng quán de, jiǎo bù zhān chén, zhè shānyáng liǎng yǎn dāngzhōng yǒu yī fēicháng de jiǎo.
+6 Tā wǎng wǒ suǒ kànjiàn zhàn zài hé biān, yǒu shuāng jiǎo de gōng miányáng nàlǐ qù, dàfā fènnù, xiàng tā zhí chuǎng.
+7 Wǒ jiàn gōng shānyáng jiù jìn gōng miányáng, xiàng tā fā liè nù, dǐ chù tā, zhéduàn tā de liǎng jiǎo, miányáng zài tā miànqián zhànlì bù zhù. Tā jiāng miányáng chù dào zài dì, yòng jiǎo jiàntà, méiyǒu néng jiù miányáng tuōlí tā shǒu de.
+8 Zhè shānyáng jíqí zìgāozìdà, zhèng qiángshèng de shíhòu, nà dàjiǎo zhéduànle, yòu zài jiǎogēnshàng xiàng tiān de sìfāng cháng chū sì gè fēicháng de jiǎo lái.
+9 Sìjiǎo zhī zhōng yǒu yījiǎo zhǎng chū yīgè xiǎojué, xiàng nán, xiàngdōng, xiàng róngměi zhī dì, jiànjiàn chéngwéi qiángdà.
+10 Tā jiànjiàn qiángdà, gāo jí tiānxiàng, jiāng xiē tiānxiàng hé xīngsù pāo luò zài dì, yòng jiǎo jiàntà.
+11 Bìngqiě tā zìgāozìdà, yǐwéi gāo jí tiānxiàng zhī jūn; chú diào cháng xiàn gěi jūn de fánjì, huǐhuài jūn de shèng suǒ.
+12 Yīn zuìguo de yuángù, yǒu jūnlǚ hé cháng xiàn de fánjì jiāofù tā. Tā jiāng zhēnlǐ pāo zài dìshàng, rènyì ér xíng, wú bù shùnlì.
+13 Wǒ tīngjiàn yǒu yī wèi shèngzhě shuōhuà, yòu yǒu yī wèi shèngzhě wèn nà shuōhuà de shèngzhě shuō:`Zhè chú diào cháng xiàn de fánjì hé shīxíng huǐhuài de zuìguo, jiāng shèng suǒ yǔ jūnlǚ jiàntà de yì xiàng, yào dào jǐshí cái yìngyàn ne?'
+14 Tā duì wǒ shuō:`Dào èrqiān sānbǎi rì, shèng suǒ jiù bì jiéjìng.'
+15 Wǒ <u>dàn yǐ lǐ </u>jiànle zhè yì xiàng, yuànyì míngbái qízhōng de yìsi, hū yǒu yī wèi xíngzhuàng xiàng rén de zhàn zài wǒ miànqián.
+16 Wǒ yòu tīngjiàn <u>wū lái </u>hé liǎng'àn zhōng yǒurén shēng hūjiào shuō:`<U>jiā bǎiliè </u>a, yào shǐ cǐ rén míngbái zhè yì xiàng.'
+17 Tā biàn lái dào wǒ suǒ zhàn dì dìfāng. Tā yī lái, wǒ jiù jīnghuāng fǔfú zài dì. Tā duì wǒ shuō:`Rén zǐ a, nǐ yào míngbái, yīnwèi zhè shì guānhū mòhòu de yì xiàng.'
+18 Tā yǔ wǒ shuōhuà de shíhòu, wǒ miàn fú zài dì chénshuì. Tā jiù mō wǒ, fú wǒ zhàn qǐlái,
+19 shuō:`Wǒ yào zhǐshì nǐ nǎonù lín wánbì yǒu de shì, yīnwèi zhè shì guānhū mòhòu de dìngqí.
+20 Nǐ suǒ kànjiàn shuāng jiǎo de gōng miányáng, jiùshì <u>mǎ dài </u>hé <u>bōsī </u>wáng.
+21 Nà gōng shānyáng jiùshì <u>xīlà </u>wáng, liǎng yǎn dāngzhōng de dàjiǎo jiùshì tóu yī wáng.
+22 Zhìyú nà zhéduànle de jiǎo, zài qí gēnshàng yòu zhǎng chū sìjiǎo, zhè sìjiǎo jiùshì sì guó, bì cóng zhè guó lǐ xīngqǐlái, zhǐshì quánshì dōu bùjí tā.
+23 Zhè sì guó mò shí, fànfǎ de rén zuì'è mǎn yíng, bì yǒu yī wáng xīngqǐ, miànmào xiōng'è, néng yòng shuāngguān de zhà yǔ.
+24 Tā de quánbǐng bì dà, què bùshì yīn zìjǐ de nénglì. Tā bì xíng fēicháng de huǐmiè, shìqíng shùnlì, rènyì ér xíng, yòu bì huǐmiè yǒu nénglì de hé shèng mín.
+25 Tā yòng quánshù chéngjiù shǒuzhōng de guǐjì, xīnlǐ zìgāozìdà, zài rén tǎnrán wú bèi de shíhòu, huǐmiè duō rén. Yòu yào zhàn qǐlái gōngjí wàn jūn zhī jūn, zhì zhōng què fēi yīn rén shǒu ér mièwáng.
+26 Suǒ shuō èrqiān sānbǎi rì de yì xiàng shì zhēn de, dàn nǐ yào jiāng zhè yì xiàng fēng zhù, yīnwèi guānhū hòulái xǔduō de rìzi.'
+27 Yúshì wǒ <u>dàn yǐ lǐ </u>hūnmí bù xǐng, bìngle shù rì, ránhòu qǐlái bànlǐ wáng de shìwù. Wǒ yīn zhè yì xiàng jīngqí, què wúrén néng míngbái qízhōng de yìsi.
+
+Dì jiǔ zhāng
+
+1 <u>mǎ dài </u>zú <u>yà hā suí lǔ </u>de érzi <u>dà liú shì </u>lì wèi <u>jiā lēi dǐ </u>guó de wángyuánnián,
+2 jiùshì tā zài wèi dì yī nián, wǒ <u>dàn yǐ lǐ </u>cóng shū shàng dé zhī yēhéhuá dehuà líndào xiānzhī <u>yé lì mǐ </u>, lùn <u>yēlùsālěng </u>huāngliáng de nián shù, qīshí nián wèi mǎn.
+3 Wǒ biàn jìn shí, pī má méng huī, dìng yì xiàng zhǔshén qídǎo kěnqiú.
+4 Wǒ xiàng yēhéhuá wǒ de shén qídǎo, rènzuì, shuō:`Zhǔ a, dà ér kě wèi de shén, xiàng ài zhǔ shǒu zhǔ jiè mìng de rén shǒu yuē shī cí'ài.
+5 Wǒmen fànzuì zuòniè, xíng è pànnì, piānlí nǐ de jiè mìng, diǎnzhāng,
+6 méiyǒu tīngcóng nǐ pú rén zhòng xiānzhī fèng nǐ míng xiàng wǒmen jūnwáng, shǒulǐng, liè zǔ hé guózhōng yīqiè bǎixìng suǒ shuō dehuà.
+7 Zhǔ a, nǐ shì gōngyì de, wǒmen shì liǎn shàng méng xiū de, yīn wǒmen <u>yóudà </u>rén hé <u>yēlùsālěng </u>de jūmín, bìng <u>yǐsèliè </u>zhòngrén——huò zài jìn chù huò zài yuǎn chù bèi nǐ gǎn dào gèguó de rén, dōu dézuìle nǐ, zhèngrújīnrì yīyàng.
+8 Zhǔ a, wǒmen hé wǒmen de jūnwáng, shǒulǐng, liè zǔ yīn dézuìle nǐ, jiù dōu liǎn shàng méng xiū.
+9 Zhǔ wǒmen de shén shì liánmǐn ráoshù rén de, wǒmen què wéibèile tā,
+10 yě méiyǒu tīngcóng yēhéhuá wǒmen shén dehuà, méiyǒu zūnxíng tā jí pú rén zhòng xiānzhī xiàng wǒmen suǒ chén míng de lǜ fǎ.
+11 <U>yǐsèliè </u>zhòngrén dōu fànle nǐ de lǜ fǎ, piān xíng, bù tīngcóng nǐ dehuà, yīncǐ zài nǐ pú rén <u>móxī </u>lǜ fǎ shàng suǒ xiě de zhòu zǔ hé shìyán dōu qīng zài wǒmen shēnshang, yīn wǒmen dézuìle shén.
+12 Tā shǐ dà zāihuò líndào wǒmen, chéngjiùle jǐngjiè wǒmen hé shěnpàn wǒmen guān zhǎng dehuà. Yuánlái zài pǔtiān zhī xià, wèicéng xíngguò xiàng zài <u>yēlùsālěng </u>suǒ xíng de.
+13 Zhè yīqiè zāihuò líndào wǒmen shēnshang, shì zhào <u>móxī </u>lǜ fǎ shàng suǒ xiě de, wǒmen què méiyǒu qiú yēhéhuá wǒmen shén de ēndiǎn, shǐ wǒmen huítóu líkāi zuìniè, míngbái nǐ de zhēnlǐ.
+14 Suǒyǐ yēhéhuá liúyì shǐ zhè zāihuò líndào wǒmen shēnshang, yīnwèi yēhéhuá wǒmen de shén zài tāsuǒ xíng de shì shàng dū shì gōngyì, wǒmen bìng méiyǒu tīngcóng tā dehuà.
+15 Zhǔ wǒmen de shén a, nǐ céng yòng dà néng de shǒulǐng nǐ de zi mín chū <u>āijí </u>de, shǐ zìjǐ déliǎo míng, zhèngrú jīnrì yīyàng. Wǒmen fànle zuì, zuòle è.
+16 `Zhǔ a, qiú nǐ àn nǐ de dàrén dàyì, shǐ nǐ de nùqì hé fènnù zhuǎn lí nǐ de chéng <u>yēlùsālěng </u>, jiùshì nǐ de shèngshān.<U>yēlùsālěng </u>hé nǐ de zi mín, yīn wǒmen de zuì'è hé wǒmen liè zǔ de zuìniè bèi sìwéi de rén xiūrù.
+17 Wǒmen de shén a, xiànzài qiú nǐ chuí tīng pú rén de qídǎo kěnqiú, wèi zìjǐ shǐ liǎn guāngzhào nǐ huāngliáng de shèng suǒ.
+18 Wǒ de shén a, qiú nǐ cè'ěr ér tīng, zhēng yǎn ér kàn, juàngù wǒmen huāngliáng zhī dì hé chēng wèi nǐ míng xià de chéng. Wǒmen zài nǐ miànqián kěnqiú, yuán bùshì yīn zìjǐ de yì, nǎi yīn nǐ de dà liánmǐn.
+19 Qiú zhǔ chuí tīng, qiú zhǔ shèmiǎn, qiú zhǔ yìngyǔn ér xíng, wèi nǐ zìjǐ bùyào chíyán, wǒ de shén a, yīn zhè chéng hé zhè mín dōu shì chēng wèi nǐ míng xià de.'
+20 Wǒ shuōhuà, dǎogào, chéngrèn wǒ de zuì hé běnguó zhī mín <u>yǐsèliè </u>de zuì, wèi wǒ shén de shèngshān zài yēhéhuá wǒ shén miànqián kěnqiú.
+21 Wǒ zhèng dǎogào de shíhòu, xiānqián zài yì xiàng zhōng suǒjiàn dì nà wèi <u>jiā bǎiliè </u>fèngmìng xùnsù fēi lái, yuē zài xiàn wǎn jì de shíhòu, àn shǒu zài wǒ shēnshang.
+22 Tā zhǐjiào wǒ shuō:`<U>dàn yǐ lǐ </u>a, xiànzài wǒ chūlái yào shǐ nǐ yǒu zhìhuì, yǒu cōngmíng.
+23 Nǐ chū kěnqiú de shíhòu, jiù fāchū mìnglìng, wǒ lái gàosù nǐ, yīn nǐ dà méng juàn ài. Suǒyǐ nǐ yào sīxiǎng míngbái zhè yǐxià de shì hé yì xiàng.
+24 `Wèi nǐ běnguó zhī mín hé nǐ shèng chéng, yǐjīng dìngle qīshí gè qī, yào zhǐ zhù zuìguo, chú jìng zuì'è, shú jǐn zuìniè, yǐnjìn yǒng yì, fēng zhù yì xiàng hé yùyán, bìng gāo zhì shèngzhě.
+25 Nǐ dāng zhīdào, dāng míngbái, cóng chū lìng chóngxīn jiànzào <u>yēlùsālěng </u>, zhídào yǒu shòu gāo jūn de shíhòu, bì yǒu qī gè qī hé liùshí'èr gè qī. Zhèngzài jiānnán de shíhòu,<u>yēlùsālěng </u>chéng lián jiē dài háo dōu bì chóngxīn jiànzào.
+26 Guò le liùshí'èr gè qī, nà shòu gāo zhě bì bèi jiǎnchú, yīwúsuǒyǒu. Bì yǒu yī wáng de mín lái huǐmiè zhè chéng hé shèng suǒ. Zhì zhōng bì rú hóngshuǐ chōng méi, bì yǒu zhēngzhàn, yīzhídàodǐ, huāngliáng de shì yǐjīng dìngle.
+27 Yīqī zhī nèi, tā bì yǔ xǔduō rén jiāndìng méngyuē; yīqī zhī bàn, tā bì shǐ jìsì yǔ gōng xiàn zhǐxī. Nà xíng huǐhuài kězēng de rú fēi ér lái, bìngqiě yǒu fènnù qīng zài nà xíng huǐhuài de shēnshang, zhídào suǒdìng de jiéjú.'
+
+Dì shí zhāng
+
+1 <u>bōsī </u>wáng <u>jū lǔ shì </u>dì sān nián, yǒushì xiǎn gěi chēng wèi <u>bó tí shā sā </u>de <u>dàn yǐ lǐ </u>. Zhè shì shì zhēn de, shì zhǐzhe dà zhēngzhàn.<U>dàn yǐ lǐ </u>tōngdá zhè shì, míngbái zhè yì xiàng.
+2 Dāng nà shí, wǒ <u>dàn yǐ lǐ </u>bēishāngle sān gè qī rì.
+3 Měiwèi wǒ méiyǒu chī, jiǔròu méiyǒu rù wǒ de kǒu, yě méiyǒu yòng yóu mǒ wǒ de shēn, zhídào mǎnle sān gè qī rì.
+4 Zhēngyuè èrshísì rì, wǒ zài <u>dǐgélǐsī </u>dà hé biān,
+5 jǔmù guānkàn, jiàn yǒu yīrén shēn chuān xì máyī, yāo shù <u>wū fǎ </u>jīng jīn dài.
+6 Tā shēntǐ rúshuǐ cāng yù, miànmào rú shǎndiàn, yǎnmù rú huǒbǎ, shǒu hé jiǎo rú guāngmíng de tóng, shuōhuà de shēngyīn rú dàzhòng de shēngyīn.
+7 Zhè yì xiàng wéi yǒu wǒ <u>dàn yǐ lǐ </u>yīrén kànjiàn, tóngzhe wǒ de rén méiyǒu kànjiàn, tāmen què dàdàzhàn jīng, táopǎo yǐncáng,
+8 zhǐ shèng xià wǒ yīrén. Wǒ jiànle zhè dà yì xiàng biàn húnshēn wúlì, miànmào shīsè, háo wú qìlì.
+9 Wǒ què tīngjiàn tā shuōhuà de shēngyīn, yī tīngjiàn jiù miàn fú zài dì chénshuìle.
+10 Hūrán yǒu yīshǒu àn zài wǒ shēnshang, shǐ wǒ yòng xī hé shǒuzhǎng zhīchí wēi qǐ.
+11 Tā duì wǒ shuō:`Dà méng juàn ài de <u>dàn yǐ lǐ </u>a, yào míngbái wǒ yǔ nǐ suǒ shuō dehuà, zhǐguǎn zhàn qǐlái, yīnwèi wǒ xiànzài fèng chāiqiǎn lái dào nǐ zhèlǐ.'Tā duì wǒ shuō zhè huà, wǒ biàn zhànzhànjīngjīng de lì qǐlái.
+12 Tā jiù shuō:`<U>dàn yǐ lǐ </u>a, bùyào jùpà. Yīnwèi cóng nǐ dì yī rì zhuānxīn qiú míngbái jiānglái de shì, yòu zài nǐ shén miànqián kèkǔ jǐ xīn, nǐ de yányǔ yǐ méng yìngyǔn, wǒ shì yīn nǐ de yányǔ ér lái.
+13 Dàn <u>bōsī </u>guó de mó jūn lánzǔ wǒ èrshíyī rì, hūrán yǒu dàjūn zhōng de yī wèi <u>mǐ jiā lēi </u>lái bāngzhù wǒ, wǒ jiù tíngliú zài <u>bōsī </u>zhūwáng nàlǐ.
+14 Xiànzài wǒ lái, yào shǐ nǐ míngbái běnguó zhī mín rìhòu bì zāoyù de shì, yīnwèi zhè yì xiàng guānhū hòulái xǔduō de rìzi.'
+15 Tā xiàng wǒ zhèyàng shuō, wǒ jiù liǎn miàn cháo de, yǎ kǒu wúshēng.
+16 Bùliào, yǒu yī wèi xiàng rén de mō wǒ de zuǐchún, wǒ biàn kāikǒuxiàng nà zhàn zài wǒ miànqián de shuō:`Wǒ zhǔ a, yīn jiàn zhè yì xiàng, wǒ dàdà chóukǔ, háo wú qìlì.
+17 Wǒ zhǔ de pú rén zěn néng yǔ wǒ zhǔ shuōhuà ne? Wǒ yī jiàn yì xiàng jiù húnshēn wúlì, háo wú qìxí.'
+18 Yǒu yī wèi xíngzhuàng xiàng rén de yòu mō wǒ, shǐ wǒ yǒu lìliàng.
+19 Tā shuō:`Dà méng juàn ài de rén nǎ, bùyào jùpà, yuàn nǐ píng'ān! Nǐ zǒng yào jiānqiáng!'Tā yīxiàng wǒ shuōhuà, wǒ biàn juédé yǒu lìliàng, shuō:`Wǒ zhǔ qǐng shuō, yīn nǐ shǐ wǒ yǒu lìliàng.'
+20 Tā jiù shuō:`Nǐ zhīdào wǒ wèihé lái jiàn nǐ ma? Xiànzài wǒ yào huíqù yǔ <u>bōsī </u>de mó jūn zhēngzhàn, wǒ qù hòu,<u>xīlà </u>de mó jūn bì lái.
+21 Dàn wǒ yào jiāng nà lù zài zhēnquè shū shàng de shì gàosù nǐ. Chúle nǐmen de dàjūn <u>mǐ jiā lēi </u>zhī wài, méiyǒu bāngzhù wǒ dǐdǎng zhè liǎng mó jūn de.'
+
+Dì shíyī zhāng
+
+1 yòu shuō:`Dāng <u>mǎ dài </u>wáng <u>dà liú shì </u>yuán nián, wǒ céng qǐlái fúzhù <u>mǐ jiā lēi </u>, shǐ tā jiānqiáng.
+2 `Xiànzài wǒ jiāng zhēn shì zhǐshì nǐ,<u>bōsī </u>hái yǒu sān wáng xīngqǐ, dì sì wáng bì fùzú yuǎn shèng zhūwáng. Tā yīn fùzú chéngwéi qiángshèng, jiù bì jīdòng dàzhòng gōngjí <u>xīlà </u>guó.
+3 Bì yǒu yīgè yǒnggǎn de wáng xīngqǐ, zhízhǎng dàquán, suíyì ér xíng.
+4 Tā xīngqǐ de shíhòu, tā de guó bì pòliè, xiàng tiān de sìfāng fēnkāi, què bù guī tā de hòuyì, zhìguó de quánshì yě dū bùjí tā, yīnwèi tā de guó bì bèi bá chū, guī yú tā hòuyì zhī wài de rén.
+5 `Nánfāng de wáng bì qiángshèng, tā jiàngshuài zhōng bì yǒu yīgè bǐ tā gèng qiángshèng, zhízhǎngquánbǐng, tā de quánbǐng shéndà.
+6 Guò xiē nián hòu, tāmen bì hùxiāng liánhé, nánfāng wáng de nǚ'ér bì jiùle běifāng wáng lái lìyuē. Dàn zhè nǚzǐ bāngzhù zhī lì cúnlì bù zhù, wáng hé tāsuǒyǐkào zhī lìyě bùnéng cúnlì. Zhè nǚzǐ hé yǐndǎo tā lái de, bìng shēng tā de, yǐjí dāngshí fúzhù tā de, dōu bì jiāo yú sǐdì.
+7 `Dàn zhè nǚzǐ de běnjiā bì lìng shēng yī zi jìxù wáng wèi, tā bì shuàilǐng jūnduì jìnrù běifāng wáng de bǎozhàng, gōngjí tāmen, érqiě déshèng,
+8 bìng jiāng tāmen de shénxiàng hé zhù chéng de ǒuxiàng, yǔ jīnyín de bǎo qì è dào <u>āijí </u>qù. Shù nián zhī nèi, tā bù qù gōngjí běifāng de wáng.
+9 Běifāng de wáng bì rù nánfāng wáng de guó, què yào réng huí běndì.
+10 `Běifāng wáng de èrzi bì dòng gāngē, zhāo jù xǔduō jūnbīng. Zhè jūnbīng qián qù, rú hóngshuǐ fànlàn, yòu bì zài qù zhēngzhàn, zhídào nánfāng wáng de bǎozhàng.
+11 Nánfāng wángbìfā liè nù, chūlái yǔ běifāng wáng zhēngzhàn, bǎi liè dàjūn, běifāng wáng de jūnbīng bì jiāofù tā shǒu.
+12 Tā de zhòng jūn gāo'ào, tā de xīn yě bì zì gāo, tā suī shǐ shù wàn rén pū dào, què bùdé chángshèng.
+13 Běifāng wáng bì huílái bǎi liè dàjūn, bǐ xiānqián de gèng duō. Mǎnle suǒdìng de nián shù, tā bì shuàilǐng dà jūn, dài jí duō de jūnzhuāng lái.
+14 Nà shí bì yǒu xǔduō rén qǐlái gōngjí nánfāng wáng, bìngqiě nǐ běnguó de qiángbào rén bì xīngqǐ, yào yìngyàn nà yì xiàng, tāmen què yào bàiwáng.
+15 Běifāng wángbìlái zhú lěi gōngqǔ jiāngù chéng, nánfāng de jūnbīng bì zhànlì bù zhù, jiùshì xuǎnzé de jīngbīng yě wúlì zhànzhù.
+16 Lái gōngjí tā de bì rènyì ér xíng, wúrén zài běifāng wáng miànqián zhànlì dé zhù. Tā bì zhàn zài nà róngměi zhī dì, yòng shǒu shīxíng huǐmiè.
+17 Tā bìdìng yì yòng quánguó zhī lì ér lái, lì gōngzhèng de yuē, zhào yuē ér xíng, jiāng zìjǐ de nǚ'ér gěi nánfāng wáng wèi qī, xiǎng yào bàihuài tā, zhè jì què bùdé chéngjiù, yǔ zìjǐ háo wú yìchu.
+18 Qí hòu tā bì zhuǎn huí, duóqǔle xǔduō hǎidǎo. Dàn yǒu yī dà shuài, chú diào tā lìng rén shòu de xiūrù, bìngqiě shǐ zhè xiūrù guī tā běnshēn.
+19 Tā jiù bì zhuǎnxiàng běndì de bǎozhàng, què yào bàn diē pū dào, guī yú wú yǒu.
+20 `Nà shí, bì yǒu yīrén xīngqǐ jiēxù tā wèi wáng, shǐ héng zhēng bào liǎn de rén tōngxíng guózhōng de róngměi dì. Zhè wáng bù duō rì jiù bì mièwáng, què bù yīn fènnù, yě bù yīn zhēngzhàn.
+21 Bì yǒu yīgè bēibǐ de rén xīngqǐ jiēxù wèi wáng, rén wèicéng jiāng guó de zūn róng gěi tā, tā què chèn rén tǎnrán wú bèi de shíhòu, yòng chǎnmèi dehuà dé guó.
+22 Bì yǒu wú shǔ de jūnbīng shì rú hóngshuǐ, zài tā miànqián chōng méi bàihuài, tóngméng de jūn yě bì rúcǐ.
+23 Yǔ nà jūn jiéméng zhīhòu, tā bì xíng guǐzhà, yīnwèi tā bì shànglái yǐwéixiǎo de jūn chéngwéi qiángshèng.
+24 Chèn rén tǎnrán wú bèi de shíhòu, tā bì lái dào guózhōng jí féiměi zhī dì, xíng tā liè zǔ hé tā liè zǔ zhī zǔ suǒ wèicéng xíng de, jiāng lǔ wù, è wù hé cáibǎo sàn gěi zhòngrén, yòu yào shèjì gōngdǎ bǎozhàng, rán'ér zhè dōu shì zhànshí de.
+25 Tā bì fènyǒng xiàng qián, shuàilǐng dà jūn gōngjí nánfāng wáng. Nánfāng wáng yě bì yǐ jí dà jí qiáng de jūnbīng yǔ tā zhēngzhàn, què zhànlì bù zhù, yīnwèi yǒu rén shèjìmóuhài nánfāng wáng.
+26 Chī wáng shàn de bì bàihuài tā, tā de jūnduì bì bèi chōng méi, érqiě bèi shā de shén duō.
+27 Zhìyú zhè èr wáng, tāmen xīnhuái è jì, tóngxí shuōhuǎng, jìmóu què bùchéngjiù, yīnwèi dàole dìngqí, shì jiù liǎojié.
+28 `Běifāng wáng bì dài xǔduō cáibǎo huí wǎng běnguó, tā de xīn fǎnduì shèng yuē, rènyì ér xíng, huí dào běndì.
+29 Dàole dìngqí, tā bì fǎnhuí, lái dào nánfāng, hòu yīcì què bùrú qián yīcì.
+30 Yīnwèi <u>jī tí </u>zhàn chuán bì lái gōngjí tā, tā jiù sàngdǎn ér huí, yòu yào nǎohèn shèng yuē, rènyì ér xíng. Tā bì huílái liánluò bèiqì shèng yuē de rén.
+31 Tā bì xīngbīng, zhè bīng bì xièdú shèngdì, jiùshì bǎozhàng, chú diào cháng xiàn de fánjì, shèlì nà xíng huǐhuài kězēng de.
+32 Zuò'è wéibèi shèng yuē de rén, tā bìyòng qiǎo yán gōuyǐn; wéi dú rènshí shén de zi mín, bì gāngqiáng xíngshì.
+33 Mínjiān de zhìhuì rén bì xùnhuì duō rén, rán'ér tāmen duō rì bì dào zài dāo xià, huò bèi huǒshāo, huò bèi lǔlüè qiǎngduó.
+34 Tāmen pū dào de shíhòu, shāo dé fúzhù, què yǒu xǔduō rén yòng chǎnmèi dehuà qīnjìn tāmen.
+35 Zhìhuì rén zhōng yǒuxiē pū dào de, wèi yào áo liàn qíyú de rén, shǐ tāmen qīngjìng jiébái, zhídào mòliǎo, yīnwèi dàole dìngqí, shì jiù liǎojié.
+36 `Wáng bì rènyì ér xíng, zìgāozìdà, chāoguò suǒyǒu de shén, yòu yòng qíyì dehuà gōngjí wàn shén zhī shén. Tā bì xíngshì hēngtōng, zhídào zhǔ de fènnù wán bì, yīn wéi suǒdìng de shì bìrán chéngjiù.
+37 Tā bì bùgù tā liè zǔ de shén, yě bùgù fùnǚ suǒ xiànmù de shén, wúlùn hé shén tā dōu bùgù, yīnwèi tā bì zì dà, gāoguò yīqiè.
+38 Tā dào yào jìng bài bǎozhàng de shén, yòng jīnyín, bǎoshí hàn kě'ài zhī wù jìngfèng tā liè zǔ suǒ bù rènshí de shén.
+39 Tā bì kào wài bāng shén de bāngzhù, gōngpò zuì jiāngù de bǎozhàng. Fán chéngrèn tā de, tā bì jiāng róngyào jiāgěi tāmen, shǐ tāmen guǎnxiá xǔduō rén, yòu wèi huìlù fēn de yú tāmen.
+40 `Dào mòliǎo, nánfāng wáng yào yǔ tā jiāozhàn. Běifāng wáng bìyòng zhàn chē, mǎ bīng hé xǔduō zhàn chuán, shì rú bàofēng lái gōngjí tā, yě bì jìnrù liè guó, rú hóngshuǐ fànlàn.
+41 Yòu bì jìnrù nà róngměi zhī dì, yǒu xǔduō guó jiù bèi qīngfù, dàn <u>yǐ dōng </u>rén,<u>mó yā </u>rén hé yī dàbàn <u>yà mén </u>rén bì tuōlí tā de shǒu.
+42 Tā bì shēnshǒu gōngjí liè guó,<u>āijí </u>de yě bùdé tuōlí.
+43 Tā bì bǎchí <u>āijí </u>de jīnyín cáibǎo hé gè yàng de bǎowù,<u>lǚ bǐ yà </u>rén hé <u>gǔ shí </u>rén dōu bì gēncóng tā.
+44 Dàn cóng dōngfāng hé běifāng bì yǒu xiāoxī rǎoluàn tā, tā jiù dàfā liè nù chūqù, yào jiāng duō rén shā miè jìngjìn.
+45 Tā bì zài huǎ hé róngměi de shèngshān zhōngjiān, shèlì tā rú gōngdiàn de zhàngmù, rán'ér dàole tā de jiéjú, bì wúrén néng bāngzhù tā.
+
+Dì shí'èr zhāng
+
+1 `nà shí, bǎoyòu nǐ běnguó zhī mín de tiānshǐ zhǎng <u>mǐ jiā lēi </u>bì zhàn qǐlái, bìngqiě yǒu dà jiānnán, cóng yǒu guó yǐlái zhídào cǐ shí méiyǒu zhèyàng de. Nǐ běnguó de mín zhōng, fán mínglù zài cè shàng de, bìděi zhěngjiù.
+2 Shuì zài chén'āi zhōng de bì yǒu duō rén fù xǐng, qízhōng yǒu dé yǒngshēng de, yǒu shòu xiūrù yǒngyuǎn bèi zēngwù de.
+3 Zhìhuì rén bì fāguāng, rútóng tiānshàng de guāng; nà shǐ duō rén guī yì de, bì fāguāng rú xīng, zhídào yǒng yǒngyuǎn yuǎn.
+4 <U>dàn yǐ lǐ </u>a, nǐ yào yǐncáng zhè huà, fēngbì zhè shū, zhí dào mò shí. Bì yǒu duō rén láiwǎng bēnpǎo, zhīshì jiù bì zēngzhǎng.'
+5 Wǒ <u>dàn yǐ lǐ </u>guānkàn, jiàn lìng yǒu liǎng gè rén zhànlì, yīgè zài hé zhè biān, yīgè zài hé nà biān.
+6 Yǒu yīgè wèn nà zhàn zài héshuǐ yǐ shàng chuān xì máyī de shuō:`Zhè qíyì de shì dào jǐshí cái yìngyàn ne?'
+7 Wǒ tīngjiàn nà zhàn zài héshuǐ yǐ shàng chuān xì máyī de, xiàng tiān jǔ qǐ zuǒyòushǒu, zhǐzhe huó dào yǒngyuǎn de zhǔ qǐshì shuō:`Yào dào yī zài, èr zài, bàn zǎi, dǎpò shèng mín quánlì de shíhòu, zhè yīqiè shì jiù dōu yìngyànle.'
+8 Wǒ tīngjiàn zhè huà, què bù míngbái, jiù shuō:`Wǒ zhǔ a, zhèxiē shì de jiéjú shì zěnyàng ne?'
+9 Tā shuō:`<U>dàn yǐ lǐ </u>a, nǐ zhǐguǎn qù, yīnwèi zhè huà yǐjīng yǐncáng fēngbì, zhí dào mò shí.
+10 Bì yǒu xǔduō rén shǐ zìjǐ qīngjìng jiébái, qiě bèi áo liàn, dàn è rén réng bì xíng è. Yīqiè è rén dōu bù míngbái, wéi dú zhìhuì rén néng míngbái.
+11 Cóng chú diào cháng xiàn de fánjì, bìng shèlì nà xíng huǐhuài kězēng zhī wù de shíhòu, bì yǒu yīqiān èrbǎi jiǔshí rì.
+12 Děngdào yīqiān sānbǎi sānshíwǔ rì de, nà rén biàn wèi yǒufú!
+13 Nǐ qiě qù děnghòu jiéjú, yīnwèi nǐ bì ānxiē. Dàole mòqí, nǐ bì qǐlái, xiǎngshòu nǐ de fú fen.'
+
+Hé xī ā shū
+
+dì yī zhāng
+
+1 dāng <u>wū xī yǎ </u>,<u>yuē tǎn </u>,<u>yà hā sī </u>,<u>xī xī jiā </u>zuò <u>yóudà </u>wáng,<u>yuē ā shī </u>de érzi <u>yé luóbō'ān </u>zuò <u>yǐsèliè </u>wáng de shíhòu, yēhéhuá dehuà líndào <u>bèi lì </u>de érzi <u>hé xī ā </u>.
+2 Yēhéhuá chūcì yǔ <u>hé xī ā </u>shuōhuà, duì tā shuō:`Nǐ qù qǔ yínfù wèi qī, yě shōu nà cóng yínluàn suǒ shēng de érnǚ, yīnwèi zhè dì dà xíng yínluàn, líqì yēhéhuá.'
+3 Yúshì,<u>hé xī ā </u>qù qǔle <u>dī lā yīn </u>de nǚ'ér <u>gē miè </u>. Zhè fù rén huáiyùn, gěi tā shēngle yīgè er zi.
+4 Yēhéhuá duì <u>hé xī ā </u>shuō:`Gěi tā qǐmíng jiào <u>yé sī liè </u>, yīnwèi zàiguò piàn shí, wǒ bì tǎo <u>yé hù </u>jiā zài <u>yé sī liè </u>shārén liúxuè de zuì, yě bì shǐ <u>yǐsèliè </u>jiā de guó mièjué.
+5 Dào nà rì, wǒ bì zài <u>yé sī liè </u>píngyuán zhéduàn <u>yǐsèliè </u>de gōng.'
+6 <U>gē miè </u>yòu huáiyùn, shēngle yīgè nǚ'ér. Yēhéhuá duì <u>hé xī ā </u>shuō:`Gěi tā qǐmíng jiào <u>luó lù hā mǎ </u>, yīnwèi wǒ bì bù zài liánmǐn <u>yǐsèliè </u>jiā, jué bù shèmiǎn tāmen.
+7 Wǒ què yào liánmǐn <u>yóudà </u>jiā, shǐ tāmen kào yēhéhuá tāmen de shén déjiù, bù shǐ tāmen kào gōng, dāo, zhēngzhàn, mǎpǐ yǔ mǎ bīng déjiù.'
+8 <U>gē miè </u>gěi <u>luó lù hā mǎ </u>duànnǎi yǐhòu, yòu huáiyùn, shēngle yīgè er zi.
+9 Yēhéhuá shuō:`Gěi tā qǐmíng jiào <u>luó ā mǐ </u>, yīnwèi nǐmen bù zuò wǒ de zi mín, wǒ yě bù zuò nǐmen de shén.'
+10 `Rán'ér,<u>yǐsèliè </u>de rénshù bì rú hǎi shā, bùkě liàng, bùkě shǔ. Cóngqián zài shénme dìfāng duì tāmen shuō “nǐmen bùshì wǒ de zi mín”, jiānglái zài nàlǐ bì duì tāmen shuō “nǐmen shì yǒngshēng shén de érzi”.
+11 <U>yóudà </u>rén hé <u>yǐsèliè </u>rén bì yītóng jùjí, wèi zìjǐ lì yīgè shǒulǐng, cóng zhè dìshàngqù, yīnwèi <u>yé sī liè </u>de rìzi bì wéi dà rì.
+
+Dì èr zhāng
+
+1 `nǐmen yào chēng nǐmen de dìxiōng wèi ā mǐ, chēng nǐmen de jiěmèi wèi lù hā mǎ.
+2 `Nǐmen yào yǔ nǐmen de mǔqīn dàdà zhēngbiàn, yīnwèi tā bù shì wǒ de qīzi, wǒ yě bù shì tā de zhàngfū. Jiào tā chú diào liǎn shàng de yín xiàng hé xiōng jiān de yín tài,
+3 miǎndé wǒ bō tā de yīfú, shǐ tā chì tǐ, yǔ cái shēng de shíhòu yīyàng, shǐ tā rú kuàngyě, rú gānhàn zhī dì, yīn kě ér sǐ.
+4 Wǒ bì bù liánmǐn tā de érnǚ, yīnwèi tāmen shì cóng yínluàn ér shēng de.
+5 Tāmen de mǔqīn xíngle yínluàn, huái tāmen de mǔ zuòle kě xiūchǐ de shì, yīnwèi tā shuō:“Wǒ yào suícóng suǒ ài de, wǒ de bǐng, shuǐ, yángmáo, má, yóu, jiǔ dōu shì tāmen gěi de.”
+6 Yīncǐ, wǒ bìyòng jīngjí dǔsè tā de dào, zhú qiáng dǎngzhù tā, shǐ tā zhǎo bùzháo lù.
+7 Tā bì zhuīsuí suǒ ài de què zhuī bù shàng, tā bì xúnzhǎo tāmen què xún bùjiàn, biàn shuō:“Wǒ yào guīhuí qiánfū, yīn wǒ nà shí de guāngjǐng bǐrú jīn hái hǎo.”
+8 `Tā bù zhīdào shì wǒ gěi tā wǔgǔ, xīnjiǔ hé yóu, yòu jiā zēng tā de jīnyín, tā què yǐ cǐ gòngfèng <u>bā lì </u>.
+9 Yīncǐ, dàole shōugē de rìzi, chū jiǔ de shíhòu, wǒ bì jiāng wǒ de wǔgǔ, xīnjiǔ shōuhuí, yě bì jiāng tā yīngdāng zhē tǐ de yángmáo hé má duóhuí lái.
+10 Rú jīn wǒ bì zài tā suǒ ài de yǎnqián xiǎnlù tā de chǒutài, bì wúrén néng jiù tā tuōlí wǒ de shǒu.
+11 Wǒ yě bì shǐ tā de yàn lè, jié qí, yuè shuò, ānxírì, bìng tā de yīqiè dàhuì, dōu zhǐxīle.
+12 Wǒ yě bì huǐhuài tā de pútáo shù hé wúhuāguǒ shù, jiùshì tā shuō “zhè shì wǒ suǒ ài de gěi wǒ wèi shǎngcì” de. Wǒ bì shǐ zhèxiē shù biàn wèi huāng lín, wèi tiányě de zǒushòu suǒ chī.
+13 Wǒ bì zhuī tǎo tā sù rìgěi zhū <u>bā lì </u>shāoxiāng de zuì, nà shí tā pèidài ěrhuán hé bié yàng zhuāngshì, suícóng tā suǒ ài de, què wàngjì wǒ. Zhè shì yēhéhuá shuō de.
+14 `Hòulái wǒ bì quàndǎo tā, lǐng tā dào kuàngyě, duì tā shuō ānwèi dehuà.
+15 Tā cóng nàlǐ chūlái, wǒ bì cì tā pútáo yuán, yòu cì tā <u>yà gē </u>gǔ zuòwéi zhǐwàng de mén. Tā bì zài nàlǐ yìngshēng, yǔ yòunián de rìzi yīyàng, yǔ cóng <u>āijí </u>dìshànglái de shíhòu xiāngtóng.
+16 Yēhéhuá shuō: Nà rì nǐ bì chēnghu wǒ yī shī, bù zài chēnghu wǒ bā lì.
+17 Yīnwèi wǒ bì cóng wǒ mín de kǒuzhōng chú diào zhū <u>bā lì </u>de mínghào, zhè mínghào bù zài tíqǐ.
+18 Dāng nà rì, wǒ bì wèi wǒ de mín, yǔ tiányě de zǒushòu hé kōngzhōng de fēiniǎo bìng dìshàng de kūnchóng lìyuē. Yòu bì zài guó zhōng zhéduàn gōng dāo, zhǐxī zhēngzhàn, shǐ tāmen ānrán tǎng wò.
+19 Wǒ bì pìn nǐ yǒngyuǎn guī wǒ wèi qī, yǐ rényì, gōngpíng, cí'ài, liánmǐn pìn nǐ guī wǒ,
+20 yě yǐ chéngshí pìn nǐ guī wǒ, nǐ jiù bì rènshí wǒ yēhéhuá.
+21 `Yēhéhuá shuō: Nà rì wǒ bì yìngyǔn, wǒ bì yìngyǔn tiān, tiān bì yìngyǔn de,
+22 de bì yìngyǔn wǔgǔ, xīnjiǔ hé yóu, zhèxiē bì yìngyǔn <u>yé sī liè </u>mín.
+23 Wǒ bì jiāng tā zhǒng zài zhè de, sù bù méng liánmǐn de, wǒ bì liánmǐn, běn fēi wǒ mín de, wǒ bì duì tā shuō “nǐ shì wǒ de mín”, tā bì shuō “nǐ shì wǒ de shén”.'
+
+Dì sān zhāng
+
+1 yēhéhuá duì wǒ shuō:`Nǐ zài qù ài yīgè yínfù, jiùshì tā qíngrén suǒ ài de; hǎoxiàng <u>yǐsèliè </u>rén, suīrán piānxiàng bié shén, xǐ'ài pútáo bǐng, yēhéhuá háishì ài tāmen.'
+2 Wǒ biàn yòng yínzi shíwǔ shě kè lēi, dàmài yī hè méi ěr bàn, mǎi tā guī wǒ.
+3 Wǒ duì tā shuō:`Nǐ dāng duō rì wèi wǒ dú jū, bùkě xíng yín, bùkě guī biérén wéi qī, wǒ xiàng nǐ yě bì zhèyàng.'
+4 <U>yǐsèliè </u>rén yě bì duō rì dú jū, wú jūnwáng, wú shǒulǐng, wú jìsì, wú zhù xiàng, wú yǐ fú dé, wú jiāzhōng de shén xiàng.
+5 Hòulái <u>yǐsèliè </u>rén bì guīhuí, xúnqiú tāmen de shén yēhéhuá hé tāmen de wáng <u>dà wèi </u>. Zài mòhòu de rìzi, bì yǐ jìngwèi de xīn guīxiàng yēhéhuá, lǐngshòu tā de ēnhuì.
+
+Dì sì zhāng
+
+1 <u>yǐsèliè </u>rén nǎ, nǐmen dāng tīng yēhéhuá dehuà! Yēhéhuá yǔ zhè dì de jūmín zhēngbiàn:`Yīn zhè dìshàng wú chéngshí, wú liáng shàn, wúrén rènshí shén,
+2 dàn qǐ jiǎ shì, bùjiàn qiányán, shāhài, tōudào, jiānyín, xíng qiángbào, shārén liúxuè jiēlián bù duàn,
+3 yīncǐ zhè de bēi'āi, qí shàng de mín, tiányě de shòu, kōngzhōng de niǎo bì dōu shuāiwéi, hǎizhōng de yú yě bì xiāomiè.
+4 Rán'ér, rén dōu bùbì zhēngbiàn, yě bùbì zhǐzé, yīnwèi zhè mín yǔ kàngjù jìsī de rén yīyàng.
+5 Nǐ zhè jìsī bì rìjiān diédǎo, xiānzhī yě bì yèjiān yǔ nǐ yītóng diédǎo, wǒ bì mièjué nǐ de mǔqīn.
+6 `Wǒ de mín yīn wúzhīshì ér mièwáng. Nǐ qì diào zhī shì, wǒ yě bì qì diào nǐ, shǐ nǐ bù zài gěi wǒ zuò jìsī. Nǐ jì wàngle nǐ shén de lǜ fǎ, wǒ yě bì wàngjì nǐ de érnǚ.
+7 Jìsī yuèfā zēngduō, jiù yuèfā dézuì wǒ, wǒ bì shǐ tāmen de róngyào biàn wèi xiūrù.
+8 Tāmen chī wǒ mín de shúzuì jì, mǎnxīn yuànyì wǒ mín fànzuì.
+9 Jiānglái mín rúhé, jìsī yě bì rúhé, wǒ bì yīn tāmen suǒ xíng de chéngfá tāmen, zhào tāmen suǒ zuò de bàoyìng tāmen.
+10 Tāmen chī què bùdé bǎo, xíng yín ér bùdé lì hòu, yīnwèi tāmen líqì yēhéhuá, bù zūn tā de mìng.
+11 `Jiānyín hé jiǔ bìng xīnjiǔ duó qù rén de xīn.
+12 Wǒ de mín qiú wèn mù'ǒu, yǐwéi mù zhàng néng zhǐshì tāmen. Yīnwèi tāmen de yín xīn shǐ tāmen shī mí, tāmen jiùxíng yín líqì shén, bù shǒu yuēshù.
+13 Zài gè shāndǐng, gè gāogāng de xiàng shù, yáng shù, lìshùzhī xià xiàn jì shāoxiāng, yīnwèi shùyǐng měihǎo. Suǒyǐ, nǐmen de nǚ'ér yínluàn, nǐmen de xīnfù xíng yín.
+14 Nǐmen de nǚ'ér yínluàn, nǐmen de xīnfù xíng yín, wǒ què bùchéngfá tāmen, yīnwèi nǐmen zìjǐ lí qún yǔ chāngjì tóngjū, yǔ jìnǚ yītóng xiàn jì. Zhè wúzhī de mín bì zhì qīngdǎo!
+15 `<U>yǐsèliè </u>a, nǐ suīrán xíng yín,<u>yóudà </u>què bùkě fànzuì. Bùyào wǎng <u>jí jiǎ </u>qù, bùyào shàng dào <u>bó yà wén </u>, yě bùyào zhǐzhe yǒngshēng de yēhéhuá qǐshì.
+16 <U>yǐsèliè </u>jué jiàng, yóurú jué jiàng de mǔ niú, xiànzài yēhéhuá yào fàng tāmen, rútóng fàngyánggāo zài kuānkuò zhī dì.
+17 <U>yǐ fǎlián </u>qīnjìn ǒuxiàng, rènpíng tā ba!
+18 Tāmen suǒ hē de yǐjīng fāsuān, tāmen shícháng xíng yín, tāmen de guān zhǎng zuì'ài xiūchǐ de shì.
+19 Fēng bǎ tāmen guǒ zài chìbǎng lǐ, tāmen yīn suǒ xiàn de jì bì zhì méng xiū.
+
+Dì wǔ zhāng
+
+1 `zhòng jìsī a, yào tīng wǒ dehuà!<U>yǐsèliè </u>jiā a, yào liúxīn tīng! Wáng jiā a, yào cè'ěr ér tīng! Shěnpàn yào líndào nǐmen, yīn nǐmen zài <u>mǐ sī bā </u>rú wǎngluó, zài <u>tā pō </u>shān rú pūzhāng de wǎng.
+2 Zhèxiē bèinì de rén sìxíng shālù, zuìniè jí shēn, wǒ què chìzé tāmen zhòngrén.
+3 <U>yǐ fǎlián </u>wèi wǒ suǒ zhī,<u>yǐsèliè </u>bùnéng xiàng wǒ yǐncáng.<U>yǐ fǎlián </u>nǎ, xiànzài nǐ xíng yínle,<u>yǐsèliè </u>bèi diànwūle.
+4 Tāmen suǒ xíng de shǐ tāmen bùnéng guīxiàng shén, yīn yǒu yín xīn zài tāmen lǐmiàn, tāmen yě bù rènshí yēhéhuá.
+5 <U>yǐsèliè </u>de jiāo'ào dāngmiàn jiànzhèng zìjǐ, gùcǐ,<u>yǐsèliè </u>hé <u>yǐ fǎlián </u>bì yīn zìjǐ de zuìniè diédǎo,<u>yóudà </u>yě bì yǔ tāmen yītóng diédǎo.
+6 Tāmen bì qiānzhe niú yáng qù xúnqiú yēhéhuá què xún bùjiàn, tā yǐjīng zhuàn qù líkāi tāmen.
+7 Tāmen xiàng yēhéhuá xíngshì guǐzhà, shēngle sī zi, dàole yuè shuò tāmen yǔ tāmen dì dì yè bì bèi tūnmiè.
+8 `Nǐmen dāng zài <u>jī bǐ yǎ </u>chuījiǎo, zài <u>lā mǎ </u>chuī hào, zài <u>bó yà wén </u>chuīchū dà shēng, shuō:“<U>biàn yǎ mǐn </u>nǎ, yǒu chóudí zài nǐ hòutou!”
+9 Zài zéfá de rìzi,<u>yǐ fǎlián </u>bì biàn wèi huāng chǎng. Wǒ zài <u>yǐsèliè </u>zhī pài zhōng zhǐshì jiānglái bì chéng de shì.
+10 <U>yóudà </u>de shǒulǐng rútóng nuóyí dìjiè de rén, wǒ bì jiāng fènnù dào zài tāmen shēnshang, rúshuǐ yībān.
+11 <U>yǐ fǎlián </u>yīn lè cóng rén de mìnglìng, jiù shòu qīyā, bèi shěnpàn yā suì.
+12 Wǒ shǐ <u>yǐ fǎlián </u>rú chóng zhù zhī wù, shǐ <u>yóudà </u>jiā rú xiǔlàn zhī mù.
+13 <U>yǐ fǎlián </u>jiàn zìjǐ yǒu bìng,<u>yóudà </u>jiàn zìjǐ yǒu shāng, tāmen jiù dǎfā rén wǎng <u>yà shù </u>qù jiàn <u>yé léi bù </u>wáng, tā què bùnéng yīzhì nǐmen, bùnéng zhì hǎo nǐmen de shāng.
+14 Wǒ bì xiàng <u>yǐ fǎlián </u>rú shīzi, xiàng <u>yóudà </u>jiā rú shàozhuàng shīzi. Wǒ bì sī liè ér qù, wǒ yào duó qù, wúrén dājiù.
+15 `Wǒ yào huí dào yuán chù, děng tāmen zìjué yǒuzuì, xúnqiú wǒ miàn. Tāmen zài jínàn de shíhòu, bì qièqiè xúnqiú wǒ.'
+
+Dì liù zhāng
+
+1 lái ba, wǒmen guīxiàng yēhéhuá! Tā sī liè wǒmen, yě bì yīzhì; tā dǎ shāng wǒmen, yě bì chán guǒ.
+2 Guò liǎng tiān tā bì shǐ wǒmen sūxǐng, dì sān tiān tā bì shǐ wǒmen xīng qǐ, wǒmen jiù zài tā miànqián déyǐ cúnhuó.
+3 Wǒmen wù yào rènshí yēhéhuá, jiélì zhuīqiú rènshí tā. Tā chūxiàn què rú chénguāng, tā bì líndào wǒmen xiàng gān yǔ, xiàng zīrùn tiándì de chūnyǔ.
+4 Zhǔ shuō:`<U>yǐ fǎlián </u>nǎ, wǒ kě xiàng nǐ zěnyàng xíng ne?<U>yóudà </u>a, wǒ kě xiàng nǐ zěnyàng zuò ne? Yīnwèi nǐmen de liáng shàn rútóng zǎochén de yúnwù, yòu rú sù sàn de gānlù.
+5 Yīncǐ, wǒ jí xiānzhī kǎnfá tāmen, yǐ wǒ kǒuzhōng dehuà shālù tāmen, wǒ shīxíng de shěnpàn rú guāng fā chū.
+6 Wǒ xǐ'ài liáng shàn, bù xǐ'ài jìsì; xǐ'ài rènshí shén, shèng yú fánjì.
+7 Tāmen què rú <u>yàdāng </u>bèi yuē, zài jìngnèi xiàng wǒ xíngshì guǐzhà.
+8 <U>jī liè </u>shì zuòniè zhī rén de chéng, bèi xuè zhānrǎn.
+9 Qiángdào chéng qún, zěnyàng máifú shārén, jìsī jié dǎng, yě zhàoyàng zài <u>shì jiàn </u>de lùshàng shālù, xíngle xié'è.
+10 Zài <u>yǐsèliè </u>jiā wǒ jiànle kězēng de shì, zài <u>yǐ fǎlián </u>nàlǐ yǒu yínxíng,<u>yǐsèliè </u>bèi diànwū.
+11 <U>yóudà </u>a, wǒ shǐ bèi lǔ zhī mín guīhuí de shíhòu, bì yǒu wéi nǐ suǒ mìngdìng de shōuchǎng.
+
+Dì qī zhāng
+
+1 `wǒ xiǎng yīzhì <u>yǐsèliè </u>de shíhòu,<u>yǐ fǎlián </u>de zuìniè hé <u>sā mǎlìyǎ </u>de zuì'è jiù xiǎnlù chū lái. Tāmen xíngshì xū huǎng, nèi yǒu zéirén rùshì tōuqiè, wài yǒu qiángdào chéng qún sāorǎo.
+2 Tāmen xīnlǐ bìng bù sīxiǎng wǒ jìniàn tāmen de yīqiè è, tāmen suǒ xíng de xiànzài chánrào tāmen, dōu zài wǒ miànqián.
+3 Tāmen xíng è shǐ jūnwáng huānxǐ, shuōhuǎng shǐ shǒulǐng xǐlè.
+4 Tāmen dōu shì xíng yín de, xiàng huǒlú bèi kǎo bǐng de shāo rè, cóng tuán miàn dào fā miàn de shíhòu, zhàn bú shǐ huǒzhe wàng.
+5 Zài wǒmen wáng yàn lè de rìzi, shǒulǐng yīn jiǔ de lièxìng chéng bìng, wáng yǔ xiè màn rén lāshǒu.
+6 Shǒulǐng máifú de shíhòu, xīnzhōng rè rú huǒlú, jiù rú kǎo bǐng de zhěng yè shuì wò, dàole zǎochén huǒqì yányán.
+7 Zhòng mín yě rè rú huǒlú, shāo miè tāmen de guān zhǎng, tāmen de jūnwáng dōu pū dào ér sǐ. Tāmen zhōngjiān wú yīrén qiúgào wǒ.
+8 `<U>yǐ fǎlián </u>yǔ liè bāngrén chān zá,<u>yǐ fǎlián </u>shì méiyǒu fānguò de bǐng.
+9 Wài bāngrén tūn chī tā láolì dé lái de, tā què bù zhīdào; tóufà bānbái, tā yě bù juédé.
+10 <U>yǐsèliè </u>de jiāo'ào dāngmiàn jiànzhèng zìjǐ, suī zāoyù zhè yīqiè, tāmen réng bù guīxiàng yēhéhuá tāmen de shén, yě bù xúnqiú tā.
+11 <U>yǐ fǎlián </u>hǎoxiàng gēzi yúchǔn wú zhī, tāmen qiúgào <u>āijí </u>, tóubèn <u>yà shù </u>.
+12 Tāmen qù de shíhòu, wǒ bì jiāng wǒ de wǎng sā zài tāmen shēnshang, wǒ yào dǎxià tāmen, rútóng kōngzhōng de niǎo. Wǒ bì àn tāmen huìzhòng suǒ tīngjiàn de chéngfá tāmen.
+13 Tāmen yīn líqì wǒ, bìdìng yǒu huò; yīn wéibèi wǒ, bì bèi huǐmiè. Wǒ suī yào jiùshú tāmen, tāmen què xiàng wǒ shuōhuǎng.
+14 Tāmen bìng bù chéngxīn āiqiú wǒ, nǎi zài chuángshàng hūháo. Tāmen wèi qiú wǔgǔ, xīnjiǔ jùjí, réngrán bèinì wǒ.
+15 Wǒ suī jiàodǎo tāmen, jiāngù tāmen de bǎngbì, tāmen jìng túmóu kàngjù wǒ.
+16 Tāmen guīxiàng, què bù guīxiàng zhìshàng zhě, tāmen rútóng fān bèi de gōng. Tāmen de shǒulǐng bì yīn shétou de kuáng ào dào zài dāo xià, zhè zài <u>āijí </u>de bì zuòrén de jīxiào.
+
+Dì bā zhāng
+
+1 `nǐ yòng kǒu chuījiǎo ba! Dírén rú yīng lái gōngdǎ yēhéhuá de jiā, yīnwèi zhè mín wéibèi wǒ de yuē, gānfàn wǒ de lǜ fǎ.
+2 Tāmen bì hūjiào wǒ shuō:“Wǒ de shén a, wǒmen <u>yǐsèliè </u>rènshí nǐle!”
+3 <U>yǐsèliè </u>diūqì liáng shàn, chóudí bì zhuībī tā.
+4 `Tāmen lì jūnwáng què bùyóu wǒ, tāmen lì shǒulǐng wǒ què bù rèn. Tāmen yòng jīnyín wèi zìjǐ zhìzào ǒuxiàng, yǐzhì bèi jiǎnchú.
+5 <U>sā mǎlìyǎ </u>a, yēhéhuá yǐjīng diūqì nǐ de niúdú, wǒ de nùqì xiàng bài niúdú de rén fāzuò. Tāmen dào jǐshí fāng néng wúzuì ne?
+6 Zhè niúdú chū yú <u>yǐsèliè </u>, shì jiàngrén suǒ zào de, bìng bù shì shén.<U>sā mǎlìyǎ </u>de niúdú bì bèi dǎ suì.
+7 Tāmen suǒ zhǒng de shì fēng, suǒ shōu de shì bàofēng. Suǒ zhǒng de bù chéng hé jià, jiùshì fā miáo yě bù jiēshi, jíbiàn jiēshi, wài bāngrén bì tūn chī.
+8 `<U>yǐsèliè </u>bèi tūn chī, xiànjīn zài liè guó zhōng hǎoxiàng rén bù xǐyuè de qìmǐn.
+9 Tāmen tóubèn <u>yà shù </u>, rú tóng dúxíng de yě lǘ,<u>yǐ fǎlián </u>huì mǎi péngdǎng.
+10 Tāmen suī zài liè bāng zhōng huì mǎi rén, xiànzài wǒ què yào jùjí chéngfá tāmen. Tāmen yīn jūnwáng hé shǒulǐng suǒ jiā de zhòngdàn, rìjiàn shuāiwéi.
+11 `<U>yǐ fǎlián </u>zēngtiān jìtán qǔ zuì, yīncǐ jìtán shǐ tā fànzuì.
+12 Wǒ wèi tā xiěle lǜ fǎ wàn tiáo, tā què yǐwéi yǔ tā háo wúguānshè.
+13 Zhìyú xiàn gěi wǒ de jì wù, tāmen zì shí qí ròu, yēhéhuá què bù yuè nà tāmen. Xiànzài bì jìniàn tāmen de zuìniè, zhuī tǎo tāmen de zuì'è, tāmen bì guīhuí <u>āijí </u>.
+14 <U>yǐsèliè </u>wàngjì zào tā de zhǔ, jiànzào gōngdiàn,<u>yóudà </u>duō zào jiāngù chéng, wǒ què yào jiàng huǒ fénshāo tā de chéng yì, shāo miè qízhōng de gōngdiàn.'
+
+Dì jiǔ zhāng
+
+1 <u>yǐsèliè </u>a, bùyào xiàng wài bāngrén huānxǐ kuàilè, yīnwèi nǐ xíng xiéyín líqì nǐ de shén, zài gè gǔ chǎng shàng rú jìnǚ xǐ'ài shǎngcì.
+2 Gǔ chǎng hé jiǔ zhà dōu bùgòu <u>yǐsèliè </u>rén shǐyòng, xīnjiǔ yě bì quēfá.
+3 Tāmen bì bùdé zhù yēhéhuá dì dì,<u>yǐ fǎlián </u>què yào guīhuí <u>āijí </u>, bì zài <u>yà shù </u>chī bù jiéjìng de shíwù.
+4 Tāmen bì bùdé xiàng yēhéhuá diànjiǔ, jíbiàn diànjiǔ yě bù méng yuè nà. Tāmen de jì wù bì rú jūsāng zhě de shíwù, fán chī de bì bèi diànwū, yīn tāmen de shíwù zhǐ wèi zìjǐ de kǒufù, bì bù fèng rù yēhéhuá de diàn.
+5 Zài dàhuì de rìzi, dào yēhéhuá de jié qí, nǐmen zěnyàng xíng ne?
+6 Kàn nǎ, tāmen táobì zāinàn,<u>āijí </u>rén bì shōuliàn tāmen de shīshǒu,<u>mó fú </u>rén bì zàngmái tāmen de háigǔ. Tāmen yòng yínzi zuò dì měi wù shàng bì zhǎng jílí, tāmen de zhàngpéng zhōng bì shēng jīngjí.
+7 <U>yǐsèliè </u>rén bì zhīdào jiàng fá de rìzi línjìn, bàoyìng de shíhòu lái dào. Mín shuō:`Zuò xiānzhī de shì yúmèi, shòu línggǎn de shì kuángwàng.'Jiē yīn tāmen duōduō zuòniè, dà huái yuànhèn.
+8 <U>yǐ fǎlián </u>céng zuò wǒ shén shǒuwàng de, zhìyú xiānzhī, zài tā yīqiè de dào shàng zuòwéi bǔ niǎo rén de wǎngluó, zài tā shén de jiāzhōng huái yuànhèn.
+9 <U>yǐ fǎlián </u>shēn shēn de bàihuài, rú zài <u>jī bǐ yǎ </u>de rìzi yīyàng. Yēhéhuá bì jìniàn tāmen de zuìniè, zhuī tǎo tāmen de zuì'è.
+10 Zhǔ shuō:`Wǒ yùjiàn <u>yǐsèliè </u>rú pútáo zài kuàngyě, wǒ kànjiàn nǐmen dì liè zǔ rú wúhuāguǒ shù shàng chūnjì chū shú de guǒzi. Tāmen què lái dào <u>bā lì pí ěr </u>zhuān bài nà kě xiūchǐ de, jiù chéng wéi kě zēngwù de, yǔ tāmen suǒ ài de yīyàng.
+11 Zhìyú <u>yǐ fǎlián </u>rén, tāmen de róngyào bì rú niǎo fēi qù, bì bù shēngchǎn, bù huáitāi, bù chéng yùn.
+12 Zòngrán yǎng dà érnǚ, wǒ què bì shǐ tāmen sàng zi, shènzhì bù liú yīgè. Wǒ líqì tāmen, tāmen jiù yǒu huòle.
+13 Wǒ kàn <u>yǐ fǎlián </u>rú <u>tuī luó </u>zāi yú měi dì,<u>yǐ fǎlián </u>què yào jiāng zìjǐ de érnǚ dài chū lái, jiāo yú xíng shālù de rén.'
+14 Yēhéhuá a, qiú nǐ jiāgěi tāmen——jiā shí me ne? Yào shǐ tāmen tāi zhuì rǔ gān!
+15 Yēhéhuá shuō:`Tāmen yīqiè de è shì dōu zài <u>jí jiǎ </u>, wǒ zài nàlǐ zēngwù tāmen. Yīn tāmen suǒ xíng de è, wǒ bì cóng wǒ dì shàng gǎn chū tāmen qù, bù zài lián'ài tāmen. Tāmen de shǒulǐng dōu shì bèinì de.
+16 <U>yǐ fǎlián </u>shòu zéfá, gēnběn kūgān, bì bùnéng jiéguǒ, jí huò shēngchǎn, wǒ bìshā tāmen suǒ shēng de àizǐ.'
+17 Wǒ de shén bì qì jué tāmen, yīnwèi tāmen bù tīngcóng tā, tāmen yě bì piāoliú zài liè guó zhōng.
+
+Dì shí zhāng
+
+1 <u>yǐsèliè </u>shì màoshèng de pútáo shù, jiéguǒ fánduō. Guǒzi yuè duō, jiù yuè zēngtiān jìtán; de tǔ yuè féiměi, jiù yuè zào měilì de zhù xiàng.
+2 Tāmen xīnhuái èr yì, xiànjīn yào dìng wèi yǒuzuì. Yēhéhuá bì chāihuǐ tāmen de jìtán, huǐhuài tāmen de zhù xiàng.
+3 Tāmen bì shuō:`Wǒmen méiyǒu wáng, yīnwèi wǒmen bù jìngwèi yēhéhuá. Wáng néng wéi wǒmen zuò shénme ne?'
+4 Tāmen wèi lìyuē shuō huǎngyán, qǐ jiǎ shì, yīncǐ zāi fá rú kǔ cài zīshēng zài tiánjiān de lí gōu zhōng.
+5 <U>sā mǎlìyǎ </u>de jūmín bì yīn <u>bó yà wén </u>de niúdú jīng kǒng, chóngbài niúdú de mín hé xǐ'ài niúdú de jìsī dōu bì yīn róngyào líkāi tā, wèi tā bēi'āi.
+6 Rén bì jiāng niúdú dài dào <u>yà shù </u>dàngzuò lǐwù, xiàn gěi <u>yé léi bù </u>wáng.<U>yǐ fǎlián </u>bì méng xiū,<u>yǐsèliè </u>bì yīn zìjǐ de jìmóu cánkuì.
+7 Zhìyú <u>sā mǎlìyǎ </u>, tā de wáng bì miè méi, rú shuǐmiàn de mòzi yīyàng.
+8 <U>bó yà wén </u>de qiū tán, jiùshì <u>yǐsèliè </u>qǔ zuì dì dìfāng, bì bèi huǐmiè, jīngjí hé jílí bì zhǎng zài tāmen de jìtán shàng. Tāmen bì duì dàshān shuō `zhēgài wǒmen!', Duì xiǎoshān shuō `dào zài wǒmen shēnshang!'.
+9 `<U>yǐsèliè </u>a, nǐ cóng <u>jī bǐ yǎ </u>de rì zǐ yǐlái shícháng fànzuì. Nǐmen de xiān rén céng zhàn zài nàlǐ, xiànjīn zhù <u>jī bǐ yǎ </u>de rén yǐ wéi gōngjí zuìniè zhī bèi de zhànshì lín bù dào zìjǐ.
+10 Wǒ bì suíyì chéngfá tāmen! Tāmen wèi liǎngyàng de zuì suǒ chán, liè bāng de mín bì jùjí gōngjí tāmen.
+11 <U>yǐ fǎlián </u>shì xùnliáng de mǔ niúdú, xǐ'ài chuài gǔ, wǒ què jiāng è jiā zài tā féiměi de jǐngxiàng shàng. Wǒ yào shǐ <u>yǐ fǎlián </u>lā tào,<u>yóudà </u>bì gēng tián,<u>yǎ gè </u>bì bà dì.
+12 `Nǐmen yào wèi zìjǐ zāizhòng gōngyì, jiù néng shōugē cí'ài. Xiànjīn zhèng shì xúnqiú yēhéhuá de shíhòu, nǐmen yào kāikěn huāngdì, děng tā líndào, shǐ gōngyì rú yǔ jiàng zài nǐmen shēnshang.
+13 Nǐmen gēngzhòng de shì jiān è, shōugē de shì zuìniè, chī de shì huǎnghuà de guǒzi. Yīn nǐ yǐkào zìjǐ de xíngwéi, yǎnglài yǒngshì zhòngduō,
+14 suǒ yǐ zài zhè mín zhōng bì yǒu hòng rǎng zhī shēng, nǐ yīqiè de bǎozhàng bì bèi chāihuǐ, jiù rú <u>shā lēi màn </u>zài zhēngzhàn de rìzi chāihuǐ <u>bó yǎ bǐ lēi </u>, jiāng qízhōng de mǔzǐ yītóng shuāi sǐ.
+15 Yīn tāmen de dà è,<u>bó tè lì </u>bì shǐ nǐmen zāoyù rúcǐ. Dàole límíng,<u>yǐsèliè </u>de wáng bì quánrán mièjué.
+
+Dì shíyī zhāng
+
+1 `<u>yǐsèliè </u>nián yòu de shíhòu, wǒ ài tā, jiù cóng <u>āijí </u>zhào chū wǒ de érzi lái.
+2 Xiānzhī yuèfā zhāohū tāmen, tāmen yuèfā zǒu kāi, xiàng zhū <u>bā lì </u>xiàn jì, gěi diāokè de ǒuxiàng shāoxiāng.
+3 Wǒ yuán jiàodǎo <u>yǐ fǎlián </u>xíngzǒu, yòng bǎngbì bàozhe tāmen, tāmen què bù zhīdào shì wǒ yīzhì tāmen.
+4 Wǒ yòng cí shéng ài suǒ qiānyǐn tāmen, wǒ dài tāmen rú rén fàngsōng niú de liǎng sāi jiábǎn, bǎ liángshí fàng zài tāmen miànqián.
+5 `Tāmen bì bù guīhuí <u>āijí </u>de,<u>yà shù </u>rén què yào zuò tāmen de wáng, yīn tāmen bù kěn guīxiàng wǒ.
+6 Dāojiàn bì líndào tāmen de chéng yì, huǐhuài ménshuān, bǎ rén tūnmiè, dōu yīn tāmen suícóng zìjǐ de jì móu.
+7 Wǒ de mín piān yào bèi dào líkāi wǒ, zhòng xiānzhī suīrán zhāohū tāmen guīxiàng zhìshàng de zhǔ, què wúrén zūnchóng zhǔ.
+8 `<U>yǐ fǎlián </u>nǎ, wǒ zěn néng shěqì nǐ?<U>yǐsèliè </u>a, wǒ zěn néng qì jué nǐ? Wǒ zěn néng shǐ nǐ rú <u>yā mǎ </u>? Zěn néng shǐ nǐ rú <u>xǐ biǎn </u>? Wǒ huíxīnzhuǎnyì, wǒ de lián'ài dàdà fādòng.
+9 Wǒ bì bù fā měngliè de nùqì, yě bù zài huǐmiè <u>yǐ fǎlián </u>, yīn wǒ shì shén, bìngfēi shìrén, shì nǐmen zhōngjiān de shèngzhě, wǒ bì bù zài nù zhōng líndào nǐmen.
+10 Yēhéhuá bì rú shīzi hǒujiào, zi mín bì gēnsuí tā, tā yī hǒu jiào, tāmen jiù cóng xīfāng jísù ér lái.
+11 Tāmen bì rú què niǎo cóng <u>āijí </u>jísù ér lái, yòu rú gēzi cóng <u>yà shù </u>de lái dào, wǒ bì shǐ tāmen zhù zìjǐ de fángwū. Zhè shì yēhéhuá shuō de.
+12 `<U>yǐ fǎlián </u>yòng huǎnghuà,<u>yǐsèliè </u>jiāyòng guǐjì wéirào wǒ,<u>yóudà </u>què kào shén zhǎng quán, xiàng shèngzhě yǒu zhōngxīn.
+
+Dì shí'èr zhāng
+
+1 `<u>yǐ fǎlián </u>chī fēng, qiě zhuīgǎn dōngfēng, shícháng zēngtiān xū huǎng hé qiángbào, yǔ <u>yà shù </u>lìyuē, bǎ yóu sòng dào <u>āijí </u>.
+2 Yēhéhuá yǔ <u>yóudà </u>zhēngbiàn, bì zhào <u>yǎ gè </u>suǒ xíng de chéngfá tā, àn tā suǒ zuò de bàoyìng tā.
+3 Tā zài fù zhōng zhuā zhù gēgē de jiǎo gēn, zhuàngnián de shíhòu yǔ shén jiào lì.
+4 Yǔ tiānshǐ jiào lì, bìngqiě déshèng, kūqì kěnqiú. Zài <u>bó tè lì </u>yùjiàn yēhéhuá,
+5 yēhéhuá wàn jūn zhī shén zài nàlǐ xiǎoyù wǒmen <u>yǐsèliè </u>rén, yēhéhuá shì tā kě jìniàn de míng.
+6 `Suǒ yǐ nǐ dāngguīxiàng nǐ de shén, jǐn shǒu rén'ài, gōngpíng, chángcháng děnghòu nǐ de shén.
+7 `<U>yǐ fǎlián </u>shì shāngrén, shǒu lǐ yǒu guǐzhà de tiānpíng, ài xíng qīpiàn.
+8 <U>yǐ fǎlián </u>shuō:“Wǒ guǒrán chéngle fùzú, déliǎo cáibǎo. Wǒ suǒ láolù dé lái de, rén bì bù jiàn yǒu shé me bùyì, kěsuàn wèi zuì de.”
+9 Zìcóng nǐ chū <u>āijí </u>de yǐlái, wǒ jiùshì yēhéhuá nǐ de shén, wǒ bì shǐ nǐ zài zhù zhàngpéng, rú zài dàhuì de rìzi yīyàng.
+10 Wǒ yǐ xiǎoyù zhòng xiānzhī, bìngqiě jiā zēng mò shì, jí xiānzhī shèlì bǐyù.'
+11 <U>jī liè </u>rén méiyǒu zuìniè ma? Tāmen quánrán shì xūjiǎ de! Rén zài <u>jí jiǎ </u>xiàn niúdú wèi jì, tāmen de jìtán hǎoxiàng tiánjiān lí gōu zhōng de luàn duī.
+12 Cóngqián <u>yǎ gè </u>táo dào <u>yà lán </u>de,<u>yǐsèliè </u>wéi dé qī fúshi rén, wéi dé qī yǔ rén fàng yáng.
+13 Yēhéhuá jí xiānzhī lǐng <u>yǐsèliè </u>cóng <u>āijí </u>shànglái,<u>yǐsèliè </u>yě jí xiānzhī ér dé bǎocún.
+14 <U>yǐ fǎlián </u>dà dà rě dòng zhǔ nù, suǒ yǐ tā liúxuè de zuì bì guī zài tā shēnshang, zhǔ bì jiāng nà yīn <u>yǐ fǎlián </u>suǒ shòu de xiūrù guīhuán tā.
+
+Dì shísān zhāng
+
+1 cóngqián <u>yǐ fǎlián </u>shuōhuà, rén dōu zhàn jīng, tā zài <u>yǐsèliè </u>zhōngjū chù gāowèi, dàn tā zài shìfèng <u>bā lì </u>de shì shàng fànzuì jiù sǐle.
+2 Xiànjīn tāmen zuì shàng jiā zuì, yòng yínzi wèi zìjǐ zhùzào ǒu xiàng, jiùshì zhào zìjǐ de cōngmíng zhìzào, dōu shì jiàngrén de gōngzuò. Yǒu rén lùnshuō:`Xiàn jì de rén kěyǐ xiàng niúdú qīnzuǐ.'
+3 Yīncǐ, tāmen bì rú zǎochén de yúnwù, yòu rú sù sàn de gānlù, xiàng chǎng shàng de kāngbǐ bèi kuáng fēngchuī qù, yòu xiàng yān qì téng yú chuāngwài.
+4 `Zìcóng nǐ chū <u>āijí </u>de yǐlái, wǒ jiùshì yēhéhuá nǐ de shén. Zài wǒ yǐwài, nǐ bù kě rèn shì bié shén, chú wǒ yǐwài bìng méiyǒu jiù zhǔ.
+5 Wǒ céng zài kuàngyě gānhàn zhī dì rènshí nǐ.
+6 Zhèxiē mín zhào wǒ suǒ cì de shíwù déliǎo bǎo zú, jìdé bǎo zú, xīn jiù gāo'ào, wàngjìle wǒ.
+7 Yīncǐ, wǒ xiàng tāmen rú shīzi, yòu rú bào fú zài dào páng.
+8 Wǒ yùjiàn tāmen bì xiàng diū zǎizi de mǔ xióng, sī liè tāmen de xiōngtáng, zài nàlǐ wǒ bì xiàng mǔ shī tūn chī tāmen. Yěshòu bì sī liè tāmen.
+9 `<U>yǐsèliè </u>a, nǐ yǔ wǒ fǎnduì, jiùshì fǎnduì bāngzhù nǐ de, zì qǔ bàihuài.
+10 Nǐ céng qiú wǒ shuō “gěi wǒ lì wáng hé shǒu lǐng”, xiànzài nǐ de wáng zài nǎlǐ ne? Zhìlǐ nǐ de zài nǎlǐ ne? Ràng tā zài nǐ suǒyǒu de chéngzhōng zhěngjiù nǐ ba!
+11 Wǒ zài nùqì zhòng jiāng wáng cì nǐ, yòu zài liè nù zhōng jiàng wáng fèi qù.
+12 <U>yǐ fǎlián </u>de zuìniè bāoguǒ, tā de zuì'è shōucáng.
+13 Chǎnfù de téngtòng bì líndào tā shēnshang, tā shì wú zhìhuì zhīzǐ, dàole chǎn qí bùdāng chíyán.
+14 Wǒ bì jiùshú tāmen tuōlí yīnjiān, jiùshú tāmen tuōlí sǐwáng. Sǐwáng a, nǐ de zāihài zài nǎlǐ ne? Yīnjiān nǎ, nǐ de huǐmiè zài nǎlǐ ne? Zài wǒ yǎnqián jué wú hòuhuǐ zhī shì.
+15 `Tā zài dìxiōng zhōng suīrán màoshèng, bì yǒu dōngfēng guā lái, jiùshì yēhéhuá de fēng cóng kuàngyě shàng lái, tā de quányuán bì gān, tā de yuántóu bì jié, chóudí bì lǔlüè tā suǒ jīxù de yīqiè bǎo qì.
+16 <U>sā mǎlìyǎ </u>bì dāndāng zìjǐ de zuì, yīnwèi bèinì tā de shén. Tā bì dào zài dāo xià, yīnghái bì bèi shuāi sǐ, yùnfù bì bèi pōu kāi.'
+
+Dì shísì zhāng
+
+1 <u>yǐsèliè </u>a, nǐ yào guī xiàng yēhéhuá nǐ de shén! Nǐ shì yīn zìjǐ de zuìniè diédǎole.
+2 Dāngguī xiàng yēhéhuá, yòng yányǔ dǎogào tā shuō:`Qiú nǐ chú jìng zuìniè, yuè nà shànxíng, zhèyàng, wǒmen jiù bǎ zuǐchún de jì dàitì niúdú xiàn shàng.
+3 Wǒmen bù xiàng <u>yà shù </u>qiújiù, bù qí <u>āijí </u>de mǎ, yě bù zài duì wǒmen shǒu suǒ zào de shuō “nǐ shì wǒmen de shén”, yīnwèi gū'ér zài nǐ yēhéhuá nàlǐ dé méng liánmǐn.'
 4 `Wǒ bì yīzhì tāmen bèi dào de bìng, gānxīn ài tāmen, yīnwèi wǒ de nùqì xiàng tāmen zhuǎn xiāo.
 5 Wǒ bì xiàng <u>yǐsèliè </u>rú gānlù, tā bì rú bǎihé huā kāifàng, rú <u>líbānèn </u>de shùmù zhágēn.
 6 Tā de zhītiáo bì yáncháng, tā de rónghuá rú gǎnlǎn shù, tā de xiāngqì rú <u>líbānèn </u>de xiāng bóshù.
 7 Céng zhù zài tā yīn xià de bì guīhuí, fā wàng rú wǔgǔ, kāihuā rú pútáo shù, tā de xiāngqì rú <u>líbānèn </u>de jiǔ.
-8 <U>yǐ fǎlián </u>bì shuō:“Wǒ yǔ ǒuxiàng hái yǒu shé me guānshè ne?” Wǒ yēhéhuá huídá tā, yě bì gùniàn tā. Wǒ rú qīngcuì de sōngshù, nǐ de guǒzi cóng wǒ ér dé.'
-9 Shuí shì zhìhuì rén, kěyǐ míngbái zhèxiē shì; shuí shì tōngdá rén, kěyǐ zhīdào zhè yīqiè. Yīnwèi yēhéhuá de dào shì zhèngzhí de, yìrén bì zài qízhōngxíngzǒu, zuìrén què zài qí shàng diédǎo.
+8 <U>yǐ fǎlián </u>bì shuō:“Wǒ yǔ ǒu xiàng hái yǒu shé me guān shè ne?” Wǒ yēhéhuá huídá tā, yě bì gùniàn tā. Wǒ rú qīngcuì de sōngshù, nǐ de guǒzi cóng wǒ ér dé.'
+9 Shuí shì zhìhuì rén, kěyǐ míngbái zhèxiē shì; shuí shì tōngdá rén, kěyǐ zhīdào zhè yīqiè. Yīnwèi yēhéhuá de dào shì zhèngzhí de, yìrén bì zài qízhōng xíngzǒu, zuìrén què zài qí shàng diédǎo.
 
 Yuē ěr shū
 
